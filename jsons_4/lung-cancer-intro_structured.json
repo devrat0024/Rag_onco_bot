@@ -1,0 +1,101 @@
+{
+    "file_name": "lung-cancer-intro.pdf",
+    "total_pages": 2,
+    "pages_extracted": 2,
+    "pages": [
+        {
+            "page_number": 1,
+            "total_paragraphs": 1,
+            "paragraphs": [
+                {
+                    "paragraph_text": "www.thoracic.org American Thoracic Society PATIENT EDUCATION | INFORMATION SERIES CLIP AND COPY Am J Respir Crit Care Med Vol. 204, P21•P22, 2021 ATS Patient Education Series © 2021 American Thoracic Society What is lung cancer? A lung cancer develops when cells in the lung grow abnormally and form a tumor. This can be seen on chest x•rays or CT (‘CAT’) scans as a nodule or a mass. Lung cancer is far more common in people who have smoked tobacco products. However, it can occur in people who never smoked. Other risk factors for lung cancer include radon, asbestos and second•hand smoke exposure as well as air pollution and genetics (a history of lung cancer in your family). A diagnosis of lung cancer is serious, but treatments have improved enormously in recent years. In general, people with lung cancer do better if diagnosed in early• stage disease, so recognizing lung cancer symptoms is important. However lung cancer can often be present without symptoms, so lung cancer screening is also an important tool to detect lung cancer early in people who are at high•risk. What are the symptoms of lung cancer? Symptoms of lung cancer can vary from person to person. You may have no symptoms at all or you may feel like you have bronchitis or a bad cold that does not get better. Symptoms which should alert you to see your healthcare provider are: a cough that gets worse or does not go away, more trouble breathing (shortness of breath) than usual, coughing up blood, chest pain, hoarse voice, frequent lung infections, feeling tired all the time, weight loss for no known reason, or swelling of your face or arms. Lung cancer is most likely to be cured when detected at an early stage, when it often causes no lung cancer symptoms (asymptomatic). This is why lung cancer screening is important in people who are high risk. Sometimes lung cancer is found when a person has an imaging study done for an unrelated reason. What is lung cancer screening? This is when a healthcare provider looks for lung cancer in people who are at high•risk for lung cancer using a CT scan before symptoms arise. This is similar to programs like breast and bowel cancer screening. A CT scanner takes multiple x•ray pictures of your lungs to create a 3D image. It uses low doses of radiation and shows much more detail than a single chest x•ray. Many research studies have shown these scans detect lung cancer earlier and reduce deaths from lung cancer. Most organizations including the American Thoracic Society (ATS) and the United States Preventive Services Task Force (USPSTF) recommend lung cancer screening for eligible people. To see if you are eligible for lung cancer screening and to learn more see the ATS fact sheet at https://www.thoracic.org/patients/ What are the types of lung cancer? It is important to know what type of lung cancer you have as it is a major factor in the type of treatment you receive. Lung cancers are divided into non•small cell lung cancer (NSCLC) and small cell lung cancer (SCLC). NSCLC is far more common and can be divided into subtypes like squamous cell carcinoma, adenocarcinoma and large cell carcinoma. The names reflect the different types of cells that can be seen in the lung cancer tissue under the microscope. Some patients with NSCLC will also have testing for specific immune markers and DNA changes or “biomarkers to further define the cancer type. SCLC can be divided into SCLC and combined SCLC. SCLC tends to grow more quickly and spreads earlier to other parts of the body. What is lung cancer staging? Lung cancer is staged using the TNM system, which stages the cancer by the size of the tumor in cm (T), whether or not the lymph nodes also have cancer cells (N), and whether or not there is spread of the tumor Lung Cancer If you are thinking about taking part in a lung cancer screening program or have recently been diagnosed with lung cancer you likely have many questions about the disease or what treatment options will be available to you. Lung cancer is a disease that is best treated by a multi•disciplinary healthcare team. This fact sheet provides a general overview of lung cancer. For more about lung cancer prevention, screening, staging and treatment see other ATS fact sheets at www.thoracic.org/patients.",
+                    "total_sentences": 37,
+                    "sentences": [
+                        "www.thoracic.org American Thoracic Society PATIENT EDUCATION | INFORMATION SERIES CLIP AND COPY Am J Respir Crit Care Med Vol.",
+                        "204, P21•P22, 2021 ATS Patient Education Series © 2021 American Thoracic Society What is lung cancer?",
+                        "A lung cancer develops when cells in the lung grow abnormally and form a tumor.",
+                        "This can be seen on chest x•rays or CT (‘CAT’) scans as a nodule or a mass.",
+                        "Lung cancer is far more common in people who have smoked tobacco products.",
+                        "However, it can occur in people who never smoked.",
+                        "Other risk factors for lung cancer include radon, asbestos and second•hand smoke exposure as well as air pollution and genetics (a history of lung cancer in your family).",
+                        "A diagnosis of lung cancer is serious, but treatments have improved enormously in recent years.",
+                        "In general, people with lung cancer do better if diagnosed in early• stage disease, so recognizing lung cancer symptoms is important.",
+                        "However lung cancer can often be present without symptoms, so lung cancer screening is also an important tool to detect lung cancer early in people who are at high•risk.",
+                        "What are the symptoms of lung cancer?",
+                        "Symptoms of lung cancer can vary from person to person.",
+                        "You may have no symptoms at all or you may feel like you have bronchitis or a bad cold that does not get better.",
+                        "Symptoms which should alert you to see your healthcare provider are: a cough that gets worse or does not go away, more trouble breathing (shortness of breath) than usual, coughing up blood, chest pain, hoarse voice, frequent lung infections, feeling tired all the time, weight loss for no known reason, or swelling of your face or arms.",
+                        "Lung cancer is most likely to be cured when detected at an early stage, when it often causes no lung cancer symptoms (asymptomatic).",
+                        "This is why lung cancer screening is important in people who are high risk.",
+                        "Sometimes lung cancer is found when a person has an imaging study done for an unrelated reason.",
+                        "What is lung cancer screening?",
+                        "This is when a healthcare provider looks for lung cancer in people who are at high•risk for lung cancer using a CT scan before symptoms arise.",
+                        "This is similar to programs like breast and bowel cancer screening.",
+                        "A CT scanner takes multiple x•ray pictures of your lungs to create a 3D image.",
+                        "It uses low doses of radiation and shows much more detail than a single chest x•ray.",
+                        "Many research studies have shown these scans detect lung cancer earlier and reduce deaths from lung cancer.",
+                        "Most organizations including the American Thoracic Society (ATS) and the United States Preventive Services Task Force (USPSTF) recommend lung cancer screening for eligible people.",
+                        "To see if you are eligible for lung cancer screening and to learn more see the ATS fact sheet at https://www.thoracic.org/patients/ What are the types of lung cancer?",
+                        "It is important to know what type of lung cancer you have as it is a major factor in the type of treatment you receive.",
+                        "Lung cancers are divided into non•small cell lung cancer (NSCLC) and small cell lung cancer (SCLC).",
+                        "NSCLC is far more common and can be divided into subtypes like squamous cell carcinoma, adenocarcinoma and large cell carcinoma.",
+                        "The names reflect the different types of cells that can be seen in the lung cancer tissue under the microscope.",
+                        "Some patients with NSCLC will also have testing for specific immune markers and DNA changes or “biomarkers to further define the cancer type.",
+                        "SCLC can be divided into SCLC and combined SCLC.",
+                        "SCLC tends to grow more quickly and spreads earlier to other parts of the body.",
+                        "What is lung cancer staging?",
+                        "Lung cancer is staged using the TNM system, which stages the cancer by the size of the tumor in cm (T), whether or not the lymph nodes also have cancer cells (N), and whether or not there is spread of the tumor Lung Cancer If you are thinking about taking part in a lung cancer screening program or have recently been diagnosed with lung cancer you likely have many questions about the disease or what treatment options will be available to you.",
+                        "Lung cancer is a disease that is best treated by a multi•disciplinary healthcare team.",
+                        "This fact sheet provides a general overview of lung cancer.",
+                        "For more about lung cancer prevention, screening, staging and treatment see other ATS fact sheets at www.thoracic.org/patients."
+                    ]
+                }
+            ]
+        },
+        {
+            "page_number": 2,
+            "total_paragraphs": 1,
+            "paragraphs": [
+                {
+                    "paragraph_text": "American Thoracic Society PATIENT EDUCATION | INFORMATION SERIES www.thoracic.org beyond the lungs and lymph nodes, called metastasis (M). Each letter then has a number assigned to it, the larger the number the more advanced the cancer is. This is explained in more detail in the ATS Lung Cancer Staging fact sheet at https://www.thoracic.org/patients/ What does Stage I(1), II(2), III(3) and IV(4) mean? The TNM system helps assign your lung cancer to one of these four stages. These stages are very complicated because they all have sub stages depending on how large the tumor is and where it has spread. Ask your healthcare team to describe your lung cancer in both the TNM and Stage I•IV. Read more about your cancer stage at https://www.thoracic.org/patients/ How is lung cancer treated? The treatment options for lung cancer are complex, in part due to how many effective treatments we have for this disease. In general, these options are refined based on the type and stage of your lung cancer, your preferences, and any other health conditions you may have. Many of the treatments are used in combination either at the same time or one after the other. Lung surgery is offered in people who have early•stage disease where there is a high chance of removing all of the cancer. The cancer, some normal lung tissue and lymph glands (nodes) are removed. This reduces the risk the cancer will come back in the future (recurrence). Sometimes after surgery other treatments are also recommended to reduce this risk. Radiation uses high energy x•rays to damage the cancer cells and cause the tumor to shrink. It is often used in combination with chemotherapy. A special type of highly focused radiation called stereotactic body radiotherapy (SBRT) can be offered instead of surgery in some people. Chemotherapy (drugs that kill fast growing cells including the cancer cells) are commonly used in many different treatment plans. These drugs are usually given through the vein. Immunotherapy (drugs that use your own immune system to kill the cancer) are increasingly being used in a variety of lung cancer subtypes and stages. Biomarker testing will help your healthcare team decide if you are a candidate for this therapy. Targeted therapy (drugs that kill the cancer cells at the DNA level) can also be used to treat lung cancer. These drugs tend to be more selective for cancer cells and are used after biomarker testing. It is important to ask your healthcare provider if you are eligible for biomarker testing. Is it too late to stop smoking? Stopping smoking can improve cancer outcomes at any stage of disease. Stopping smoking may help you heal better if you need surgery, cut down on side effects from systemic therapies like chemotherapy and radiation, and allow these treatments to work better. Smoking cessation may also help you live longer, improve your quality of life, and lower the risk of cancer coming back or you getting a new cancer. See also the ATS fact sheet ‘Smoking Cessation and Cancer’ at www.thoracic.org/patients. Speak to your healthcare provider about taking over the counter and/or prescription medications to help you stop smoking. Helpful links to stop smoking: https://www.cancer.org/healthy/stay•away•from• tobacco/guide•quitting•smoking/nicotine•replacement• therapy.html https://quitnow.net/mve/quitnow OR call 1•800•QUITNOW (1•800•784•8669) Healthcare Provider’s Contact Number: Authors: Suzanne Lareau RN, MS, Christopher Slatore MD, MS, Robert Smyth MD, MSc Reviewers: Hasmeena Kathuria MD, Marianna M. Sockrider MD, DrPH Resources: American Thoracic Society f www.thoracic.org/patients – Lung Cancer Staging – Lung Cancer Screening – Treatment of Early•Stage Non•Small Cell Lung Cancer – Treatment of Advanced Stage Non•Small Cell Lung Cancer – Treatment of Small cell Lung Cancer – Smoking Cessation and Cancer – Palliative Care for People with Respiratory Disease or Critical Illness – Malignant Pleural Effusion American Cancer Society f https://www.cancer.org/cancer/lung•cancer.html Go2 Foundation f https://go2foundation.org/ American Lung Association f https://www.lung.org/lung•health•diseases/lung• disease•lookup/lung•cancer This information is a public service of the American Thoracic Society. The content is for educational purposes only. It should not be used as a substitute for the medical advice of one’s healthcare provider.",
+                    "total_sentences": 33,
+                    "sentences": [
+                        "American Thoracic Society PATIENT EDUCATION | INFORMATION SERIES www.thoracic.org beyond the lungs and lymph nodes, called metastasis (M).",
+                        "Each letter then has a number assigned to it, the larger the number the more advanced the cancer is.",
+                        "This is explained in more detail in the ATS Lung Cancer Staging fact sheet at https://www.thoracic.org/patients/ What does Stage I(1), II(2), III(3) and IV(4) mean?",
+                        "The TNM system helps assign your lung cancer to one of these four stages.",
+                        "These stages are very complicated because they all have sub stages depending on how large the tumor is and where it has spread.",
+                        "Ask your healthcare team to describe your lung cancer in both the TNM and Stage I•IV.",
+                        "Read more about your cancer stage at https://www.thoracic.org/patients/ How is lung cancer treated?",
+                        "The treatment options for lung cancer are complex, in part due to how many effective treatments we have for this disease.",
+                        "In general, these options are refined based on the type and stage of your lung cancer, your preferences, and any other health conditions you may have.",
+                        "Many of the treatments are used in combination either at the same time or one after the other.",
+                        "Lung surgery is offered in people who have early•stage disease where there is a high chance of removing all of the cancer.",
+                        "The cancer, some normal lung tissue and lymph glands (nodes) are removed.",
+                        "This reduces the risk the cancer will come back in the future (recurrence).",
+                        "Sometimes after surgery other treatments are also recommended to reduce this risk.",
+                        "Radiation uses high energy x•rays to damage the cancer cells and cause the tumor to shrink.",
+                        "It is often used in combination with chemotherapy.",
+                        "A special type of highly focused radiation called stereotactic body radiotherapy (SBRT) can be offered instead of surgery in some people.",
+                        "Chemotherapy (drugs that kill fast growing cells including the cancer cells) are commonly used in many different treatment plans.",
+                        "These drugs are usually given through the vein.",
+                        "Immunotherapy (drugs that use your own immune system to kill the cancer) are increasingly being used in a variety of lung cancer subtypes and stages.",
+                        "Biomarker testing will help your healthcare team decide if you are a candidate for this therapy.",
+                        "Targeted therapy (drugs that kill the cancer cells at the DNA level) can also be used to treat lung cancer.",
+                        "These drugs tend to be more selective for cancer cells and are used after biomarker testing.",
+                        "It is important to ask your healthcare provider if you are eligible for biomarker testing.",
+                        "Is it too late to stop smoking?",
+                        "Stopping smoking can improve cancer outcomes at any stage of disease.",
+                        "Stopping smoking may help you heal better if you need surgery, cut down on side effects from systemic therapies like chemotherapy and radiation, and allow these treatments to work better.",
+                        "Smoking cessation may also help you live longer, improve your quality of life, and lower the risk of cancer coming back or you getting a new cancer.",
+                        "See also the ATS fact sheet ‘Smoking Cessation and Cancer’ at www.thoracic.org/patients.",
+                        "Speak to your healthcare provider about taking over the counter and/or prescription medications to help you stop smoking.",
+                        "Helpful links to stop smoking: https://www.cancer.org/healthy/stay•away•from• tobacco/guide•quitting•smoking/nicotine•replacement• therapy.html https://quitnow.net/mve/quitnow OR call 1•800•QUITNOW (1•800•784•8669) Healthcare Provider’s Contact Number: Authors: Suzanne Lareau RN, MS, Christopher Slatore MD, MS, Robert Smyth MD, MSc Reviewers: Hasmeena Kathuria MD, Marianna M. Sockrider MD, DrPH Resources: American Thoracic Society f www.thoracic.org/patients – Lung Cancer Staging – Lung Cancer Screening – Treatment of Early•Stage Non•Small Cell Lung Cancer – Treatment of Advanced Stage Non•Small Cell Lung Cancer – Treatment of Small cell Lung Cancer – Smoking Cessation and Cancer – Palliative Care for People with Respiratory Disease or Critical Illness – Malignant Pleural Effusion American Cancer Society f https://www.cancer.org/cancer/lung•cancer.html Go2 Foundation f https://go2foundation.org/ American Lung Association f https://www.lung.org/lung•health•diseases/lung• disease•lookup/lung•cancer This information is a public service of the American Thoracic Society.",
+                        "The content is for educational purposes only.",
+                        "It should not be used as a substitute for the medical advice of one’s healthcare provider."
+                    ]
+                }
+            ]
+        }
+    ]
+}

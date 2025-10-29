@@ -221,3 +221,4 @@ if __name__ == "__main__":
     q = "How is breast cancer detected?"
     results = hybrid_search(q, alpha=0.6, top_k=3)
     generate_answer(q, results, top_k=2)
+    

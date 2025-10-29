@@ -1,0 +1,544 @@
+{
+    "file_name": "Lung Cancer presentation final.pdf",
+    "total_pages": 40,
+    "pages_extracted": 40,
+    "pages": [
+        {
+            "page_number": 1,
+            "total_paragraphs": 1,
+            "paragraphs": [
+                {
+                    "paragraph_text": "Lung Cancer",
+                    "total_sentences": 1,
+                    "sentences": [
+                        "Lung Cancer"
+                    ]
+                }
+            ]
+        },
+        {
+            "page_number": 2,
+            "total_paragraphs": 1,
+            "paragraphs": [
+                {
+                    "paragraph_text": "Objectives To provide a general overview of lung physiology To explore the types and classifications of lung cancer To provide causes and risk factors of lung cancer To present the signs and symptoms of lung cancer in throughout its progression To explore assessment and diagnostic information of lung cancer To introduce diagnostic staging specific to lung cancer To discuss treatments and side effects of lung cancer To present post•op complications for cases with lung cancer",
+                    "total_sentences": 1,
+                    "sentences": [
+                        "Objectives To provide a general overview of lung physiology To explore the types and classifications of lung cancer To provide causes and risk factors of lung cancer To present the signs and symptoms of lung cancer in throughout its progression To explore assessment and diagnostic information of lung cancer To introduce diagnostic staging specific to lung cancer To discuss treatments and side effects of lung cancer To present post•op complications for cases with lung cancer"
+                    ]
+                }
+            ]
+        },
+        {
+            "page_number": 3,
+            "total_paragraphs": 1,
+            "paragraphs": [
+                {
+                    "paragraph_text": "General Overview of Lung Physiology: Breathing",
+                    "total_sentences": 1,
+                    "sentences": [
+                        "General Overview of Lung Physiology: Breathing"
+                    ]
+                }
+            ]
+        },
+        {
+            "page_number": 4,
+            "total_paragraphs": 1,
+            "paragraphs": [
+                {
+                    "paragraph_text": "Healthy lung tissue",
+                    "total_sentences": 1,
+                    "sentences": [
+                        "Healthy lung tissue"
+                    ]
+                }
+            ]
+        },
+        {
+            "page_number": 5,
+            "total_paragraphs": 1,
+            "paragraphs": [
+                {
+                    "paragraph_text": "Diseased Lung Tissue",
+                    "total_sentences": 1,
+                    "sentences": [
+                        "Diseased Lung Tissue"
+                    ]
+                }
+            ]
+        },
+        {
+            "page_number": 6,
+            "total_paragraphs": 1,
+            "paragraphs": [
+                {
+                    "paragraph_text": "Types of Lung Cancer Two main Types of Lung Cancer: Small Cell Lung Cancer (20•25% of all lung cancers) Non Small Cell Lung Cancer (most common ~80%)",
+                    "total_sentences": 1,
+                    "sentences": [
+                        "Types of Lung Cancer Two main Types of Lung Cancer: Small Cell Lung Cancer (20•25% of all lung cancers) Non Small Cell Lung Cancer (most common ~80%)"
+                    ]
+                }
+            ]
+        },
+        {
+            "page_number": 7,
+            "total_paragraphs": 1,
+            "paragraphs": [
+                {
+                    "paragraph_text": "Small Cell Lung Cancer",
+                    "total_sentences": 1,
+                    "sentences": [
+                        "Small Cell Lung Cancer"
+                    ]
+                }
+            ]
+        },
+        {
+            "page_number": 8,
+            "total_paragraphs": 1,
+            "paragraphs": [
+                {
+                    "paragraph_text": "Non•small cell lung cancer • 1. Squamous cell carcinoma • 2. Adenocarcinoma • 3. Large cell carcinomas",
+                    "total_sentences": 4,
+                    "sentences": [
+                        "Non•small cell lung cancer • 1.",
+                        "Squamous cell carcinoma • 2.",
+                        "Adenocarcinoma • 3.",
+                        "Large cell carcinomas"
+                    ]
+                }
+            ]
+        },
+        {
+            "page_number": 9,
+            "total_paragraphs": 1,
+            "paragraphs": [
+                {
+                    "paragraph_text": "Squamous cell carcinoma • Moderate to poor differentiation • makes up 30•40% of all lung cancers • more common in males • most occur centrally in the large bronchi • Uncommon metastasis that is slow effects the liver, adrenal glands and lymph nodes. • Associated with smoking • Not easily visualized on xray (may delay dx) • Most likely presents as a Pancoasts tumor",
+                    "total_sentences": 2,
+                    "sentences": [
+                        "Squamous cell carcinoma • Moderate to poor differentiation • makes up 30•40% of all lung cancers • more common in males • most occur centrally in the large bronchi • Uncommon metastasis that is slow effects the liver, adrenal glands and lymph nodes.",
+                        "• Associated with smoking • Not easily visualized on xray (may delay dx) • Most likely presents as a Pancoasts tumor"
+                    ]
+                }
+            ]
+        },
+        {
+            "page_number": 10,
+            "total_paragraphs": 1,
+            "paragraphs": [
+                {
+                    "paragraph_text": "Adenocacinoma • Increasing in frequency. Most common type of Lung cancer (40•50% of all lung cancers). • Clearly defined peripheral lesions (RLL lesion) • Glandular appearance under a microscope • Easily seen on a CXR • Can occur in non•smokers • Highly metastatic in nature – Pts present with or develop brain, liver, adrenal or bone metastasis",
+                    "total_sentences": 3,
+                    "sentences": [
+                        "Adenocacinoma • Increasing in frequency.",
+                        "Most common type of Lung cancer (40•50% of all lung cancers).",
+                        "• Clearly defined peripheral lesions (RLL lesion) • Glandular appearance under a microscope • Easily seen on a CXR • Can occur in non•smokers • Highly metastatic in nature – Pts present with or develop brain, liver, adrenal or bone metastasis"
+                    ]
+                }
+            ]
+        },
+        {
+            "page_number": 11,
+            "total_paragraphs": 1,
+            "paragraphs": [
+                {
+                    "paragraph_text": "Large cell carcinomas • makes up 15•20% of all lung cancers • Poorly differentiated cells • Tends to occur in the outer part (periphery) of lung, invading sub•segmental bronchi or larger airways • Metastasis is slow BUT • Early metastasis occurs to the kidney, liver organs as well as the adrenal glands http://www.youtube.com/watch?v=3wzjqbh besI.",
+                    "total_sentences": 1,
+                    "sentences": [
+                        "Large cell carcinomas • makes up 15•20% of all lung cancers • Poorly differentiated cells • Tends to occur in the outer part (periphery) of lung, invading sub•segmental bronchi or larger airways • Metastasis is slow BUT • Early metastasis occurs to the kidney, liver organs as well as the adrenal glands http://www.youtube.com/watch?v=3wzjqbh besI."
+                    ]
+                }
+            ]
+        },
+        {
+            "page_number": 12,
+            "total_paragraphs": 1,
+            "paragraphs": [
+                {
+                    "paragraph_text": "Lung Cancer Re•cap Small Cell Lung Cancer Non•Small•Cell Lung Cancer Squamous cell Adenocarinoma",
+                    "total_sentences": 1,
+                    "sentences": [
+                        "Lung Cancer Re•cap Small Cell Lung Cancer Non•Small•Cell Lung Cancer Squamous cell Adenocarinoma"
+                    ]
+                }
+            ]
+        },
+        {
+            "page_number": 13,
+            "total_paragraphs": 1,
+            "paragraphs": [
+                {
+                    "paragraph_text": "Causes and Risk factors of Lung Cancer",
+                    "total_sentences": 1,
+                    "sentences": [
+                        "Causes and Risk factors of Lung Cancer"
+                    ]
+                }
+            ]
+        },
+        {
+            "page_number": 14,
+            "total_paragraphs": 1,
+            "paragraphs": [
+                {
+                    "paragraph_text": "Signs and Symptoms of Lung Cancer Sometimes lung cancer does not cause any symptoms and is only found in a routine x•ray. If a person with lung cancer does have symptoms, they will depend on the location of the tumour in their lung. It is also imperative to note that the same symptoms can be caused by other conditions, so may not necessarily mean cancer. Therefore it is important to consult a doctor when symptoms are present. Signs and symptoms also depend upon the location, size of the tumor, degree of obstruction and existence of metastases",
+                    "total_sentences": 5,
+                    "sentences": [
+                        "Signs and Symptoms of Lung Cancer Sometimes lung cancer does not cause any symptoms and is only found in a routine x•ray.",
+                        "If a person with lung cancer does have symptoms, they will depend on the location of the tumour in their lung.",
+                        "It is also imperative to note that the same symptoms can be caused by other conditions, so may not necessarily mean cancer.",
+                        "Therefore it is important to consult a doctor when symptoms are present.",
+                        "Signs and symptoms also depend upon the location, size of the tumor, degree of obstruction and existence of metastases"
+                    ]
+                }
+            ]
+        },
+        {
+            "page_number": 15,
+            "total_paragraphs": 1,
+            "paragraphs": [
+                {
+                    "paragraph_text": "Signs and Symptoms of Lung Cancer There are two types of signs and symptoms of lung cancer: ) Localized – involving the lung. ) Generalized – involves other areas throughout the body if the cancer has spread",
+                    "total_sentences": 2,
+                    "sentences": [
+                        "Signs and Symptoms of Lung Cancer There are two types of signs and symptoms of lung cancer: ) Localized – involving the lung. )",
+                        "Generalized – involves other areas throughout the body if the cancer has spread"
+                    ]
+                }
+            ]
+        },
+        {
+            "page_number": 16,
+            "total_paragraphs": 1,
+            "paragraphs": [
+                {
+                    "paragraph_text": "ocalized Signs and Symptoms ugh eathing Problems, SOB, stridor ange in phlegm ng infection, hemoptysis oarseness, Hiccups t loss est Pain and tightness ncoats Syndrome orner’s Syndrome eural Effusion perior Vena Cava Syndrome tigue",
+                    "total_sentences": 1,
+                    "sentences": [
+                        "ocalized Signs and Symptoms ugh eathing Problems, SOB, stridor ange in phlegm ng infection, hemoptysis oarseness, Hiccups t loss est Pain and tightness ncoats Syndrome orner’s Syndrome eural Effusion perior Vena Cava Syndrome tigue"
+                    ]
+                }
+            ]
+        },
+        {
+            "page_number": 17,
+            "total_paragraphs": 1,
+            "paragraphs": [
+                {
+                    "paragraph_text": "Generalized Signs and Symptoms Bone pain Headaches, mental status changes or neurologic findings Abdominal pain, elevated liver function tests, enlarged liver, gastrointestinal disturbances (anorexia, cachexia), jaundice, hepatomegaly r/t liver involvement Weight loss",
+                    "total_sentences": 1,
+                    "sentences": [
+                        "Generalized Signs and Symptoms Bone pain Headaches, mental status changes or neurologic findings Abdominal pain, elevated liver function tests, enlarged liver, gastrointestinal disturbances (anorexia, cachexia), jaundice, hepatomegaly r/t liver involvement Weight loss"
+                    ]
+                }
+            ]
+        },
+        {
+            "page_number": 18,
+            "total_paragraphs": 1,
+            "paragraphs": [
+                {
+                    "paragraph_text": "arly/late Signs and Symptoms Of ung Cancer Early Signs Late signs Cough/chronic cough Bone pain, spinal cord compression Dyspnea Chest pain/tightness Hemoptysis Dysphagia Chest/shoulder pain Head and neck edema Recurring temperature Blurred vision, headaches Recurring respiratory Weakness, anorexia, infections weight•loss, cachexia Pleural effusion",
+                    "total_sentences": 1,
+                    "sentences": [
+                        "arly/late Signs and Symptoms Of ung Cancer Early Signs Late signs Cough/chronic cough Bone pain, spinal cord compression Dyspnea Chest pain/tightness Hemoptysis Dysphagia Chest/shoulder pain Head and neck edema Recurring temperature Blurred vision, headaches Recurring respiratory Weakness, anorexia, infections weight•loss, cachexia Pleural effusion"
+                    ]
+                }
+            ]
+        },
+        {
+            "page_number": 19,
+            "total_paragraphs": 1,
+            "paragraphs": [
+                {
+                    "paragraph_text": "Diagnostic Tests • CXR • CT Scans • MRI • Sputum cytology • Fibreoptic bronchoscopy • Transthoracic fine needle aspiration",
+                    "total_sentences": 1,
+                    "sentences": [
+                        "Diagnostic Tests • CXR • CT Scans • MRI • Sputum cytology • Fibreoptic bronchoscopy • Transthoracic fine needle aspiration"
+                    ]
+                }
+            ]
+        },
+        {
+            "page_number": 20,
+            "total_paragraphs": 1,
+            "paragraphs": [
+                {
+                    "paragraph_text": "aboratory Tests Blood Tests *CBC•to check red/white blood cell & platelets •to check bone marrow and organ function *Blood Chemistry Test•to assess how organs are functioning such as liver and kidney Biopsy•to determine if the tumor is cancer or not •to determine the type of cancer •to determine the grade of cancer (slow or fast)",
+                    "total_sentences": 1,
+                    "sentences": [
+                        "aboratory Tests Blood Tests *CBC•to check red/white blood cell & platelets •to check bone marrow and organ function *Blood Chemistry Test•to assess how organs are functioning such as liver and kidney Biopsy•to determine if the tumor is cancer or not •to determine the type of cancer •to determine the grade of cancer (slow or fast)"
+                    ]
+                }
+            ]
+        },
+        {
+            "page_number": 21,
+            "total_paragraphs": 1,
+            "paragraphs": [
+                {
+                    "paragraph_text": "Biopsy",
+                    "total_sentences": 1,
+                    "sentences": [
+                        "Biopsy"
+                    ]
+                }
+            ]
+        },
+        {
+            "page_number": 22,
+            "total_paragraphs": 1,
+            "paragraphs": [
+                {
+                    "paragraph_text": "ndoscopy Bronchoscopy Mediastinoscopy VATS (video assisted thoracoscopic surgery)",
+                    "total_sentences": 1,
+                    "sentences": [
+                        "ndoscopy Bronchoscopy Mediastinoscopy VATS (video assisted thoracoscopic surgery)"
+                    ]
+                }
+            ]
+        },
+        {
+            "page_number": 23,
+            "total_paragraphs": 1,
+            "paragraphs": [
+                {
+                    "paragraph_text": "Bronchoscopy",
+                    "total_sentences": 1,
+                    "sentences": [
+                        "Bronchoscopy"
+                    ]
+                }
+            ]
+        },
+        {
+            "page_number": 24,
+            "total_paragraphs": 1,
+            "paragraphs": [
+                {
+                    "paragraph_text": "Mediastinoscopy",
+                    "total_sentences": 1,
+                    "sentences": [
+                        "Mediastinoscopy"
+                    ]
+                }
+            ]
+        },
+        {
+            "page_number": 25,
+            "total_paragraphs": 1,
+            "paragraphs": [
+                {
+                    "paragraph_text": "VATS (video assisted horacoscopic surgery)",
+                    "total_sentences": 1,
+                    "sentences": [
+                        "VATS (video assisted horacoscopic surgery)"
+                    ]
+                }
+            ]
+        },
+        {
+            "page_number": 26,
+            "total_paragraphs": 1,
+            "paragraphs": [
+                {
+                    "paragraph_text": "o ursing Management for post ndoscopic procedures onchoscopy Mediastinoscopy VATS nitor V/S; NPO status aintained until return gag reflex. ver up to 101F can be pected afterwards Monitor VS; potential for bleeding, infection and dyspnea; NPO status until return of gag reflex Monitor V/S; potential for bleeding, infection and dyspnea; NPO status until return of gag reflex",
+                    "total_sentences": 2,
+                    "sentences": [
+                        "o ursing Management for post ndoscopic procedures onchoscopy Mediastinoscopy VATS nitor V/S; NPO status aintained until return gag reflex.",
+                        "ver up to 101F can be pected afterwards Monitor VS; potential for bleeding, infection and dyspnea; NPO status until return of gag reflex Monitor V/S; potential for bleeding, infection and dyspnea; NPO status until return of gag reflex"
+                    ]
+                }
+            ]
+        },
+        {
+            "page_number": 27,
+            "total_paragraphs": 1,
+            "paragraphs": [
+                {
+                    "paragraph_text": "ost•op complications for those with lung cancer Airway obstruction, dyspnea, hypoxemia, respiratory failure Anesthesia side effects (N/V) Bleeding (hypotension, cardiogenic shock) Cardiac dysthymias, CHF, fluid overload Fever, sepsis Pneumonia Pneumothorax Pulmonary embolus Wound dehiscence Prolonged hospitalization Death",
+                    "total_sentences": 1,
+                    "sentences": [
+                        "ost•op complications for those with lung cancer Airway obstruction, dyspnea, hypoxemia, respiratory failure Anesthesia side effects (N/V) Bleeding (hypotension, cardiogenic shock) Cardiac dysthymias, CHF, fluid overload Fever, sepsis Pneumonia Pneumothorax Pulmonary embolus Wound dehiscence Prolonged hospitalization Death"
+                    ]
+                }
+            ]
+        },
+        {
+            "page_number": 28,
+            "total_paragraphs": 1,
+            "paragraphs": [
+                {
+                    "paragraph_text": "Nursing pulmonary post•op onsiderations/interventions Positioning in bed, Monitor V/S Prevention of respiratory complications – Early ambulation, DB&C, incentive spirometer, managing dyspnea Prevention of deep vein thrombosis – Early ambulation Pain management Infection control",
+                    "total_sentences": 1,
+                    "sentences": [
+                        "Nursing pulmonary post•op onsiderations/interventions Positioning in bed, Monitor V/S Prevention of respiratory complications – Early ambulation, DB&C, incentive spirometer, managing dyspnea Prevention of deep vein thrombosis – Early ambulation Pain management Infection control"
+                    ]
+                }
+            ]
+        },
+        {
+            "page_number": 29,
+            "total_paragraphs": 1,
+            "paragraphs": [
+                {
+                    "paragraph_text": "ducating the patient Inform the patient what to expect, from administration of anesthesia to thoracotomy and the likely use of chest tubes and a drainage system postoperatively. Tell the patient about the administration of oxygen postoperatively and the possible use of a ventilator. Explain the importance of frequent turning to promote drainage of lung secretions. Instruct the proper use of an incentive spirometry and how to perform diaphragmatic and pursed•lip breathing techniques. Teach the patient to splint the incision site with hands, a pillow or a folded towel to avoid discomfort",
+                    "total_sentences": 5,
+                    "sentences": [
+                        "ducating the patient Inform the patient what to expect, from administration of anesthesia to thoracotomy and the likely use of chest tubes and a drainage system postoperatively.",
+                        "Tell the patient about the administration of oxygen postoperatively and the possible use of a ventilator.",
+                        "Explain the importance of frequent turning to promote drainage of lung secretions.",
+                        "Instruct the proper use of an incentive spirometry and how to perform diaphragmatic and pursed•lip breathing techniques.",
+                        "Teach the patient to splint the incision site with hands, a pillow or a folded towel to avoid discomfort"
+                    ]
+                }
+            ]
+        },
+        {
+            "page_number": 30,
+            "total_paragraphs": 1,
+            "paragraphs": [
+                {
+                    "paragraph_text": "Cancer Staging nical Staging Pathological • Based on the examination of the tissue samples obtained from the based on findings gathered by he doctor primary tumor, nodes or metastasis used to plan the initial therapy • Helpful in planning additional may be modified by additional treatment and follow•up nformation found during pathological examination",
+                    "total_sentences": 1,
+                    "sentences": [
+                        "Cancer Staging nical Staging Pathological • Based on the examination of the tissue samples obtained from the based on findings gathered by he doctor primary tumor, nodes or metastasis used to plan the initial therapy • Helpful in planning additional may be modified by additional treatment and follow•up nformation found during pathological examination"
+                    ]
+                }
+            ]
+        },
+        {
+            "page_number": 31,
+            "total_paragraphs": 1,
+            "paragraphs": [
+                {
+                    "paragraph_text": "Cancer Staging Systems • The most common staging system for lung cancer is the TNM System developed by the International Union Against Cancer (UICC). • Guides best course of treatment • Estimates prognosis • It is only useful in staging NSCLC, when surgery is considered.",
+                    "total_sentences": 2,
+                    "sentences": [
+                        "Cancer Staging Systems • The most common staging system for lung cancer is the TNM System developed by the International Union Against Cancer (UICC).",
+                        "• Guides best course of treatment • Estimates prognosis • It is only useful in staging NSCLC, when surgery is considered."
+                    ]
+                }
+            ]
+        },
+        {
+            "page_number": 32,
+            "total_paragraphs": 1,
+            "paragraphs": [
+                {
+                    "paragraph_text": "MN Staging system for Lung ancer = Tumors : tumor size, (local invasion) = Node : node involvement (size and type) = Metastasis : general involvement in organs and tissues",
+                    "total_sentences": 1,
+                    "sentences": [
+                        "MN Staging system for Lung ancer = Tumors : tumor size, (local invasion) = Node : node involvement (size and type) = Metastasis : general involvement in organs and tissues"
+                    ]
+                }
+            ]
+        },
+        {
+            "page_number": 33,
+            "total_paragraphs": 1,
+            "paragraphs": [
+                {
+                    "paragraph_text": "ung Cancer Staging Continued T: Tx, T0, Tis, T1•T4 (T3­ tumors greater than 7cm, T4 is a tumor of any size) N: N0, N1, N2, N3 M: M0, M1a, M1b",
+                    "total_sentences": 1,
+                    "sentences": [
+                        "ung Cancer Staging Continued T: Tx, T0, Tis, T1•T4 (T3­ tumors greater than 7cm, T4 is a tumor of any size) N: N0, N1, N2, N3 M: M0, M1a, M1b"
+                    ]
+                }
+            ]
+        },
+        {
+            "page_number": 34,
+            "total_paragraphs": 1,
+            "paragraphs": [
+                {
+                    "paragraph_text": "Medical Management The three main cancer treatments are: *surgery (lung resections) *radiation therapy *chemotherapy Other types of treatment that are used to treat certain cancers are hormonal therapy, biological therapy or stem cell transplant.",
+                    "total_sentences": 1,
+                    "sentences": [
+                        "Medical Management The three main cancer treatments are: *surgery (lung resections) *radiation therapy *chemotherapy Other types of treatment that are used to treat certain cancers are hormonal therapy, biological therapy or stem cell transplant."
+                    ]
+                }
+            ]
+        },
+        {
+            "page_number": 35,
+            "total_paragraphs": 1,
+            "paragraphs": [
+                {
+                    "paragraph_text": "Side effects of treatments rgery Radiation Chemotherapy n fatigue Anemia, thrombocytopenia motomas Decreased nutritional intake Fatigue mmorhage Radiodermatitis Alopecia, SOB ered respiratory nction Decreased hematopoietic function Cold, pale k for atelectasis, eumonia, hypoxia Risk for Pneumonitis, esophagitis, cough Tingling k for DVT N/V Irritable Grief Dizzy, weak",
+                    "total_sentences": 1,
+                    "sentences": [
+                        "Side effects of treatments rgery Radiation Chemotherapy n fatigue Anemia, thrombocytopenia motomas Decreased nutritional intake Fatigue mmorhage Radiodermatitis Alopecia, SOB ered respiratory nction Decreased hematopoietic function Cold, pale k for atelectasis, eumonia, hypoxia Risk for Pneumonitis, esophagitis, cough Tingling k for DVT N/V Irritable Grief Dizzy, weak"
+                    ]
+                }
+            ]
+        },
+        {
+            "page_number": 36,
+            "total_paragraphs": 1,
+            "paragraphs": [
+                {
+                    "paragraph_text": "Lung resections Lobectomy: a single lobe of lung is removed Bilobectomy: 2 lobes of the lung are removed (only on R side) Sleeve resection: cancerous lobe is removed and segment of the main bronchus is resected Pneumonectomy: removal of entire lung Segmentectomy: a segment of the lung is removed Wedge resection: removal of a small, pie•shaped area of the segment Chest wall resection with removal of cancerous lung",
+                    "total_sentences": 1,
+                    "sentences": [
+                        "Lung resections Lobectomy: a single lobe of lung is removed Bilobectomy: 2 lobes of the lung are removed (only on R side) Sleeve resection: cancerous lobe is removed and segment of the main bronchus is resected Pneumonectomy: removal of entire lung Segmentectomy: a segment of the lung is removed Wedge resection: removal of a small, pie•shaped area of the segment Chest wall resection with removal of cancerous lung"
+                    ]
+                }
+            ]
+        },
+        {
+            "page_number": 37,
+            "total_paragraphs": 1,
+            "paragraphs": [
+                {
+                    "paragraph_text": "rognostic Factors The best estimate on how a patient will do based on: *type of cancer cells *grade of the cancer *size or location of the tumor *stage of the cancer at the time of diagnosis *age of the person *gender *results of blood or other tests *a persons specific response to treatment *overall health and physical condition",
+                    "total_sentences": 1,
+                    "sentences": [
+                        "rognostic Factors The best estimate on how a patient will do based on: *type of cancer cells *grade of the cancer *size or location of the tumor *stage of the cancer at the time of diagnosis *age of the person *gender *results of blood or other tests *a persons specific response to treatment *overall health and physical condition"
+                    ]
+                }
+            ]
+        },
+        {
+            "page_number": 38,
+            "total_paragraphs": 1,
+            "paragraphs": [
+                {
+                    "paragraph_text": "revention: Primary Avoid the use of tobacco smoke Personal and family hx are important risk factors Know environmental carcinogens that increase risk Chemoprevention: Consuming carotenoids, Vit A, retinoids Vit E, selenium, Vit C, fat",
+                    "total_sentences": 1,
+                    "sentences": [
+                        "revention: Primary Avoid the use of tobacco smoke Personal and family hx are important risk factors Know environmental carcinogens that increase risk Chemoprevention: Consuming carotenoids, Vit A, retinoids Vit E, selenium, Vit C, fat"
+                    ]
+                }
+            ]
+        },
+        {
+            "page_number": 39,
+            "total_paragraphs": 1,
+            "paragraphs": [
+                {
+                    "paragraph_text": "revention: Secondary Aim is to early diagnose high risk populations via screening CXR, MRI, CT scans, sputum cytology",
+                    "total_sentences": 1,
+                    "sentences": [
+                        "revention: Secondary Aim is to early diagnose high risk populations via screening CXR, MRI, CT scans, sputum cytology"
+                    ]
+                }
+            ]
+        },
+        {
+            "page_number": 40,
+            "total_paragraphs": 1,
+            "paragraphs": [
+                {
+                    "paragraph_text": "revention: Tertiary Targeted at people who survived a cancer disease Assists them to retain an optimal level of functioning regardless of their potential debilitating disease",
+                    "total_sentences": 1,
+                    "sentences": [
+                        "revention: Tertiary Targeted at people who survived a cancer disease Assists them to retain an optimal level of functioning regardless of their potential debilitating disease"
+                    ]
+                }
+            ]
+        }
+    ]
+}

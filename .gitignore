@@ -1,1 +1,27 @@
 
+# === Python environment & cache ===
+venv/
+__pycache__/
+*.pyc
+.env
+
+# === Exclude unnecessary big files ===
+*.db
+*.faiss
+*.pkl
+*.pt
+*.bin
+*.zip
+*.tar
+*.gz
+
+# === Include important data ===
+# (DO NOT ignore these)
+!embeddings_biomed/
+!jsons_4/
+!pdfs/
+
+# === Misc ===
+.DS_Store
+logs/
+cache/
