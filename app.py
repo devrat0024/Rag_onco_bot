@@ -1,104 +1,46 @@
+#!/usr/bin/env python3
 # =========================================================
-# 🧠 Medical RAG Streamlit App (Improved Response Formatting)
+# 🌐 Flask Backend for Dr. Nova – Medical Chatbot
+# Author: Devvrat Shukla + GPT-5
 # =========================================================
-import streamlit as st
-import traceback
-from rag import retrieve_context, rag_query, OUTPUT_DIR
 
-# =========================================================
-# 🔧 Streamlit Page Setup
-# =========================================================
-st.set_page_config(page_title="🏥 Medical RAG Assistant", layout="wide")
-st.title("🏥 **Biomedical RAG Assistant**")
-st.markdown("Ask precise questions based on your extracted medical PDFs.")
+from flask import Flask, render_template, request, jsonify
+from rag_query import rag_query
 
-# =========================================================
-# 🧠 Sidebar Controls
-# =========================================================
-st.sidebar.header("🔧 Search Configuration")
+app = Flask(__name__)
 
-search_mode = st.sidebar.radio(
-    "Search Mode:",
-    ["Semantic Search", "Hybrid Search", "Reranked Search"]
-)
+# In-memory chat history
+chat_history = []
 
-top_k = st.sidebar.slider("Top-K Results:", 1, 10, 5)
-st.sidebar.markdown("---")
-st.sidebar.caption("⚙️ Using FAISS + SentenceTransformers backend")
 
-# =========================================================
-# 💬 Query Input
-# =========================================================
-query = st.text_input(
-    "Enter your medical question:",
-    placeholder="e.g., What are the early symptoms of lung cancer?"
-)
+@app.route("/")
+def home():
+    return render_template("index.html")
 
-# =========================================================
-# 🚀 Main Execution
-# =========================================================
-if st.button("🔍 Search & Generate Answer"):
-    if not query.strip():
-        st.warning("Please enter a valid medical question.")
-        st.stop()
 
+@app.route("/chat", methods=["POST"])
+def chat():
     try:
-        # Map UI selection to backend retrieval method
-        method = (
-            "semantic"
-            if search_mode == "Semantic Search"
-            else "reranked"
-            if search_mode == "Reranked Search"
-            else "hybrid"
-        )
+        data = request.get_json()
+        user_input = data.get("message", "").strip()
 
-        # -----------------------------------------------------
-        # STEP 1: Retrieve Context
-        # -----------------------------------------------------
-        with st.spinner("📚 Retrieving relevant context..."):
-            context_chunks, metadata = retrieve_context(query, method=method, top_k=top_k)
+        if not user_input:
+            return jsonify({"response": "Please type something so I can help you."})
 
-        if not context_chunks:
-            st.error("⚠️ No relevant context found. Try rebuilding your FAISS index.")
-            st.stop()
+        chat_history.append({"role": "user", "content": user_input})
 
-        # Display retrieved context nicely
-        st.subheader("📄 Retrieved Medical Context")
-        for i, (chunk, meta) in enumerate(zip(context_chunks, metadata), start=1):
-            with st.expander(f"🧩 Context {i}: {meta['source']} (Page {meta.get('page_number', 'N/A')})"):
-                st.write(chunk[:1000] + ("..." if len(chunk) > 1000 else ""))
+        # Generate answer via RAG pipeline
+        result = rag_query(user_input, retrieval_method="hybrid", top_k=3)
+        response = result.get("answer", "⚠️ Sorry, I couldn’t find a reliable answer right now.")
 
-        # -----------------------------------------------------
-        # STEP 2: Generate Answer
-        # -----------------------------------------------------
-        with st.spinner("🧠 Generating biomedical answer..."):
-            result = rag_query(query, retrieval_method=method, top_k=top_k, verbose=False)
+        chat_history.append({"role": "bot", "content": response})
 
-        # Validate structure
-        if not isinstance(result, dict) or "answer" not in result:
-            raise ValueError("Unexpected response format from RAG backend.")
-
-        # -----------------------------------------------------
-        # STEP 3: Display Answer
-        # -----------------------------------------------------
-        st.subheader("🩺 Final Biomedical Answer")
-        answer = result["answer"].strip() or "⚠️ No valid answer generated."
-        st.success(answer)
-
-        # -----------------------------------------------------
-        # STEP 4: Display Sources
-        # -----------------------------------------------------
-        st.markdown("### 🔗 **Sources Used**")
-        for i, meta in enumerate(metadata, 1):
-            st.markdown(f"**[{i}]** {meta['source']} — Page {meta.get('page_number', 'N/A')}")
+        return jsonify({"response": response})
 
     except Exception as e:
-        st.error("❌ Error while generating answer. Check backend logs.")
-        with st.expander("Show error details"):
-            st.code(traceback.format_exc())
+        print("❌ Chat route error:", e)
+        return jsonify({"response": "⚠️ Internal server error. Please try again."})
 
-# =========================================================
-# 🧾 Footer
-# =========================================================
-st.markdown("---")
-st.caption("Built with 🧬 Biomedical RAG | FAISS + Transformers + Streamlit")
+
+if __name__ == "__main__":
+    app.run(debug=True, host="127.0.0.1", port=5000)

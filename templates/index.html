@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dr. Nova – Medical Chatbot</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="chat-wrapper">
+        <header>💬 Dr. Nova – Medical Chatbot</header>
+
+        <div class="chat-box" id="chat-box"></div>
+
+        <div class="input-bar">
+            <input type="text" id="user-input" placeholder="Type your medical question..." autofocus>
+            <button id="send-btn">➤</button>
+        </div>
+    </div>
+
+    <script>
+        const chatBox = document.getElementById("chat-box");
+        const input = document.getElementById("user-input");
+        const sendBtn = document.getElementById("send-btn");
+
+        function scrollToBottom() {
+            chatBox.scrollTop = chatBox.scrollHeight;
+        }
+
+        function appendMessage(role, text) {
+            const div = document.createElement("div");
+            div.className = "message " + role;
+            div.textContent = text;
+            chatBox.appendChild(div);
+            scrollToBottom();
+        }
+
+        async function sendMessage() {
+            const message = input.value.trim();
+            if (!message) return;
+
+            appendMessage("user", message);
+            input.value = "";
+
+            try {
+                const res = await fetch("/chat", {  // ✅ Fixed endpoint
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({ message })
+                });
+
+                if (!res.ok) {
+                    appendMessage("bot", "⚠️ Server error. Please try again.");
+                    return;
+                }
+
+                const data = await res.json();
+                if (data.response) {
+                    appendMessage("bot", data.response);
+                } else {
+                    appendMessage("bot", "⚠️ Error: Empty response received.");
+                }
+            } catch (err) {
+                console.error("Error:", err);
+                appendMessage("bot", "⚠️ Connection error. Please check your backend.");
+            }
+        }
+
+        sendBtn.addEventListener("click", sendMessage);
+        input.addEventListener("keydown", e => {
+            if (e.key === "Enter") sendMessage();
+        });
+    </script>
+</body>
+</html>
