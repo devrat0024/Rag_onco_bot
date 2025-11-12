@@ -1,0 +1,469 @@
+{
+  "gender_based_lung_cancer_questions_males": [
+    {
+      "id": 1,
+      "question": "Why do men have higher incidence rates of lung cancer compared to women?",
+      "answers": [
+        "Historical smoking patterns: Men historically started smoking earlier, smoked more heavily, and had higher smoking prevalence rates throughout the 20th century.",
+        "Occupational exposures: Men are overrepresented in high-risk occupations with carcinogen exposure like construction, mining, and manufacturing.",
+        "Delayed smoking cessation: Men were slower to quit smoking during public health anti-smoking campaigns, maintaining higher risk for longer periods."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Are there biological differences in how lung cancer develops in men?",
+      "answers": [
+        "Hormonal influences: Testosterone may promote lung cancer development while estrogen might be protective, creating biological disadvantage for men.",
+        "Metabolic differences: Men may metabolize tobacco carcinogens differently, leading to more DNA damage and higher mutation rates.",
+        "Genetic susceptibility: Certain genetic polymorphisms in carcinogen-metabolizing enzymes are more common in men and increase lung cancer risk."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "How does lung cancer presentation differ in men compared to women?",
+      "answers": [
+        "Histological differences: Men more frequently develop squamous cell carcinoma, while women have higher rates of adenocarcinoma.",
+        "Symptom reporting: Men often delay reporting symptoms like persistent cough or shortness of breath, leading to later stage diagnosis.",
+        "Tumor location: Male-predominant smoking patterns lead to more central tumors near major airways compared to peripheral tumors in women."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What occupational exposures uniquely affect men's lung cancer risk?",
+      "answers": [
+        "Asbestos exposure: Men comprise 80-90% of occupational asbestos exposures from construction, shipbuilding, and industrial work.",
+        "Heavy metal exposure: Mining, welding, and manufacturing jobs expose men to chromium, cadmium, and nickel compounds.",
+        "Diesel exhaust: Trucking, construction, and railroad industries expose men to high levels of diesel exhaust particulates."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "How do smoking patterns differ between men and women?",
+      "answers": [
+        "Intensity and duration: Men typically smoke more cigarettes per day for more years, creating greater cumulative tobacco exposure.",
+        "Smoking topography: Men tend to take larger puffs and inhale more deeply, delivering higher carcinogen doses to lung tissue.",
+        "Tobacco product preferences: Men are more likely to smoke cigars, pipes, and use smokeless tobacco in addition to cigarettes."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What are the psychological barriers to lung cancer screening in men?",
+      "answers": [
+        "Invincibility mindset: Many men perceive themselves as less vulnerable to health threats, delaying preventive care.",
+        "Fear of diagnosis: Avoidance of screening due to anxiety about potential bad news and treatment consequences.",
+        "Stigma perception: Men may feel greater shame about 'self-inflicted' smoking-related disease, reducing screening participation."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "How does masculinity norms affect men's help-seeking for lung symptoms?",
+      "answers": [
+        "Stoicism culture: Socialization to endure pain and discomfort without complaint leads to symptom normalization and delay.",
+        "Self-reliance attitudes: Preference for handling health issues independently rather than seeking professional help.",
+        "Work priority mindset: Placing job responsibilities above health concerns, ignoring symptoms to maintain work attendance."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What are the gender differences in treatment side effect experiences?",
+      "answers": [
+        "Cardiac toxicity: Men may experience different patterns of chemotherapy-related heart damage due to biological differences.",
+        "Sexual dysfunction: Treatments can cause unique issues like erectile dysfunction that are often under-discussed in male patients.",
+        "Weight loss patterns: Men may experience more severe cancer cachexia (muscle wasting) with different metabolic consequences."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "How does lung cancer affect men's role identity and self-worth?",
+      "answers": [
+        "Provider role disruption: Inability to work challenges traditional masculine identity as family breadwinner.",
+        "Physical strength loss: Treatment-related fatigue and weakness undermines masculine identity tied to physical capability.",
+        "Independence threat: Needing care from others conflicts with masculine values of self-sufficiency and autonomy."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What are the communication challenges with male lung cancer patients?",
+      "answers": [
+        "Emotional expression barriers: Men often struggle to discuss fears, anxieties, and emotional distress about their diagnosis.",
+        "Symptom under-reporting: Tendency to minimize symptoms and treatment side effects during medical consultations.",
+        "Information-seeking style: Men typically ask fewer questions and seek less detailed information than female patients."
+      ]
+    },
+    {
+      "id": 11,
+      "question": "How does socioeconomic status affect men's lung cancer outcomes?",
+      "answers": [
+        "Blue-collar employment: Men in manual labor jobs often lack paid sick leave and health insurance, delaying treatment.",
+        "Educational disparities: Lower health literacy among some male populations affects understanding of treatment options.",
+        "Rural access barriers: Men in rural areas face transportation challenges and limited access to specialized cancer centers."
+      ]
+    },
+    {
+      "id": 12,
+      "question": "What are the unique rehabilitation needs for male lung cancer patients?",
+      "answers": [
+        "Occupational retraining: Need for vocational rehabilitation when returning to physically demanding jobs is impossible.",
+        "Physical activity preservation: Strategies to maintain muscle mass and physical function important to male identity.",
+        "Pulmonary rehabilitation: Gender-specific approaches to exercise training and breathing retraining."
+      ]
+    },
+    {
+      "id": 13,
+      "question": "How does age affect lung cancer risk and presentation in men?",
+      "answers": [
+        "Younger onset: Men develop lung cancer at slightly younger ages than women with similar smoking histories.",
+        "Elderly considerations: Older men often have more comorbidities that complicate treatment decisions and tolerance.",
+        "Screening age thresholds: Current screening guidelines may miss younger male smokers with aggressive disease."
+      ]
+    },
+    {
+      "id": 14,
+      "question": "What are the racial disparities in male lung cancer?",
+      "answers": [
+        "African American men: Higher incidence and mortality rates despite similar smoking rates, suggesting biological and access disparities.",
+        "Genetic susceptibility: Certain racial groups show different frequencies of genetic variants affecting lung cancer risk.",
+        "Access to care: Minority men face greater barriers to screening, specialized care, and clinical trial participation."
+      ]
+    },
+    {
+      "id": 15,
+      "question": "How do comorbid conditions affect male lung cancer patients?",
+      "answers": [
+        "Cardiovascular disease: Higher rates of heart disease in men can limit treatment options and increase complications.",
+        "COPD overlap: Male smokers often have more severe COPD, complicating lung cancer diagnosis and management.",
+        "Substance use: Higher rates of alcohol and other substance use can affect treatment adherence and outcomes."
+      ]
+    },
+    {
+      "id": 16,
+      "question": "What are the smoking cessation challenges for male patients?",
+      "answers": [
+        "Social smoking contexts: Workplace and social environments that reinforce smoking behavior are more common for men.",
+        "Stress coping mechanism: Men are more likely to use smoking as primary stress management strategy.",
+        "Cessation aid utilization: Men are less likely to use smoking cessation resources and support services."
+      ]
+    },
+    {
+      "id": 17,
+      "question": "How does military service affect men's lung cancer risk?",
+      "answers": [
+        "Historical exposures: Vietnam-era veterans exposed to Agent Orange and other herbicides have elevated lung cancer risk.",
+        "Burn pit exposure: Recent conflicts exposed service members to toxic combustion products from waste burning.",
+        "Asbestos in ships and buildings: Military service in certain eras and roles involved significant asbestos exposure."
+      ]
+    },
+    {
+      "id": 18,
+      "question": "What are the financial toxicity aspects unique to men?",
+      "answers": [
+        "Income loss impact: As primary earners in many families, men's inability to work creates severe financial stress.",
+        "Insurance through employment: Job loss due to illness means losing health insurance simultaneously with income.",
+        "Early retirement penalties: Forced early retirement reduces Social Security and pension benefits permanently."
+      ]
+    },
+    {
+      "id": 19,
+      "question": "How does lung cancer affect male sexual health and relationships?",
+      "answers": [
+        "Libido changes: Treatment side effects and psychological factors significantly reduce sexual desire in male patients.",
+        "Relationship role changes: Shift from caregiver to care-receiver creates relationship dynamics that affect intimacy.",
+        "Communication barriers: Men often avoid discussing sexual concerns with partners and healthcare providers."
+      ]
+    },
+    {
+      "id": 20,
+      "question": "What are the screening participation barriers for high-risk men?",
+      "answers": [
+        "Logistical challenges: Difficulty taking time off work for screening appointments and follow-up scans.",
+        "Fear of results: Anxiety about CT scan findings leads to avoidance of screening despite known risk.",
+        "Perceived inevitability: Belief that lung cancer is unavoidable given smoking history reduces motivation for screening."
+      ]
+    },
+    {
+      "id": 21,
+      "question": "How does histology type affect treatment response in men?",
+      "answers": [
+        "Squamous cell predominance: More common in men, often less responsive to newer targeted therapies than adenocarcinoma.",
+        "Molecular marker differences: Men have different frequencies of targetable mutations like EGFR and ALK.",
+        "Immunotherapy response: Emerging evidence suggests sex differences in response to immune checkpoint inhibitors."
+      ]
+    },
+    {
+      "id": 22,
+      "question": "What are the mental health challenges for male lung cancer patients?",
+      "answers": [
+        "Depression underdiagnosis: Male depression often presents as anger or irritability, leading to missed diagnosis.",
+        "Substance self-medication: Higher risk of using alcohol or other substances to cope with emotional distress.",
+        "Suicide risk: Men with lung cancer have among the highest suicide rates of any cancer diagnosis."
+      ]
+    },
+    {
+      "id": 23,
+      "question": "How does caregiver gender dynamics affect male patients?",
+      "answers": [
+        "Spousal caregiving: Male patients often receive care from female spouses with different communication styles.",
+        "Resistance to care: Struggle accepting help with personal care tasks from female caregivers.",
+        "Family role reversal: Adult children providing care challenges traditional father-child relationships."
+      ]
+    },
+    {
+      "id": 24,
+      "question": "What are the occupational rehabilitation needs?",
+      "answers": [
+        "Workplace accommodations: Need for modified duties and flexible scheduling for men returning to work.",
+        "Vocational retraining: Programs to transition from physical labor to less demanding occupations.",
+        "Disability navigation: Assistance with disability claims and workplace rights during treatment."
+      ]
+    },
+    {
+      "id": 25,
+      "question": "How does social isolation affect male lung cancer outcomes?",
+      "answers": [
+        "Friendship networks: Men often have smaller, activity-based social networks that dissolve when they can't participate.",
+        "Support group reluctance: Lower participation in cancer support groups due to gender composition and discussion styles.",
+        "Loneliness impact: Social isolation correlates with poorer treatment adherence and worse quality of life."
+      ]
+    },
+    {
+      "id": 26,
+      "question": "What are the nutritional considerations for male patients?",
+      "answers": [
+        "Muscle mass preservation: Higher lean body mass requires different nutritional strategies to prevent cachexia.",
+        "Metabolic rate: Generally higher basal metabolic rates in men affect caloric and protein requirements.",
+        "Cooking dependence: Many older men rely on spouses for meal preparation, complicating dietary changes."
+      ]
+    },
+    {
+      "id": 27,
+      "question": "How does treatment decision-making differ for men?",
+      "answers": [
+        "Risk tolerance: Men often prefer aggressive treatment even with significant side effect risks.",
+        "Information processing: Typically want less detailed information and faster decision-making timelines.",
+        "Family involvement: Often defer to family members in complex treatment decisions while maintaining final say."
+      ]
+    },
+    {
+      "id": 28,
+      "question": "What are the exercise and physical activity challenges?",
+      "answers": [
+        "Activity identity disruption: Men who defined themselves through sports or physical hobbies struggle with limitations.",
+        "Pulmonary limitations: Dyspnea (shortness of breath) prevents participation in previously enjoyed activities.",
+        "Exercise prescription: Need for gender-appropriate exercise programs that account for male preferences and goals."
+      ]
+    },
+    {
+      "id": 29,
+      "question": "How does lung cancer stigma affect men differently?",
+      "answers": [
+        "Self-blame intensity: Men often experience stronger feelings of responsibility for their disease due to smoking.",
+        "Social judgment: Perceive more stigma and blame from healthcare providers and the public.",
+        "Internalized shame: Leads to treatment delays and concealment of diagnosis from friends and colleagues."
+      ]
+    },
+    {
+      "id": 30,
+      "question": "What are the survivorship care planning gaps for men?",
+      "answers": [
+        "Follow-up adherence: Men are less likely to attend long-term follow-up appointments after active treatment.",
+        "Late effect management: Under-treatment of chronic pain, fatigue, and other long-term consequences.",
+        "Surveillance scanning: Higher rates of missed surveillance imaging appointments among male survivors."
+      ]
+    },
+    {
+      "id": 31,
+      "question": "How does marital status affect male lung cancer outcomes?",
+      "answers": [
+        "Protective marriage effect: Married men have better survival outcomes, possibly due to social support and care coordination.",
+        "Single men challenges: Lack of consistent caregiver support complicates treatment adherence and symptom management.",
+        "Widower vulnerability: Recently widowed men have particularly poor outcomes due to grief and lost support."
+      ]
+    },
+    {
+      "id": 32,
+      "question": "What are the cognitive and neurological impacts on men?",
+      "answers": [
+        "Chemo brain differences: Men may experience and report cognitive changes differently than women.",
+        "Return to work challenges: Cognitive deficits particularly affect men in skilled trades and technical fields.",
+        "Driving safety: Treatment effects on cognition and reaction time impact driving ability important to male independence."
+      ]
+    },
+    {
+      "id": 33,
+      "question": "How does rural vs urban residence affect male patients?",
+      "answers": [
+        "Travel burden: Rural men face long distances to cancer centers, affecting treatment frequency and intensity.",
+        "Agricultural exposures: Farm workers have unique pesticide and organic dust exposures affecting lung cancer risk.",
+        "Local support systems: Rural communities often have stronger informal support networks but fewer professional resources."
+      ]
+    },
+    {
+      "id": 34,
+      "question": "What are the spiritual and existential concerns for men?",
+      "answers": [
+        "Meaning-making approaches: Men often find meaning through legacy projects and practical accomplishments.",
+        "Religious participation: Typically lower religious service attendance but similar levels of spiritual concern.",
+        "End-of-life planning: Resistance to discussing advance directives and palliative care options."
+      ]
+    },
+    {
+      "id": 35,
+      "question": "How does lung cancer affect fatherhood roles?",
+      "answers": [
+        "Young fathers: Balancing treatment with childcare responsibilities creates unique stressors.",
+        "Legacy concerns: Anxiety about not seeing children grow up and missing important milestones.",
+        "Communication with children: Struggle discussing illness with children while maintaining protective father role."
+      ]
+    },
+    {
+      "id": 36,
+      "question": "What are the immunotherapy response differences in men?",
+      "answers": [
+        "Immune system variations: Sex-based differences in immune function may affect response to checkpoint inhibitors.",
+        "Side effect profiles: Men may experience different immune-related adverse events than women.",
+        "Combination therapy efficacy: Potential differences in response to immunotherapy combined with chemotherapy."
+      ]
+    },
+    {
+      "id": 37,
+      "question": "How does socioeconomic mobility affect risk perception?",
+      "answers": [
+        "Upward mobility narratives: Men who escaped poverty through blue-collar work may minimize occupational risks.",
+        "Economic pressure: Financial responsibilities prevent job changes despite known hazardous exposures.",
+        "Health trade-offs: Willingness to accept health risks for higher wages in dangerous occupations."
+      ]
+    },
+    {
+      "id": 38,
+      "question": "What are the complementary therapy usage patterns in men?",
+      "answers": [
+        "Lower utilization: Men are less likely to use complementary therapies alongside conventional treatment.",
+        "Preference for active therapies: Favor physical therapies like massage over meditation or mindfulness.",
+        "Communication gaps: Often don't disclose complementary therapy use to oncology team."
+      ]
+    },
+    {
+      "id": 39,
+      "question": "How does lung cancer affect male friendship networks?",
+      "answers": [
+        "Activity-based friendships: Relationships built around sports or hobbies dissolve when participation becomes impossible.",
+        "Communication style changes: Difficulty maintaining friendships when traditional topics (work, sports) are no longer relevant.",
+        "Social withdrawal: Embarrassment about symptoms like coughing fits leads to avoidance of social situations."
+      ]
+    },
+    {
+      "id": 40,
+      "question": "What are the weight and body image concerns for men?",
+      "answers": [
+        "Muscle loss anxiety: Cachexia-related muscle wasting particularly distressing to male body image.",
+        "Strength identity: Loss of physical strength challenges core aspects of masculine identity.",
+        "Weight monitoring: Resistance to regular weighing and nutritional monitoring seen as feminine concerns."
+      ]
+    },
+    {
+      "id": 41,
+      "question": "How does treatment affect men's sleep patterns?",
+      "answers": [
+        "Pain-related insomnia: Often under-treated pain leads to chronic sleep disruption.",
+        "Sleep apnea interactions: Higher rates of pre-existing sleep apnea complicate cancer-related fatigue.",
+        "Caregiver sleep disruption: Being cared for by spouse disrupts established sleep routines and privacy."
+      ]
+    },
+    {
+      "id": 42,
+      "question": "What are the transportation and mobility challenges?",
+      "answers": [
+        "Driving independence: Loss of ability to drive due to symptoms or treatment effects severely impacts autonomy.",
+        "Public transportation reluctance: Resistance to using public transit or ride services due to self-reliance values.",
+        "Rural transportation gaps: Limited options in rural areas particularly affect male patients' access to care."
+      ]
+    },
+    {
+      "id": 43,
+      "question": "How does lung cancer affect men's retirement planning?",
+      "answers": [
+        "Forced early retirement: Treatment side effects prevent continued work, accelerating retirement timeline.",
+        "Pension impacts: Early retirement reduces lifetime pension and Social Security benefits.",
+        "Legacy planning: Urgency to complete financial and estate planning while still able."
+      ]
+    },
+    {
+      "id": 44,
+      "question": "What are the digital health engagement patterns in men?",
+      "answers": [
+        "Technology comfort: Generally comfortable with technology but less engaged with health apps and portals.",
+        "Online information seeking: Prefer brief, factual information over emotional support or community forums.",
+        "Telemedicine acceptance: Mixed responses to virtual visits depending on technological literacy and privacy concerns."
+      ]
+    },
+    {
+      "id": 45,
+      "question": "How does cultural background affect male patient experiences?",
+      "answers": [
+        "Cultural masculinity norms: Different cultural expectations about male stoicism and emotional expression.",
+        "Family decision-making: Cultural variations in how much autonomy male patients maintain in treatment decisions.",
+        "Traditional healing practices: Use of traditional remedies alongside conventional treatment."
+      ]
+    },
+    {
+      "id": 46,
+      "question": "What are the financial planning needs for male patients?",
+      "answers": [
+        "Income replacement strategies: Planning for lost wages during treatment and potential permanent disability.",
+        "Medical debt management: Navigating complex insurance systems and mounting medical bills.",
+        "Family protection: Ensuring family financial security through life insurance and estate planning."
+      ]
+    },
+    {
+      "id": 47,
+      "question": "How does lung cancer affect male patients' social media use?",
+      "answers": [
+        "Privacy preferences: Greater reluctance to share health information on social media platforms.",
+        "Information consumption: More likely to use social media for medical information than emotional support.",
+        "Selective disclosure: Sharing diagnosis with limited circles while maintaining public normalcy."
+      ]
+    },
+    {
+      "id": 48,
+      "question": "What are the palliative care acceptance barriers for men?",
+      "answers": [
+        "Treatment failure perception: Viewing palliative care as 'giving up' rather than additional support.",
+        "Symptom minimization: Under-reporting pain and other symptoms that would trigger palliative referrals.",
+        "Communication avoidance: Reluctance to discuss prognosis and end-of-life preferences."
+      ]
+    },
+    {
+      "id": 49,
+      "question": "How does lung cancer affect men's community involvement?",
+      "answers": [
+        "Volunteer role loss: Inability to maintain volunteer positions in community organizations.",
+        "Social status changes: Shift from community contributor to care recipient affects self-worth.",
+        "Religious participation: Changes in ability to attend services and participate in religious community."
+      ]
+    },
+    {
+      "id": 50,
+      "question": "What are the future research priorities for male lung cancer?",
+      "answers": [
+        "Gender-specific biology: Understanding hormonal and genetic factors driving male predominance.",
+        "Targeted interventions: Developing male-specific screening, prevention, and support programs.",
+        "Occupational health: Better protection and monitoring for high-risk male-dominated occupations."
+      ]
+    }
+  ],
+  "metadata": {
+    "topic": "Gender-Based Factors for Males in Lung Cancer",
+    "total_questions": 50,
+    "answers_per_question": 3,
+    "categories_covered": [
+      "Epidemiology and Risk Factors",
+      "Biological Differences",
+      "Psychological and Behavioral Factors",
+      "Treatment and Outcomes",
+      "Social and Occupational Impacts",
+      "Quality of Life Issues",
+      "Survivorship and Rehabilitation"
+    ],
+    "note": "All questions include three distinct answers covering biological, psychological, and social aspects of male lung cancer"
+  }
+}

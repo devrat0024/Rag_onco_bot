@@ -1,0 +1,454 @@
+{
+  "oral_cancer_questions": [
+    {
+      "id": 1,
+      "question": "Can you please write down the exact type of oral cancer I have?",
+      "answers": [
+        "Absolutely. I will write down the precise name for you. Knowing exactly what we're dealing with is the first step to choosing the most effective battle plan. There are different types, and each responds best to specific treatments.",
+        "The pathology report specifies the exact type, such as Squamous Cell Carcinoma (the most common), Verrucous Carcinoma, or Salivary Gland Cancers. This diagnosis directly informs which treatments we will recommend.",
+        "I am writing it down for you right now. I encourage you to start a dedicated notebook for your cancer journey. Put this information on the first page to help you feel in control and ensure you have it for your records."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Where exactly is the tumor located, and how big is it?",
+      "answers": [
+        "Let's look at the scan together. Knowing the tumor's precise location and size helps us plan very targeted treatment, which helps spare healthy tissue and leads to better outcomes for your function afterwards.",
+        "Based on the imaging, the primary tumor measures specific dimensions and is situated in a precise location in your mouth. This is a key piece of information for staging and treatment planning.",
+        "I will draw a simple diagram to show you the location and size. Understanding the geography of the tumor helps you understand why we might recommend certain treatments over others."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What is the stage of my cancer, and what does that mean in simple terms?",
+      "answers": [
+        "Staging is simply our way of mapping out the situation so we can create the very best plan for you. It tells us the size of the tumor and its location, which helps us choose precisely targeted treatments.",
+        "The stage is a standard way (I-IV) to describe the cancer's size and if it has spread. Stage I is small and confined, while Stage IV means it has spread to other areas.",
+        "I will write down your specific stage. Think of it as your 'battle briefing.' Your job is to learn the terms, and our job is to explain them until you're comfortable with the information."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Has the cancer spread to my lymph nodes or anywhere else?",
+      "answers": [
+        "We have done detailed scans to check exactly for this. Knowing whether it has spread significantly influences our treatment strategy in a positive way, as it gives us a clear and complete target.",
+        "The imaging and biopsy results indicate the status of your lymph nodes and any distant spread. This crucial finding determines if we need to include a wider area in our treatment plan.",
+        "Let's review the scan results together. I will show you what we look for so you can see the evidence for yourself and understand why the next steps are necessary."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "How did you determine this stage? (What tests were used?)",
+      "answers": [
+        "We use the most reliable methods available to get a complete picture. This typically includes a biopsy to identify the cell type, and high-resolution scans like CT or PET to see the extent.",
+        "Staging follows an international system called TNM - 'T' for Tumor size, 'N' for Node involvement, and 'M' for Metastasis. We use physical exam, biopsy, and imaging scans for this.",
+        "I will list the specific tests you've had for your records. Understanding how we arrived at the stage empowers you to be an informed partner in your care."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Is my cancer considered slow-growing or aggressive?",
+      "answers": [
+        "Based on the pathology report, the cancer cells appear to have characteristics that suggest a growth rate that is very treatable with our current approaches.",
+        "The pathologist looks at the cancer cells under a microscope and gives a 'grade.' A low grade means slower growth, while a high grade means faster growth.",
+        "The pathology report includes a 'grade' which is our best indicator. I will show you where it says that in your report so you can understand this important factor."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Are there any specific genetic markers or biomarkers for my cancer that might affect treatment?",
+      "answers": [
+        "The field of cancer treatment is moving towards personalized medicine. We are testing for certain markers that can sometimes open the door to very effective, targeted therapies with fewer side effects.",
+        "For some oral cancers, we test for specific biomarkers that can predict response to certain treatments like immunotherapy or targeted therapy.",
+        "We have sent a portion of your biopsy for advanced testing. I will inform you the moment those results are back, as they could significantly expand our treatment options."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What is the prognosis for someone with my specific type and stage of cancer?",
+      "answers": [
+        "Statistics are based on large groups of people from the past, and they don't predict your individual journey. We focus on your specific case, your overall health, and the latest treatments available.",
+        "Prognosis is a forecast based on data for people with similar cancers. However, this number doesn't account for new treatments or your personal health and response to therapy.",
+        "Rather than focusing on general statistics, let's focus on the factors we can control - how completely we can treat the cancer and how well you tolerate therapy."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Before we talk treatment, what are the very next steps I need to take?",
+      "answers": [
+        "Right now, the most important step is to process this information and know you have a dedicated team. We will gather the entire team to review your case and present a unified plan.",
+        "The immediate next steps are: a dental evaluation with an oncologic dentist, meetings with other specialists, and possibly additional baseline tests.",
+        "Here is your immediate action plan: schedule the dental consult, write down your questions, and identify your main support person for appointments."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What are all my treatment options at this stage?",
+      "answers": [
+        "You have options, and we will guide you through the pros and cons of each. The main tools are surgery, radiation therapy, and sometimes other drugs, often used in combination.",
+        "The standard options include surgery, radiation, or combination approaches. The choice depends on your specific cancer characteristics and overall health.",
+        "I will provide you with written information outlining each treatment option. Research them and come back with questions - the decision is a partnership."
+      ]
+    },
+    {
+      "id": 11,
+      "question": "What is the goal of treatment for me?",
+      "answers": [
+        "Given your situation, our goal is curative. We are aiming for complete eradication of the cancer and for you to return to a full, healthy life.",
+        "The medical intent of your treatment is 'curative' - using treatments designed to eliminate all cancer cells from your body.",
+        "Our shared goal is a cure. Every decision we make will be measured against giving you the best chance at cure while maintaining quality of life."
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Which treatment do you recommend and why?",
+      "answers": [
+        "Based on our team's review, we strongly recommend a specific approach that we believe gives the highest chance of success for your particular situation.",
+        "The recommendation follows evidence-based guidelines for your cancer type and stage, considering factors like tumor location and your overall health.",
+        "I recommend a specific plan for these clear reasons. Discuss this with your family, then we'll make the final decision together as a team."
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Are there clinical trials I should consider?",
+      "answers": [
+        "We are always looking at the latest advancements and will evaluate if there are any clinical trials for which you are a perfect candidate.",
+        "Clinical trials are research studies that test new treatments. We can search databases for trials matching your diagnosis.",
+        "Let's explore clinical trial options together. Speaking with our trials coordinator can help you understand all available opportunities."
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Should I get a second opinion? How do I do that?",
+      "answers": [
+        "Getting a second opinion is very common and smart. It can give you additional confidence in your treatment plan, and we fully support it.",
+        "A second opinion is standard in oncology. We can help facilitate getting your records to another specialist for their review.",
+        "I encourage you to seek a second opinion. Contact our medical records department to start the process - it's about your health and confidence."
+      ]
+    },
+    {
+      "id": 15,
+      "question": "Who will be on my treatment team?",
+      "answers": [
+        "You will have a full team of experts dedicated to your care, including surgeons, radiation doctors, and a whole support team. You are the most important member.",
+        "Your core team includes surgical, radiation, and medical oncologists, plus extended support from dentists, speech therapists, dietitians, and social workers.",
+        "I will give you a printed sheet with names and contact information for every key person on your team so you know exactly who to contact."
+      ]
+    },
+    {
+      "id": 16,
+      "question": "What is the expected timeline for my treatment?",
+      "answers": [
+        "We will map out a clear timeline so you know what to expect. The active treatment phase might last several months, followed by recovery and monitoring.",
+        "A typical timeline might involve surgery with 4-6 week recovery, then 6-7 weeks of radiation therapy - about 3-4 months total active treatment.",
+        "Let's create a tentative calendar together. This helps you plan for work and family obligations and reduces fear of the unknown."
+      ]
+    },
+    {
+      "id": 17,
+      "question": "Is it possible to have a combination of treatments?",
+      "answers": [
+        "Very often, yes. Using combinations is like using a one-two punch - different treatments work together to give the best chance of success.",
+        "Multimodality therapy is common. Surgery may be followed by radiation or chemotherapy based on the final pathology findings.",
+        "Think of it as building a layered defense. We start with one treatment and add others based on what we learn along the way."
+      ]
+    },
+    {
+      "id": 18,
+      "question": "What happens if I choose to delay or refuse treatment?",
+      "answers": [
+        "I understand this is overwhelming. However, oral cancers typically don't go away and may become much more difficult to treat later.",
+        "Without treatment, the tumor will likely continue growing, potentially causing more symptoms and becoming harder to treat effectively.",
+        "If you're considering refusing treatment, please first speak with our palliative care team to ensure you have all available support and information."
+      ]
+    },
+    {
+      "id": 19,
+      "question": "Can you describe the surgery I will need in detail?",
+      "answers": [
+        "I will walk you through every step. The goal is to remove the cancer while preserving function as much as possible. You'll be under anesthesia and feel no pain.",
+        "The procedure involves removing the tumor with a margin of healthy tissue, and possibly reconstructing the area to restore form and function.",
+        "I will use diagrams to show you exactly what we plan to do. Understanding the procedure well can significantly reduce fear and anxiety."
+      ]
+    },
+    {
+      "id": 20,
+      "question": "How much tissue will need to be removed?",
+      "answers": [
+        "Our goal is always to be as conservative as possible while still being completely effective. We only remove what is absolutely necessary.",
+        "We follow the principle of taking a 'margin' of healthy tissue around the cancer - usually the tumor plus about 1-2 centimeters of normal tissue.",
+        "The pathologist will be in the operating room checking margins. We won't stop until we're confident we've removed all the cancer."
+      ]
+    },
+    {
+      "id": 21,
+      "question": "Will I need reconstructive surgery? What are the options?",
+      "answers": [
+        "Reconstructive surgery is an amazing field that allows us to rebuild the area and restore both form and function. We have several excellent options.",
+        "For many oral cancer surgeries, reconstruction using tissue from another part of the body is common. Donor sites might include the forearm or thigh.",
+        "You will meet with our reconstructive surgeon who will show you options and outcomes. You'll be part of the decision about what works best for you."
+      ]
+    },
+    {
+      "id": 22,
+      "question": "What are the potential side effects of this surgery?",
+      "answers": [
+        "It's normal to have temporary swelling, pain, and possibly temporary tubes for breathing and feeding. These are all managed carefully.",
+        "Short-term effects include pain, swelling, infection risk. Long-term may include speech/swallow changes. The extent varies for everyone.",
+        "Let's make lists of temporary and potential long-term effects. For each, we'll write our management plan - turning worries into an action plan."
+      ]
+    },
+    {
+      "id": 23,
+      "question": "How will surgery affect my ability to talk, swallow, and eat?",
+      "answers": [
+        "This is very understandable to worry about. Our goal is to preserve function as much as possible, and you'll have expert therapists working with you.",
+        "There will likely be temporary impact, possibly requiring a feeding tube initially. Speech and swallowing will be a process we re-train through therapy.",
+        "We'll connect you with our speech pathologist BEFORE surgery. They'll teach you exercises that can significantly improve your recovery outcome."
+      ]
+    },
+    {
+      "id": 24,
+      "question": "How long will I be in the hospital?",
+      "answers": [
+        "For this type of surgery, most patients stay about 1-2 weeks. We won't send you home until you're ready and safe.",
+        "The typical hospital stay is 7-14 days, depending on your recovery progress with pain control, healing, and beginning therapy.",
+        "We'll set recovery milestones for you to work toward. Hitting these goals is what will get you home sooner - you have control over your pace."
+      ]
+    },
+    {
+      "id": 25,
+      "question": "What will recovery be like, and how long will it take?",
+      "answers": [
+        "Recovery is a journey, not a race. The first weeks require rest and therapy focus. Over months, you'll get stronger with our close follow-up.",
+        "Initial recovery takes 4-6 weeks, but full speech/swallow recovery can take 6-12 months of dedicated therapy. Fatigue is common initially.",
+        "Recovery is your new job. Your work is to rest, follow nutrition plans, and do therapy exercises. Celebrate every small victory along the way."
+      ]
+    },
+    {
+      "id": 26,
+      "question": "Why are you recommending radiation for me?",
+      "answers": [
+        "We recommend radiation as an insurance policy. It acts like a powerful spotlight to eliminate any microscopic cells left after surgery.",
+        "Radiation is recommended based on surgical findings that show certain risk factors for recurrence. It's proven to lower that risk significantly.",
+        "Think of radiation as mopping up after the main battle. It's a proactive step to ensure the best long-term outcome based on clear evidence."
+      ]
+    },
+    {
+      "id": 27,
+      "question": "What type of radiation therapy will I receive?",
+      "answers": [
+        "You'll receive the most advanced type, which is like a smart bomb for cancer cells. It precisely targets the area while sparing healthy tissue.",
+        "The standard is IMRT - a form of external beam radiation that uses computer control to deliver precise doses while minimizing damage to nearby areas.",
+        "Ask the radiation therapists to show you the machine and explain how it works. Understanding the technology can make it much less intimidating."
+      ]
+    },
+    {
+      "id": 28,
+      "question": "How long will radiation treatments last, and how often?",
+      "answers": [
+        "The course is very structured - typically one short, painless treatment every weekday for about 6-7 weeks. It becomes a daily routine.",
+        "A standard course is daily treatments, Monday through Friday, for 30-35 total treatments over 6-7 weeks.",
+        "Mark a calendar for the expected weeks. This helps you visualize the finish line and track your progress through treatment."
+      ]
+    },
+    {
+      "id": 29,
+      "question": "What are the most common side effects of radiation?",
+      "answers": [
+        "While side effects are common, managing them is our top priority. We have excellent methods to prevent and treat discomfort.",
+        "Common effects include fatigue, skin irritation, mouth sores, dry mouth, taste changes, and swallowing difficulty. These usually build during treatment.",
+        "Keep a daily log of any side effects and report them immediately. The sooner we know, the sooner we can help you feel better."
+      ]
+    },
+    {
+      "id": 30,
+      "question": "How can we manage side effects like mouth sores and dry mouth?",
+      "answers": [
+        "We have a whole arsenal for this - special mouthwashes, saliva substitutes, medications, and dietitian support to keep you comfortable.",
+        "For mouth sores, we use special rinses and pain medication. For dry mouth, medications and substitutes can help, along with frequent water sips.",
+        "You'll receive a 'Radiation Survival Guide' listing every side effect and what to do. You'll also see a dietitian weekly to adapt as needed."
+      ]
+    },
+    {
+      "id": 31,
+      "question": "Are there long-term effects from radiation I should know about?",
+      "answers": [
+        "Modern techniques have significantly reduced long-term effects. While some dryness may persist, it's often manageable, and we monitor closely.",
+        "Potential long-term effects can include permanent dry mouth (increasing cavity risk), jaw stiffness, and rare bone damage risks.",
+        "The key to long-term effects is prevention and surveillance. You'll need lifelong dental care and jaw exercises - being proactive is best."
+      ]
+    },
+    {
+      "id": 32,
+      "question": "Why are you recommending chemotherapy?",
+      "answers": [
+        "We recommend chemotherapy to make radiation even more powerful. It can act as a 'radiosensitizer' - a one-two punch strategy for success.",
+        "Concurrent chemoradiation is standard for advanced disease with high recurrence risk. It increases tumor cell kill, improving control and survival.",
+        "The evidence shows adding chemotherapy improves cure rates for your stage. We'll support you through side effects for this crucial benefit."
+      ]
+    },
+    {
+      "id": 33,
+      "question": "What drugs will I receive, and how are they given?",
+      "answers": [
+        "The most common drug is given intravenously, usually once every few weeks during radiation. You'll come for an infusion that takes a few hours.",
+        "The standard regimen involves specific drugs administered on a set schedule during radiation therapy, based on your health and kidney function.",
+        "I'll write down the drug name, schedule, and side effects. Keep this with you - knowing what you're getting empowers you in your care."
+      ]
+    },
+    {
+      "id": 34,
+      "question": "What is the schedule for these treatments?",
+      "answers": [
+        "The schedule is designed to be manageable with radiation. You'll typically get chemotherapy once every three weeks during your radiation course.",
+        "For common regimens, it's typically 3 cycles: one dose at radiation start, then 3 and 6 weeks later, with blood monitoring before each.",
+        "We'll give you a printed treatment calendar with both radiation and chemotherapy dates marked. This helps plan for more fatigued weeks."
+      ]
+    },
+    {
+      "id": 35,
+      "question": "What are the most common side effects of these drugs?",
+      "answers": [
+        "The most common are nausea, fatigue, and low blood counts. But we have excellent medications to prevent and control nausea very effectively.",
+        "Key side effects include nausea/vomiting, kidney effects, hearing changes, nerve numbness/tingling, and low blood counts increasing infection risk.",
+        "We'll give you a detailed sheet on your specific drug listing side effects and who to call for each. You are our early warning system."
+      ]
+    },
+    {
+      "id": 36,
+      "question": "How will we manage side effects like nausea and fatigue?",
+      "answers": [
+        "Managing side effects is core to our job. You'll leave with strong anti-nausea medicines, and we'll help balance rest with gentle activity.",
+        "For nausea, we use combination drugs working on different pathways. For fatigue, gentle exercise like short walks can help, alongside energy conservation.",
+        "You'll get a 'rescue pack' of medications. If you feel nauseous, don't wait - take medication immediately. This proactive approach is key."
+      ]
+    },
+    {
+      "id": 37,
+      "question": "What can I do now to prepare my body for treatment?",
+      "answers": [
+        "The best thing is to build up your reserves. Think of it as training for a marathon - good nutrition, hydration, light exercise, and stopping smoking.",
+        "Pre-habilitation is key: nutrition consultation, dental evaluation, starting moderate exercise, and smoking cessation if applicable.",
+        "Your pre-treatment checklist: book dietitian and dental appointments, start walking, and call smoking cessation support if needed."
+      ]
+    },
+    {
+      "id": 38,
+      "question": "What are the biggest nutrition challenges during treatment?",
+      "answers": [
+        "The biggest challenge is eating enough when your mouth is sore and food tastes different. Our dietitian will provide high-calorie shakes and soft food ideas.",
+        "The combination of mouth sores, thick saliva, taste changes, and pain makes eating difficult, which is why we often use feeding tubes proactively.",
+        "Your job isn't to 'force yourself' to eat. Your job is to use our tools, like the feeding tube - your nutritional lifeline during treatment."
+      ]
+    },
+    {
+      "id": 39,
+      "question": "Will I need a feeding tube? Is it temporary?",
+      "answers": [
+        "For almost everyone, a feeding tube is a temporary safety net. It ensures you get needed nutrition when swallowing is difficult.",
+        "For chemoradiation, a prophylactic feeding tube is often recommended. It's almost always temporary, remaining for months until swallowing recovers.",
+        "Reframe the feeding tube - it's not defeat but a powerful success tool. It lets you focus on healing instead of stressing about eating."
+      ]
+    },
+    {
+      "id": 40,
+      "question": "Who can help with my speech and swallowing after treatment?",
+      "answers": [
+        "You'll have a dedicated speech-language pathologist who is your coach and guide from before treatment through recovery with amazing techniques.",
+        "A Speech-Language Pathologist specializing in head/neck cancer is essential. They assess function and teach safe swallowing and speech strategies.",
+        "You'll have regular SLP appointments. Your 'homework' will be their exercises. Consistency with these directly improves your recovery speed."
+      ]
+    },
+    {
+      "id": 41,
+      "question": "What support is available for pain management?",
+      "answers": [
+        "Your comfort is our top priority. We'll stay ahead of pain with medications, not wait for it to become severe. You won't suffer in pain.",
+        "We use multimodal pain management: long-acting and short-acting medications, plus adjuncts for nerve pain. Specialists are available for fine-tuning.",
+        "You'll get a pain scale and should report pain honestly and frequently. Don't try to be 'brave' - good pain control is essential for healing."
+      ]
+    },
+    {
+      "id": 42,
+      "question": "How will treatment affect my dental health?",
+      "answers": [
+        "Radiation can increase cavity risk, but we have a clear protection plan with an oncology dentist and custom fluoride trays for long-term care.",
+        "Radiation causes permanent saliva changes, dramatically increasing decay risk. You'll need dental work before radiation and daily fluoride after.",
+        "Schedule your dental consult immediately. After treatment, your new dental routine is non-negotiable: brushing, flossing, and fluoride daily."
+      ]
+    },
+    {
+      "id": 43,
+      "question": "How can I manage the fatigue?",
+      "answers": [
+        "Cancer fatigue is real but manageable. Listen to your body, rest when needed, but also incorporate gentle activity like short walks.",
+        "Fatigue is the most common side effect. Evidence-based management includes energy conservation, gentle exercise, and good nutrition/hydration.",
+        "Practice 'pacing.' Don't try to do everything. Schedule one important activity daily followed by rest. Say 'no' to energy-draining tasks."
+      ]
+    },
+    {
+      "id": 44,
+      "question": "What about the emotional and mental health impact?",
+      "answers": [
+        "Feeling anxious or overwhelmed is completely normal. You're not going crazy. We have social workers and therapists specifically for this.",
+        "Cancer frequently triggers adjustment disorders, anxiety, and depression. We can refer you to specialists, support groups, or medications.",
+        "Asking for emotional help is strength. I'm giving you our social work contact now. Call them - mental health is as important as physical health."
+      ]
+    },
+    {
+      "id": 45,
+      "question": "What should I do for a medical emergency after hours?",
+      "answers": [
+        "You're never alone, even after hours. There's always an oncologist on call. You'll get a clear list of emergencies and the exact number to call.",
+        "For fever over 100.4°F, chills, severe shortness of breath, uncontrolled pain or bleeding, go to ER. For less urgent issues, call the after-hours line.",
+        "Post this emergency list on your fridge: when to call 911, when to go to ER, when to call the doctor. Keep insurance and medication lists in your wallet."
+      ]
+    },
+    {
+      "id": 46,
+      "question": "Who is my main point of contact for questions?",
+      "answers": [
+        "Your primary nurse navigator is your main contact - your quarterback who coordinates with the team and gets you answers.",
+        "Your oncologist is ultimately responsible, but for daily questions, your Nurse Navigator is best. For radiation issues, contact the radiation team.",
+        "I'm giving you a laminated card with all key contacts. Keep it with you always. Write questions before calling to make the most of your time."
+      ]
+    },
+    {
+      "id": 47,
+      "question": "Are there support groups you recommend?",
+      "answers": [
+        "Absolutely. Connecting with others on the same journey can be incredibly comforting. We have local groups and excellent online communities.",
+        "Organizations like SPOHNC and Head and Neck Cancer Alliance offer excellent resources and networks. Our social worker can connect you locally.",
+        "Here are the websites for major support organizations. Register today - hearing from survivors provides practical tips and immense hope."
+      ]
+    },
+    {
+      "id": 48,
+      "question": "What resources help with costs, transportation, or nutrition?",
+      "answers": [
+        "Please don't let financial stress add to your burden. We have financial counselors and social workers expert at finding resources for patients.",
+        "Our social worker can help with medical leave, disability, Medicaid applications, and charity programs for transportation, lodging, and co-pays.",
+        "Schedule appointments with our financial counselor and social worker. Go with a concerns list - it's their job to find solutions for you."
+      ]
+    },
+    {
+      "id": 49,
+      "question": "Is it safe for me to work during treatment?",
+      "answers": [
+        "Most people need leave during active treatment, especially chemoradiation. The fatigue and side effects are significant. Health must come first.",
+        "For regimens like chemoradiation, working is generally not advisable. The cumulative fatigue and daily appointments make it impractical.",
+        "Plan now for leave. Talk to HR about disability benefits. We'll handle paperwork. Your job now is being a full-time patient - be kind to yourself."
+      ]
+    },
+    {
+      "id": 50,
+      "question": "What can my family and friends do to best support me?",
+      "answers": [
+        "The fact you have people who care is a huge strength. The best support is often emotional and practical - listening or just being present.",
+        "People often want to help but don't know how. Appoint one point-person to coordinate meals, visits, rides, and chores to reduce pressure on you.",
+        "Make a specific 'Help List' with your family: 'need groceries Tuesdays,' 'dog walking,' '2-hour visit Thursday.' This gives clear ways to contribute."
+      ]
+    }
+  ]
+}

@@ -83,7 +83,7 @@ body {
 }
 
 .user {
-  background: #0059ff;
+  background: #143c86;
   align-self: flex-end;
 }
 
@@ -124,6 +124,7 @@ body {
   gap: 10px;
   width: 90%;
   max-width: 800px;
+  position: relative;
 }
 
 #user-input {
@@ -156,6 +157,89 @@ button {
 
 button:hover {
   background: #1e539e;
+}
+
+/* ===== Translation Icon + Dropdown ===== */
+.lang-selector {
+  position: relative;
+}
+
+.lang-icon {
+  position: absolute;
+  left: -50px;
+  bottom: 5px;
+  font-size: 26px;
+  color: #0095d0;
+  cursor: pointer;
+  border: 2px solid #007dd0;
+  border-radius: 50%;
+  width: 36px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #111;
+  transition: all 0.25s ease;
+}
+
+.lang-icon:hover {
+  background-color: #0d4477;
+  color: #111;
+  transform: scale(1.1);
+}
+
+/* Dropdown */
+.lang-dropdown {
+  display: none;
+  position: absolute;
+  bottom: 45px;
+  left: -20px;
+  background: #1e1e1e;
+  border: 1px solid #333;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+  width: 160px;
+  z-index: 100;
+}
+
+.lang-dropdown.active {
+  display: block;
+  animation: fadeIn 0.2s ease;
+}
+
+.lang-dropdown li {
+  list-style: none;
+  padding: 8px 12px;
+  color: #ddd;
+  cursor: pointer;
+  transition: background 0.2s;
+  border-bottom: 1px solid #2a2a2a;
+}
+
+.lang-dropdown li:hover {
+  background-color: #2f2f2f;
+  color: #fff;
+}
+
+.lang-dropdown li:last-child {
+  border-bottom: none;
+}
+
+/* ===== Scrollbars ===== */
+.chat-box::-webkit-scrollbar,
+.sidebar::-webkit-scrollbar {
+  width: 8px;
+}
+
+.chat-box::-webkit-scrollbar-thumb,
+.sidebar::-webkit-scrollbar-thumb {
+  background: #444;
+  border-radius: 4px;
+}
+
+.chat-box::-webkit-scrollbar-thumb:hover,
+.sidebar::-webkit-scrollbar-thumb:hover {
+  background: #666;
 }
 
 /* ===== Animation ===== */

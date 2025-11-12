@@ -3,104 +3,218 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Dr. Nova – Medical Chatbot</title>
-  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <title>🩺 Dr. Nova – Multilingual Chatbot</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f0f2f5;
+    }
+    .container {
+      max-width: 900px;
+      margin: 40px auto;
+      background: #fff;
+      border-radius: 10px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+      overflow: hidden;
+    }
+    .header {
+      padding: 16px;
+      background: #2563eb;
+      color: white;
+      text-align: center;
+      font-size: 1.4rem;
+    }
+    .status {
+      text-align: center;
+      font-size: 0.9rem;
+      color: green;
+      margin-top: 5px;
+    }
+    .chat-box {
+      height: 500px;
+      overflow-y: auto;
+      padding: 16px;
+      background: #fafafa;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    .message {
+      padding: 12px 16px;
+      border-radius: 10px;
+      max-width: 70%;
+      word-wrap: break-word;
+    }
+    .user {
+      align-self: flex-end;
+      background: #4f46e5;
+      color: white;
+    }
+    .bot {
+      align-self: flex-start;
+      background: #e5e7eb;
+      color: #111;
+    }
+    .input-container {
+      display: flex;
+      gap: 10px;
+      padding: 16px;
+      border-top: 1px solid #ddd;
+      background: #f9fafb;
+    }
+    input {
+      flex: 1;
+      padding: 12px;
+      border-radius: 6px;
+      border: 1px solid #ccc;
+      font-size: 1rem;
+    }
+    button {
+      background: #4f46e5;
+      color: white;
+      border: none;
+      padding: 12px 20px;
+      border-radius: 6px;
+      cursor: pointer;
+    }
+    button:hover {
+      background: #3730a3;
+    }
+    select {
+      padding: 8px;
+      border-radius: 6px;
+      border: 1px solid #ccc;
+    }
+  </style>
 </head>
 <body>
-  <div class="app-container">
-    <!-- ===== Sidebar ===== -->
-    <aside class="sidebar">
-      <h2>Chat History</h2>
-      <ul id="chat-history">
-        <li id="new-chat">➕ New Chat</li>
-      </ul>
-    </aside>
+  <div class="container">
+    <div class="header">🩺 Dr. Nova – Multilingual Chatbot</div>
+    <div id="status" class="status">Connecting to local IndicTrans2 model...</div>
 
-    <!-- ===== Chat Area ===== -->
-    <main class="chat-area">
-      <div id="chat-box" class="chat-box">
-        <p class="welcome">👋 Hello! I’m Dr. Nova — your cancer care assistant.</p>
-      </div>
+    <div id="chat-box" class="chat-box">
+      <div class="bot message">👋 Hello! I'm Dr. Nova — your multilingual health assistant.</div>
+    </div>
 
-      <!-- ===== Input ===== -->
-      <div id="input-container" class="input-container center">
-        <form id="chat-form">
-          <input type="text" id="user-input" placeholder="Send a message..." autocomplete="off" />
-          <button type="submit">➤</button>
-        </form>
-      </div>
-    </main>
+    <div class="input-container">
+      <select id="language">
+        <option>English</option>
+        <option>Hindi</option>
+        <option>Marathi</option>
+        <option>Gujarati</option>
+        <option>Tamil</option>
+        <option>Telugu</option>
+        <option>Bengali</option>
+        <option>Punjabi</option>
+      </select>
+      <input type="text" id="user-input" placeholder="Type your message..." />
+      <button id="send-btn">Send</button>
+    </div>
   </div>
 
   <script>
-    const chatForm = document.getElementById("chat-form");
     const chatBox = document.getElementById("chat-box");
     const userInput = document.getElementById("user-input");
-    const inputContainer = document.getElementById("input-container");
-    const chatHistory = document.getElementById("chat-history");
-    const newChat = document.getElementById("new-chat");
+    const sendBtn = document.getElementById("send-btn");
+    const langSelect = document.getElementById("language");
+    const statusText = document.getElementById("status");
 
-    async function sendMessage(message) {
+    let typingTimer;
+    let currentText = "";
+    const API_URL = "http://localhost:5000/translate";
+
+    // ✅ Check backend status
+    async function checkServer() {
       try {
-        const res = await fetch("/chat", {
+        const res = await fetch("http://localhost:5000/");
+        if (res.ok) {
+          statusText.textContent = "🧠 Using Local IndicTrans2 Model (Open Source, Offline)";
+          statusText.style.color = "green";
+        } else {
+          statusText.textContent = "⚠️ Local model not responding";
+          statusText.style.color = "red";
+        }
+      } catch (err) {
+        statusText.textContent = "⚠️ Cannot reach local IndicTrans2 model. Run server.py.";
+        statusText.style.color = "red";
+      }
+    }
+    checkServer();
+
+    // 🌍 Map readable names to IndicTrans2 language codes
+    function langCode(name) {
+      const map = {
+        English: "en",
+        Hindi: "hi",
+        Marathi: "mr",
+        Gujarati: "gu",
+        Tamil: "ta",
+        Telugu: "te",
+        Bengali: "bn",
+        Punjabi: "pa",
+      };
+      return map[name] || "en";
+    }
+
+    // 🧠 Translate text using local IndicTrans2 API
+    async function translateText(text, targetLang) {
+      if (!text.trim()) return "";
+      if (targetLang === "English") return text;
+      try {
+        const res = await fetch(API_URL, {
           method: "POST",
           headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ message }),
+          body: JSON.stringify({ q: text, target: langCode(targetLang) }),
         });
         const data = await res.json();
-        return data.response;
+        return data.translatedText || text;
       } catch (err) {
-        console.error("❌ Fetch error:", err);
-        return "⚠️ Network error. Please try again.";
+        console.error("Translation failed:", err);
+        return text + " (translation unavailable)";
       }
     }
 
-    chatForm.addEventListener("submit", async (e) => {
-      e.preventDefault();
-      const message = userInput.value.trim();
-      if (!message) return;
+    // 🎯 Auto-translate user input while typing
+    userInput.addEventListener("input", () => {
+      clearTimeout(typingTimer);
+      typingTimer = setTimeout(async () => {
+        const input = userInput.value.trim();
+        const selectedLang = langSelect.value;
+        if (input && selectedLang !== "English" && input !== currentText) {
+          const translated = await translateText(input, selectedLang);
+          userInput.value = translated;
+          currentText = translated;
+        }
+      }, 700);
+    });
 
-      // Move input down on first message
-      if (inputContainer.classList.contains("center")) {
-        inputContainer.classList.remove("center");
-        inputContainer.classList.add("bottom");
-        chatBox.style.height = "calc(100% - 90px)";
-      }
+    // 💬 Send message
+    sendBtn.addEventListener("click", async () => {
+      const text = userInput.value.trim();
+      const lang = langSelect.value;
+      if (!text) return;
 
-      // Add user message
       const userMsg = document.createElement("div");
       userMsg.classList.add("message", "user");
-      userMsg.textContent = message;
+      userMsg.textContent = text;
       chatBox.appendChild(userMsg);
       chatBox.scrollTop = chatBox.scrollHeight;
 
-      // Add bot placeholder
       const botMsg = document.createElement("div");
       botMsg.classList.add("message", "bot");
-      botMsg.textContent = "Dr. Nova is thinking...";
+      botMsg.textContent = "🤔 Dr. Nova is thinking...";
       chatBox.appendChild(botMsg);
       chatBox.scrollTop = chatBox.scrollHeight;
 
-      // Send to backend
-      const reply = await sendMessage(message);
-      botMsg.textContent = reply;
-      chatBox.scrollTop = chatBox.scrollHeight;
-
-      // Add to sidebar history
-      const item = document.createElement("li");
-      item.textContent = message.slice(0, 25) + (message.length > 25 ? "..." : "");
-      chatHistory.appendChild(item);
+      // Here you can connect your backend logic.
+      // For now, simulate a bot reply and translate it.
+      const replyText = "I'm here to help you with your cancer-related questions.";
+      const translatedReply = await translateText(replyText, lang);
+      botMsg.textContent = translatedReply;
 
       userInput.value = "";
-    });
-
-    // New chat reset
-    newChat.addEventListener("click", () => {
-      chatBox.innerHTML = `<p class="welcome">👋 Hello! I’m Dr. Nova — your cancer care assistant.</p>`;
-      inputContainer.classList.remove("bottom");
-      inputContainer.classList.add("center");
-      chatBox.style.height = "70%";
-      userInput.value = "";
+      currentText = "";
     });
   </script>
 </body>

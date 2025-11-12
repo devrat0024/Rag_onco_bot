@@ -1,0 +1,587 @@
+{
+  "cancer_related_depression_qa": [
+    {
+      "id": 1,
+      "question": "Is it normal to feel this sad and hopeless after a cancer diagnosis, or is it depression?",
+      "answers": [
+        "It is completely normal to feel profound sadness, fear, and grief after a cancer diagnosis. This is an expected emotional response to a life-changing event. However, when these feelings are intense, persistent (lasting for two weeks or more), and interfere with your ability to function, it may be clinical depression.",
+        "The key difference is often in the duration and intensity. Normal sadness comes in waves, and you can still experience moments of joy. Depression tends to be a constant, heavy blanket that smothers your ability to feel pleasure or hope.",
+        "Think of it this way: grief is about missing your old life. Depression is about feeling like you have no life left to live. If you're feeling the latter, it's crucial to seek help."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What are the specific signs of depression I should watch for?",
+      "answers": [
+        "The classic signs include a persistently sad, anxious, or 'empty' mood, loss of interest or pleasure in activities you once enjoyed (this is called anhedonia), and overwhelming fatigue or loss of energy.",
+        "Other key signs are significant changes in sleep (sleeping too much or too little), changes in appetite or weight, difficulty concentrating, feeling worthless or guilty, and frequent thoughts about death or suicide.",
+        "In the context of cancer, some signs like fatigue and appetite changes can also be side effects of treatment. That's why the emotional and cognitive symptoms—like hopelessness, guilt, and loss of interest—are often the most telling indicators of depression."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "I feel like I should be 'fighting' but I just don't care anymore. What's wrong with me?",
+      "answers": [
+        "Absolutely nothing is 'wrong' with you. The 'fight' narrative can be incredibly damaging. It implies that if you feel sad or hopeless, you are somehow failing or not being strong enough. This is false. Cancer is a medical disease, and depression is a medical complication of that disease.",
+        "Losing the will to 'fight' is a classic symptom of depression, not a character flaw. Depression robs you of motivation and the neurochemicals in your brain that drive determination. It's not that you've given up; it's that the depression is overshadowing your innate strength.",
+        "Please tell your doctor this exact feeling: 'I don't care anymore.' It is a critical red flag for them and will help them understand the depth of your distress."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "How can I tell the difference between depression and the normal fatigue from cancer treatment?",
+      "answers": [
+        "Cancer-related fatigue is primarily physical—a deep exhaustion in your body that isn't relieved by rest. Depression-related fatigue is more mental and emotional; it's a profound lack of energy to initiate or sustain any activity, even ones you love, and is often accompanied by apathy.",
+        "A helpful question to ask yourself is: 'If I had the energy, would I want to do [a favorite activity]?' If the answer is 'no, I'm not interested,' that points more toward depression. If the answer is 'yes, but I'm just too physically tired,' that points more toward treatment fatigue.",
+        "They often occur together, creating a devastating cycle. Treating the depression can sometimes give you the mental fortitude to better cope with the physical fatigue."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "I keep crying for no reason. Is this a part of depression?",
+      "answers": [
+        "Yes, frequent, uncontrollable crying spells, sometimes without an obvious trigger, are a very common symptom of depression. It's your body's way of releasing an overwhelming amount of emotional pain and stress.",
+        "This happens because depression affects the brain's limbic system, which regulates emotions. It's like a faucet that's been left on; the emotions just flow out, often when you least expect it.",
+        "Don't be ashamed of these tears. They are a symptom, not a weakness. Let your care team know this is happening, as it's a clear sign that your emotional burden is becoming unmanageable on your own."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "I feel like a burden to everyone. How can I stop thinking this way?",
+      "answers": [
+        "This feeling of being a burden is one of the most common and painful thoughts in depression. It's a distortion caused by the illness, not a reflection of reality. Your loved ones likely see you as someone they care deeply about, not a burden.",
+        "Try this cognitive reframing exercise: If your roles were reversed, would you see your loved one as a burden? Or would you want to help them? Allow them the same grace to care for you that you would freely give to them.",
+        "Talk about this feeling with your family and your therapist. Keeping it inside gives it more power. Your family may not even be aware you feel this way and can offer you the reassurance you need."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "I'm having thoughts of just wanting it all to be over. Is this suicidal ideation?",
+      "answers": [
+        "Thoughts of 'not wanting to be here anymore' or 'wanting the pain to stop' are a form of passive suicidal ideation. It's a sign that your emotional pain has become unbearable and you see no other way out. This is a medical emergency.",
+        "It is critical to understand that these thoughts are a symptom of untreated depression, not a rational desire. Depression narrows your perspective, making it impossible to see other solutions or a future where you feel better.",
+        "You must reach out immediately. Tell your oncologist, call a suicide hotline (988 in the US & Canada), or go to the nearest emergency room. Treatment can and will relieve this unbearable pain. You do not have to feel this way."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Will treating my depression interfere with my cancer treatment?",
+      "answers": [
+        "Quite the opposite. Treating depression is a vital part of your cancer care. Studies show that patients whose depression is treated often have better quality of life, may be better able to adhere to their cancer treatment plans, and some research even suggests it may positively influence health outcomes.",
+        "Your oncology team and mental health provider will work together to ensure that any treatment for depression (whether therapy or medication) is safe and does not negatively interact with your cancer therapies.",
+        "Think of treating depression as strengthening your entire system for the fight ahead. It's about healing your mind so your body can focus on healing too."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What are my treatment options for depression during cancer?",
+      "answers": [
+        "The two primary evidence-based treatments are psychotherapy (talk therapy) and medication (antidepressants). Often, a combination of both is most effective.",
+        "Psychotherapy, particularly Cognitive Behavioral Therapy (CBT) or Acceptance and Commitment Therapy (ACT), can teach you skills to manage negative thought patterns and cope with the stress of illness. Medication can help correct the chemical imbalances in the brain that cause depressive symptoms.",
+        "Additionally, support groups, mindfulness, and lifestyle adjustments (like gentle exercise when possible) can be powerful complementary tools. Your doctor might refer you to a Psycho-oncologist, a specialist in this exact area."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Are antidepressants safe to take with chemotherapy?",
+      "answers": [
+        "In most cases, yes. There are many different types of antidepressants (SSRIs, SNRIs, etc.), and your doctor can choose one that has minimal risk of interacting with your specific cancer treatment regimen.",
+        "It is crucial that both your oncologist and your psychiatrist are aware of all medications you are taking. They will work together to select the safest and most effective option for you.",
+        "The risk of untreated depression often far outweighs the potential risks of a carefully selected antidepressant. Your medical team is skilled at managing these complex medication plans."
+      ]
+    },
+    {
+      "id": 11,
+      "question": "I don't have the energy to get help. How can I help myself when even that feels impossible?",
+      "answers": [
+        "This is the cruel paradox of depression—it robs you of the very energy needed to seek the cure. Start with one tiny, almost effortless step. You don't have to 'fix' yourself today.",
+        "Delegate the task. Can you ask a family member to make the first phone call to your doctor or to find the names of three therapists? Can you send a one-line email to your oncologist saying, 'I think I'm depressed and need help'?",
+        "Even just saying out loud to someone, 'I am struggling and I don't have the energy to get help,' is a massive first step. It allows someone else to hold the hope and take the action for you until you have the strength to take over."
+      ]
+    },
+    {
+      "id": 12,
+      "question": "How can I talk to my family about this without worrying them even more?",
+      "answers": [
+        "It is natural to want to protect your loved ones, but hiding your depression often worries them more because they can sense something is wrong but don't know what it is or how to help.",
+        "You can frame it as a medical need: 'I'm sharing this with you because I need your support. My doctor thinks that alongside the cancer, I'm experiencing depression, which is a common medical condition. Getting treatment for it will help me get through this.'",
+        "Sharing your struggle can actually bring you closer and allow them to support you in a more meaningful way. It transforms their worry from a helpless feeling into focused, practical support."
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Will this depression last forever?",
+      "answers": [
+        "No. Depression, even in the context of cancer, is highly treatable. With the right support—whether therapy, medication, or both—the overwhelming majority of people find significant relief.",
+        "It may feel endless when you are in the middle of it, but it is a temporary state, not a permanent life sentence. Your feelings are valid, but they are not forever.",
+        "Recovery is often a process, with good days and bad days, but the trajectory is toward healing. The goal is not to never feel sad again, but to lift the heavy weight of depression so you can handle the normal ups and downs of your journey."
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Where is a safe place to talk about these feelings?",
+      "answers": [
+        "Your oncology team is a primary safe place. They see this every day and are trained to help. A Psycho-oncologist or an Oncology Social Worker are specifically trained to provide this safe, confidential space.",
+        "A therapist or counselor outside the hospital system can also be a great option. Look for someone who has experience with chronic or life-threatening illnesses.",
+        "Support groups for cancer patients can be incredibly powerful. There is a unique comfort in sharing these dark feelings with people who truly understand, without any need for explanation or justification."
+      ]
+    },
+    {
+      "id": 15,
+      "question": "What if therapy or medication doesn't work?",
+      "answers": [
+        "If one type of therapy or antidepressant doesn't work, there are many others to try. It can sometimes take a few attempts to find the perfect fit, just like with cancer treatment. This is called treatment-resistant depression, and it has its own set of solutions.",
+        "There are other interventions, such as TMS (Transcranial Magnetic Stimulation) or Esketamine (a nasal spray for treatment-resistant depression), that can be options if standard treatments aren't effective.",
+        "The most important thing is to maintain open communication with your doctor. Tell them, 'This isn't working.' That is not a failure; it's valuable data that helps them tailor your treatment plan more effectively."
+      ]},{
+      "id": 16,
+      "question": "How can I tell my doctor I think I'm depressed without sounding weak?",
+      "answers": [
+        "Asking for help for depression requires incredible strength, not weakness. You could say: 'I'm struggling with my mood and it's affecting my ability to cope with treatment' or 'I think I might need help with depression symptoms.'",
+        "Remember that oncologists screen for depression regularly because it's so common. They won't be surprised - they'll be glad you brought it up so they can help.",
+        "Frame it as another symptom to treat, just like pain or nausea. Say 'I'm experiencing persistent sadness and loss of interest that's making it hard to get through the day.'"
+      ]
+    },
+    {
+      "id": 17,
+      "question": "I feel guilty for being depressed when I should be grateful to be alive. What's wrong with me?",
+      "answers": [
+        "This is called 'toxic gratitude' - the pressure to feel grateful can actually make depression worse. It's possible to be grateful for treatment AND devastated by cancer at the same time. Both feelings can coexist.",
+        "There's nothing wrong with you. Depression isn't a choice or a failure of gratitude - it's a medical condition. You wouldn't blame yourself for getting an infection during treatment.",
+        "Think of it this way: acknowledging your depression IS being grateful for your life - you're taking care of your mental health so you can fully engage with the life you're fighting for."
+      ]
+    },
+    {
+      "id": 18,
+      "question": "Will treating my depression really make a difference in my cancer journey?",
+      "answers": [
+        "Absolutely. Research shows that treating depression can improve quality of life, help you tolerate treatments better, and may even support better physical health outcomes.",
+        "When depression lifts, you often find more mental energy to participate in your care, communicate with your medical team, and maintain relationships that support you.",
+        "Many patients report that treating their depression felt like 'turning on the lights' - they could finally access their own inner resources and resilience that depression had buried."
+      ]
+    },
+    {
+      "id": 19,
+      "question": "I can't remember the last time I genuinely laughed or felt joy. Will I ever feel happy again?",
+      "answers": [
+        "This loss of pleasure (anhedonia) is one of depression's most painful symptoms. The good news is that as depression treatment takes effect, the capacity for joy does return.",
+        "Think of it like your taste buds during chemo - they stop working temporarily but come back. Your 'joy receptors' are temporarily offline, not permanently broken.",
+        "Many survivors describe their first genuine laugh after depression treatment as a turning point - it reminded them that their essential self was still there, waiting to reemerge."
+      ]
+    },
+    {
+      "id": 20,
+      "question": "How long does it take for depression treatment to start working?",
+      "answers": [
+        "Most people notice some improvement in 2-4 weeks with antidepressants, but full benefits can take 6-8 weeks. Therapy can provide some relief immediately, with deeper changes developing over months.",
+        "The timeline is similar to many cancer treatments - it requires patience and consistency. Small improvements often come first: slightly better sleep, a little more energy, moments of lighter mood.",
+        "It helps to track subtle changes - note if you smiled spontaneously once, or had 10 minutes where the heaviness lifted. These small signs indicate treatment is starting to work."
+      ]
+    },
+    {
+      "id": 21,
+      "question": "I'm having panic attacks along with depression. Are they connected?",
+      "answers": [
+        "Yes, depression and anxiety disorders like panic attacks frequently occur together, especially in medical trauma situations like cancer. Your nervous system is under extreme stress.",
+        "The same brain chemicals involved in depression also regulate anxiety. Treatment that helps depression often reduces anxiety too, though sometimes additional anxiety-specific treatments are needed.",
+        "Panic attacks can feel terrifying but they're not dangerous. Tell your doctor about them - there are specific techniques and sometimes medications that can help manage them effectively."
+      ]
+    },
+    {
+      "id": 22,
+      "question": "Will antidepressants change my personality?",
+      "answers": [
+        "Antidepressants don't change your core personality. They work to restore your brain's natural balance, helping you feel more like yourself again by reducing overwhelming negative emotions.",
+        "The goal is to remove the 'filter' of depression that distorts your thoughts and feelings, allowing your true personality to shine through without the constant burden of depressive symptoms.",
+        "Many people describe the effect as 'returning to myself' rather than becoming someone new. The medication reduces symptoms so you can access your natural resilience and personality."
+      ]
+    },
+    {
+      "id": 23,
+      "question": "I feel so isolated even when people are around me. Why can't I connect with anyone?",
+      "answers": [
+        "This profound isolation is a hallmark of depression. The illness creates a 'glass wall' between you and others - you can see them, but you can't feel connected to them.",
+        "Depression affects the brain circuits responsible for social connection and empathy. It's not that you don't care about others - the depression is temporarily disrupting your ability to feel connected.",
+        "This isolation often lifts as depression treatment progresses. Many people find they naturally start reaching out and feeling connected again as their mood improves."
+      ]
+    },
+    {
+      "id": 24,
+      "question": "What's the difference between normal cancer sadness and clinical depression?",
+      "answers": [
+        "Normal sadness comes and goes in waves, and you can still experience pleasure and hope between the difficult moments. Depression is more constant and pervasive, coloring everything gray.",
+        "With normal sadness, you still want to engage with life but feel sad about your circumstances. With depression, you often lose the desire to engage at all.",
+        "A key difference is duration and impact on function. If low mood persists most of the day, nearly every day, for two weeks or more, and significantly impacts your life, it's likely depression."
+      ]
+    },
+    {
+      "id": 25,
+      "question": "I can't make simple decisions anymore. Is this part of depression?",
+      "answers": [
+        "Yes, 'analysis paralysis' and difficulty with decision-making are very common in depression. The condition affects executive functions in the brain, making even small choices feel overwhelming.",
+        "This isn't a character flaw - it's a neurological symptom. Depression literally changes how your brain processes information and makes decisions.",
+        "As treatment progresses, you'll likely find your ability to make decisions returns. In the meantime, simplify choices, ask others to decide on small matters, and be patient with yourself."
+      ]
+    },
+    {
+      "id": 26,
+      "question": "Will I have to be on antidepressants forever?",
+      "answers": [
+        "Most people don't need antidepressants forever. The typical course for a first episode is 6-12 months after you start feeling better, though this can vary based on your individual situation.",
+        "Your doctor will help you determine the right duration. Some people choose to stay on them longer during ongoing cancer treatment, then taper off when they're in a more stable place.",
+        "The decision to continue or discontinue medication is always made collaboratively with your doctor, considering your depression history, current stressors, and personal preference."
+      ]
+    },
+    {
+      "id": 27,
+      "question": "I'm angry all the time - at my body, at doctors, at healthy people. Is this depression?",
+      "answers": [
+        "Irritability and anger are common but less recognized symptoms of depression, especially in men. The internal pain of depression often gets expressed outwardly as anger.",
+        "Think of it as pain looking for a target. The cancer diagnosis is profoundly unfair, and depression can amplify these feelings of injustice into constant irritability.",
+        "As depression lifts, the intense anger usually diminishes. Therapy can also help you develop healthier ways to express and process these completely valid feelings."
+      ]
+    },
+    {
+      "id": 28,
+      "question": "Can depression make my physical pain feel worse?",
+      "answers": [
+        "Yes, depression and pain share similar pathways in the brain and can amplify each other. Treating depression often helps people cope better with physical pain.",
+        "This is called the pain-depression cycle: pain worsens depression, and depression lowers your pain threshold. Breaking this cycle by treating depression can provide significant relief.",
+        "Many antidepressants, particularly SNRIs, are also used to treat chronic pain conditions because they work on the same neurotransmitters involved in pain perception."
+      ]
+    },
+    {
+      "id": 29,
+      "question": "I feel numb instead of sad. Is this still depression?",
+      "answers": [
+        "Yes, emotional numbness or 'flatness' is a common presentation of depression. The brain sometimes responds to overwhelming stress by shutting down emotions as a protective mechanism.",
+        "This emotional anesthesia can be just as distressing as intense sadness. It creates a sense of being disconnected from yourself and your life.",
+        "As treatment progresses, you'll likely experience a return of emotional range - both positive and negative feelings. This is a sign of healing, even when difficult emotions reemerge."
+      ]
+    },
+    {
+      "id": 30,
+      "question": "How can I support my own depression treatment when I have no energy?",
+      "answers": [
+        "Start with 'one-thing' days. Your only goal might be taking medication or making one phone call. Celebrate these small victories - they're huge accomplishments when you're depressed.",
+        "Use the 'just five minutes' rule. Commit to an activity for only five minutes - a short walk, reading one page. Often, starting is the hardest part.",
+        "Ask your support system to help with treatment adherence - reminders to take medication, rides to appointments, or joining you for a walk. Let them be your motivation until you can find your own."
+      ]
+    },
+    {
+      "id": 31,
+      "question": "Will therapy really help when my problems are real (cancer, not imagined)?",
+      "answers": [
+        "Therapy isn't about convincing you your problems aren't real - it's about building skills to cope with very real, very difficult circumstances.",
+        "Cognitive Behavioral Therapy for medical patients focuses on practical strategies: managing cancer-related stress, problem-solving treatment challenges, and communicating with your medical team.",
+        "Therapy provides tools to handle very real problems more effectively. It's like physical therapy for your mind - building strength and flexibility to bear the weight of your situation."
+      ]
+    },
+    {
+      "id": 32,
+      "question": "I wake up at 3 AM every night with racing thoughts. Is this related to depression?",
+      "answers": [
+        "Yes, early morning awakening with inability to return to sleep is a classic symptom of depression. The brain's sleep-wake cycle is often disrupted in depressive disorders.",
+        "This pattern is different from the sleep difficulties caused by steroids or other medications. Depression-related early awakening is often accompanied by intense anxiety or hopelessness.",
+        "Treating the underlying depression usually improves sleep patterns. In the meantime, sleep hygiene strategies and possibly temporary sleep medications can help break the cycle."
+      ]
+    },
+    {
+      "id": 33,
+      "question": "I'm embarrassed to need mental health help. What will people think?",
+      "answers": [
+        "It takes tremendous courage to seek mental health care. Remember that depression is a medical complication of cancer, just like infection or low blood counts.",
+        "The stigma is real, but it's based on misunderstanding. You wouldn't feel embarrassed about needing insulin for diabetes - depression treatment is the same kind of medical necessity.",
+        "You get to decide who knows about your mental health treatment. This is private medical information, and you can share it only with people you trust to be supportive."
+      ]
+    },
+    {
+      "id": 34,
+      "question": "Can depression affect my memory and concentration during cancer treatment?",
+      "answers": [
+        "Yes, depression can cause significant cognitive symptoms often called 'brain fog' or 'chemo brain' - though in this case it's 'depression brain.' Difficulty concentrating, remembering, and processing information is common.",
+        "The same brain regions affected by depression are involved in memory and executive function. The mental energy required to manage depressive thoughts leaves less capacity for cognitive tasks.",
+        "As depression improves, most people experience clearer thinking and better memory. Cognitive rehabilitation strategies can also help in the meantime."
+      ]
+    },
+    {
+      "id": 35,
+      "question": "What if my family doesn't believe in depression or antidepressants?",
+      "answers": [
+        "This is challenging, but remember: your treatment decisions are between you and your medical team. You don't need anyone's permission to get the care you need.",
+        "You can set a boundary: 'I appreciate your concern, but my doctors and I have decided this is the best medical treatment for me right now.'",
+        "Sometimes education helps. Share that depression is a physiological condition, not a personal failing. Or simply keep your treatment private - it's your health information to share or not."
+      ]
+    },
+    {
+      "id": 36,
+      "question": "I've lost interest in intimacy and sex. Is this the depression or the cancer?",
+      "answers": [
+        "It's often both. Depression dramatically reduces libido, while cancer treatments can cause physical changes that affect sexual function. They create a perfect storm for intimacy issues.",
+        "The emotional numbness of depression can make it hard to feel connected or interested in physical intimacy, separate from any physical side effects of treatment.",
+        "As depression lifts, interest in intimacy often returns. This is an important issue to discuss with both your oncologist and mental health provider, as there are solutions for both aspects."
+      ]
+    },
+    {
+      "id": 37,
+      "question": "How do I know if I need medication, therapy, or both?",
+      "answers": [
+        "For moderate to severe depression, research shows combination treatment (medication + therapy) is most effective. Medication can provide relatively quick symptom relief, while therapy builds lasting skills.",
+        "Your doctor will help determine the best approach based on your symptoms' severity, your preferences, and your treatment history. Severe symptoms often benefit from medication to create a foundation for therapy to work.",
+        "Think of it this way: medication can give you the energy to engage in therapy, and therapy can give you skills that might eventually allow you to reduce or discontinue medication."
+      ]
+    },
+    {
+      "id": 38,
+      "question": "I feel like I'm failing at having cancer because I'm depressed.",
+      "answers": [
+        "This thought reflects how cruel depression can be - it blames you for its own symptoms. You're not failing at cancer; you're experiencing a common complication of serious illness.",
+        "There's no 'right way' to have cancer. Every person's journey is unique. Getting treatment for depression isn't failing - it's proactively addressing one of cancer's toughest challenges.",
+        "Consider this: by acknowledging your depression and seeking treatment, you're actually demonstrating remarkable strength and self-awareness in your cancer journey."
+      ]
+    },
+    {
+      "id": 39,
+      "question": "Can depression cause physical symptoms like nausea or headaches?",
+      "answers": [
+        "Yes, depression can manifest with physical symptoms including headaches, digestive issues, generalized pain, and nausea. The brain-gut connection is particularly strong.",
+        "These 'somatic' symptoms are especially common in depression that occurs alongside medical illness. It can be hard to distinguish what's caused by depression versus treatment side effects.",
+        "If physical symptoms improve with antidepressant treatment, it suggests they were partly depression-related. Always report new physical symptoms to your oncology team to rule out other causes."
+      ]
+    },
+    {
+      "id": 40,
+      "question": "What if I start feeling better - will people think I was faking being depressed?",
+      "answers": [
+        "This is a common fear, but depression recovery doesn't mean you were 'faking' - it means treatment is working. People who understand depression will celebrate your improvement, not question your struggle.",
+        "Cancer treatment has good days and bad days; depression recovery does too. Improvement isn't linear, and people who care about you will understand this.",
+        "Your healing is what matters, not others' opinions. The people who matter will be relieved to see you feeling better, not skeptical about your previous pain."
+      ]
+    },
+    {
+      "id": 41,
+      "question": "I can't stop thinking about past mistakes and regrets. Is this part of depression?",
+      "answers": [
+        "Yes, rumination - repetitive, negative thinking about the past - is a core feature of depression. The brain gets stuck in negative thought loops it can't escape.",
+        "This isn't a character flaw or a sign that your regrets are especially meaningful - it's a symptom. Depression makes it hard to think flexibly or see multiple perspectives.",
+        "Cognitive behavioral therapy is particularly helpful for rumination, teaching techniques to recognize these patterns and shift to more balanced thinking."
+      ]
+    },
+    {
+      "id": 42,
+      "question": "Will exercise really help my depression when I can barely get out of bed?",
+      "answers": [
+        "While exercise can help mild to moderate depression, expecting yourself to exercise when severely depressed is like expecting someone with a broken leg to run. Treatment needs to come first.",
+        "When depression is severe, focus on 'movement' rather than 'exercise.' Getting from bed to chair, walking to the mailbox, or stretching for two minutes are victories.",
+        "As medication and therapy begin to work, you'll naturally have more energy for activity. Then gentle movement can become a powerful tool in maintaining your mental health."
+      ]
+    },
+    {
+      "id": 43,
+      "question": "What's the difference between depression and grief about my cancer diagnosis?",
+      "answers": [
+        "Grief typically comes in waves with moments of relief, is focused on specific losses, and allows for moments of happiness. Depression is more constant and pervasive, affecting your ability to experience pleasure at all.",
+        "With grief, you can usually imagine feeling better someday when you've adapted. With depression, the future often seems hopeless no matter what.",
+        "Many patients experience both simultaneously - grieving very real losses while also dealing with clinical depression. Both deserve attention and care."
+      ]
+    },
+    {
+      "id": 44,
+      "question": "I feel like no one understands how bad this feels. How can I explain it to them?",
+      "answers": [
+        "You might use metaphors: 'It feels like I'm drowning while everyone else is breathing air' or 'It's like having the flu emotionally - everything hurts and I have no energy for life.'",
+        "Some people find it helpful to rate their distress numerically: 'If 10 is the worst possible emotional pain, I'm at an 8 most days.'",
+        "Remember that you don't owe anyone an explanation. A simple 'I'm going through a very difficult time medically and emotionally' may be all you need to say."
+      ]
+    },
+    {
+      "id": 45,
+      "question": "Can depression make me not care about my cancer treatment?",
+      "answers": [
+        "Yes, apathy and loss of motivation are core depression symptoms. When you can't care about anything, it's hard to muster concern about treatment appointments or self-care.",
+        "This is particularly dangerous because it can affect treatment adherence. That's why it's so important to tell your oncology team if you're feeling this way.",
+        "As depression treatment takes effect, you'll likely find your motivation and concern for your health returning. This is one reason treating depression is medically urgent."
+      ]
+    },
+    {
+      "id": 46,
+      "question": "What if I have side effects from antidepressants?",
+      "answers": [
+        "Most side effects are temporary and diminish after 1-2 weeks. If side effects are bothersome, your doctor can adjust the dose, switch medications, or add something to manage side effects.",
+        "There are many different antidepressants with different side effect profiles. If one doesn't work well for you, another might be perfect. It's a process of finding the right fit.",
+        "Weigh temporary side effects against the constant misery of depression. Most people find that some initial side effects are worth tolerating for the depression relief that follows."
+      ]
+    },
+    {
+      "id": 47,
+      "question": "I feel like I'm losing my mind. Is this what depression feels like?",
+      "answers": [
+        "Yes, this feeling of 'going crazy' is very common in severe depression. The condition affects thinking, memory, and perception in ways that can feel frightening and alienating.",
+        "You're not losing your mind - you're experiencing a treatable medical condition that disrupts normal brain function. Your mind is still there, temporarily clouded by depression.",
+        "This terrifying feeling often improves significantly within the first few weeks of effective treatment as brain chemistry begins to stabilize."
+      ]
+    },
+    {
+      "id": 48,
+      "question": "Can depression make physical recovery from surgery or treatment slower?",
+      "answers": [
+        "Research suggests depression can impact physical healing through several pathways: increased inflammation, poorer sleep, reduced motivation for self-care, and sometimes poorer treatment adherence.",
+        "The stress hormone cortisol, which is often elevated in depression, can interfere with immune function and tissue repair.",
+        "This is another important reason to treat depression aggressively - it supports your body's physical healing processes in addition to helping you feel better emotionally."
+      ]
+    },
+    {
+      "id": 49,
+      "question": "What if I start crying in front of my doctor or nurse?",
+      "answers": [
+        "Medical professionals are used to tears - they understand that cancer is an emotional journey. Crying shows them the depth of your distress and helps them understand how to support you.",
+        "Tears can communicate what words can't. If you're crying, you're giving your team valuable information about your suffering.",
+        "Don't waste energy trying to hold back tears in medical settings. Let your emotions flow - it often leads to more compassionate care and important conversations about your mental health."
+      ]
+    },
+    {
+      "id": 50,
+      "question": "Will I ever feel like myself again?",
+      "answers": [
+        "Yes, this is the most important hope to hold onto. Depression treatment helps you reconnect with the parts of yourself that feel lost right now.",
+        "Many survivors describe emerging from depression feeling like themselves again, but often with greater wisdom, resilience, and appreciation for life.",
+        "The you that enjoys hobbies, connects with loved ones, and finds meaning in life is still there. Depression is hiding that person, not destroying them. With treatment, you will find your way back to yourself."
+      ]
+    },
+    {
+      "id": 51,
+      "question": "Can depression affect my appetite and weight during cancer treatment?",
+      "answers": [
+        "Yes, depression commonly causes significant changes in appetite - either loss of appetite or emotional eating. This can complicate the nutritional challenges already present during cancer treatment.",
+        "The same brain chemicals involved in mood regulation also control appetite. When they're imbalanced in depression, eating patterns often change dramatically.",
+        "As depression improves, appetite usually normalizes. If weight loss is severe, your team might consider medications that both treat depression and stimulate appetite."
+      ]
+    },
+    {
+      "id": 52,
+      "question": "I feel like I'm just going through the motions. Is this depression?",
+      "answers": [
+        "Yes, this sense of automatism or 'faking it' is common in depression. It's called depersonalization - feeling detached from your own actions and experiences.",
+        "When depression numbs your emotions, life can feel like you're an actor playing the role of yourself rather than truly living your life.",
+        "This robotic feeling typically lifts as depression treatment takes effect. Many people describe the moment they suddenly felt 'real' again as a breakthrough in their recovery."
+      ]
+    },
+    {
+      "id": 53,
+      "question": "What if my depression doesn't respond to first-line treatments?",
+      "answers": [
+        "There are multiple options if first treatments aren't fully effective: adjusting dosage, switching medications, adding a second medication, or trying different therapy approaches.",
+        "For treatment-resistant depression, there are advanced options like TMS (Transcranial Magnetic Stimulation) or ketamine/esketamine treatments that can be effective when standard approaches haven't worked.",
+        "The key is persistent communication with your treatment team. 'Treatment-resistant' doesn't mean 'untreatable' - it means you need a different approach, and there are many to try."
+      ]
+    },
+    {
+      "id": 54,
+      "question": "Can depression make me feel physically heavy, like I'm moving through cement?",
+      "answers": [
+        "Yes, this sensation of physical heaviness or leaden paralysis is a recognized symptom of depression, particularly melancholic depression. It feels like gravity has intensified.",
+        "This isn't just in your head - depression causes measurable changes in motor activity and perceived effort. Tasks that should be easy feel physically impossible.",
+        "This symptom often improves dramatically with antidepressant treatment. Patients frequently report the 'cement shoes' feeling lifting within the first few weeks of effective medication."
+      ]
+    },
+    {
+      "id": 55,
+      "question": "How can I support my partner who's depressed from their cancer diagnosis?",
+      "answers": [
+        "Offer practical help rather than asking 'What can I do?' Say 'I'm going to the store - what can I pick up?' or 'I'm handling dinner tonight.' Decision-making is hard when depressed.",
+        "Validate their feelings without trying to fix them. 'I can see how painful this is for you' is more helpful than 'You should try to be more positive.'",
+        "Gently encourage professional help: 'I'm worried about you and I think talking to someone might help. Can I help you make an appointment?' Then follow through with practical support."
+      ]
+    },
+    {
+      "id": 56,
+      "question": "Will depression affect how well my cancer treatment works?",
+      "answers": [
+        "While depression itself doesn't directly make cancer treatments less effective, it can impact behaviors that influence outcomes: poor adherence to treatment, missed appointments, and difficulty with self-care.",
+        "Some research suggests chronic stress and depression might affect immune function in ways that could theoretically impact cancer progression, though this is complex and not fully understood.",
+        "The clearest benefit of treating depression is improving quality of life and ensuring you can fully engage with your cancer treatment plan."
+      ]
+    },
+    {
+      "id": 57,
+      "question": "I have a history of depression before cancer. Will this make my recovery harder?",
+      "answers": [
+        "Having a prior history does increase vulnerability, but it also means you and your doctors have experience with what treatments have worked for you before.",
+        "Think of it as having a map from previous journeys through depression. You know the territory and what helps you navigate it, even if the current circumstances are different.",
+        "Your treatment team can build on what's worked in the past while addressing the unique challenges that cancer adds to your depression recovery."
+      ]
+    },
+    {
+      "id": 58,
+      "question": "Can depression cause dizziness or balance problems?",
+      "answers": [
+        "Yes, depression and anxiety can cause dizziness, lightheadedness, and feelings of unsteadiness. This is related to the vestibular system's connection to brain areas regulating emotion.",
+        "It can be challenging to distinguish depression-related dizziness from treatment side effects or other medical issues. Always report new dizziness to your oncology team.",
+        "If other causes are ruled out and the dizziness is depression-related, it typically improves along with other depression symptoms during treatment."
+      ]
+    },
+    {
+      "id": 59,
+      "question": "What's the difference between depression and just being tired from cancer treatment?",
+      "answers": [
+        "Cancer fatigue is primarily physical - your body needs rest. Depression fatigue is mental and emotional - you lack the motivation or mental energy to engage with life, even if physically able.",
+        "With cancer fatigue, you typically still want to do things but lack physical energy. With depression, you often have little interest in activities even if you had the energy.",
+        "They often occur together, creating a devastating cycle. Treating depression can give you the mental resources to better manage physical fatigue through activity pacing and self-care."
+      ]
+    },
+    {
+      "id": 60,
+      "question": "Will I need to see a psychiatrist or can my oncologist manage my depression?",
+      "answers": [
+        "Many oncologists are comfortable managing mild to moderate depression, especially with medications they frequently use for other purposes (like certain antidepressants for nerve pain).",
+        "For more complex cases, treatment-resistant depression, or if therapy is needed, referral to a psychiatrist (especially a psycho-oncologist) is recommended.",
+        "The best approach is often collaborative - your oncologist manages basic antidepressant treatment while a psychiatrist or therapist provides specialized mental health care."
+      ]
+    },
+    {
+      "id": 61,
+      "question": "Can depression make my anxiety about scan results or tests worse?",
+      "answers": [
+        "Absolutely. Depression and anxiety feed each other. Depression creates a negative filter that makes you expect the worst outcomes, while anxiety provides the catastrophic scenarios.",
+        "The 'scanxiety' that most cancer patients experience can become overwhelming when depression is present. Normal worry transforms into paralyzing dread.",
+        "Treating depression often reduces the intensity of health-related anxiety. Cognitive therapy can also provide specific tools to manage scan-related fears more effectively."
+      ]
+    },
+    {
+      "id": 62,
+      "question": "I feel like I'm disappointing everyone by being depressed. What should I do?",
+      "answers": [
+        "This feeling comes from depression's distortion of your relationships. The people who love you are worried about YOU, not disappointed in you.",
+        "Try this reframe: By getting treatment for depression, you're actually giving your loved ones what they truly want - for you to feel better.",
+        "The most disappointing outcome for those who care about you would be for you to suffer needlessly with untreated depression when help is available."
+      ]
+    },
+    {
+      "id": 63,
+      "question": "Can depression affect my breathing or make me feel short of breath?",
+      "answers": [
+        "Yes, depression and anxiety can cause sensations of breathlessness or air hunger, even when oxygen levels are normal. This is often related to changes in breathing patterns during emotional distress.",
+        "It's crucial to report any new breathing symptoms to your oncology team to rule out physical causes related to cancer or treatment.",
+        "If breathing issues are anxiety-related, breathing retraining and relaxation techniques can help. As depression improves, these somatic symptoms often resolve."
+      ]
+    },
+    {
+      "id": 64,
+      "question": "What if I can't afford depression treatment on top of cancer care?",
+      "answers": [
+        "Many cancer centers have financial counselors and support services that can help with mental health care costs. Oncology social workers are excellent resources for finding affordable options.",
+        "Community mental health centers often offer sliding scale fees based on income. Many therapists also offer reduced rates for patients with significant medical expenses.",
+        "Some pharmaceutical companies have patient assistance programs that provide antidepressants at low or no cost for qualified patients. Your doctor's office may have information about these."
+      ]
+    },
+    {
+      "id": 65,
+      "question": "Will treating my depression make me less vigilant about my cancer symptoms?",
+      "answers": [
+        "No, effective depression treatment typically improves your ability to be appropriately vigilant about your health rather than catastrophizing or becoming hopeless about symptoms.",
+        "Depression often causes either excessive worry about health (hypochondriasis) or complete avoidance/numbing. Treatment helps you find a balanced middle ground.",
+        "With treated depression, you're more likely to notice real symptoms and report them to your medical team promptly, without being overwhelmed by anxiety or despair."
+      ]
+    }
+  ]
+}

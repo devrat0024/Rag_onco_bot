@@ -1,0 +1,454 @@
+{
+  "depression_qa": [
+    {
+      "id": 1,
+      "question": "I feel numb and empty all the time. Is this depression?",
+      "answers": [
+        "Emotional numbness and a hollow feeling are very common depression symptoms. It's not just sadness - it's often an absence of feeling altogether.",
+        "Yes, this can be part of depression. The medical term is 'anhedonia' - the inability to feel pleasure in things you usually enjoy.",
+        "Many people describe this exact feeling. It's your brain's way of protecting you from overwhelming emotions, but it needs treatment to reset."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "I can't get out of bed in the morning. How do I find the motivation?",
+      "answers": [
+        "Start with tiny goals - just sitting up, then putting feet on the floor. Celebrate these small victories; they're huge when you're depressed.",
+        "This is classic depression fatigue. Try placing water and medication by your bed the night before. Sometimes starting your day hydrated helps.",
+        "Don't try to solve the whole day - just focus on the next five minutes. Getting vertical is an accomplishment worth recognizing today."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Everything feels hopeless. Will I ever feel normal again?",
+      "answers": [
+        "Depression lies to you about permanence. The hopelessness is a symptom, not reality. Treatment can and does help millions feel like themselves again.",
+        "Yes, this is the depression talking, not truth. The brain can heal with proper treatment, just like any other organ.",
+        "I know it feels endless right now, but depression is one of the most treatable mental health conditions. The first step is reaching out for help."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "I'm crying all the time for no reason. Is this normal with depression?",
+      "answers": [
+        "Absolutely normal. Uncontrollable crying spells are very common - your emotional regulation system is overwhelmed and needs support.",
+        "Yes, this is your body releasing built-up emotional pain. The tears are a physical manifestation of what you're carrying internally.",
+        "Many people experience this. It's not 'for no reason' - the reason is depression affecting your brain chemistry and emotional control centers."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "I feel so guilty about being depressed when others have it worse.",
+      "answers": [
+        "Depression isn't a competition. Your pain is valid regardless of others' circumstances. Suffering isn't comparative - yours matters.",
+        "This guilt is actually a common depression symptom. The illness distorts your thinking to make you feel undeserving of care.",
+        "Would you tell a friend with pneumonia they shouldn't treat it because others have cancer? Depression is an illness that deserves treatment too."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "How do I explain depression to loved ones who don't understand?",
+      "answers": [
+        "Try analogies: 'It's like my brain's battery is dead and won't charge' or 'It's a physical illness that affects my thoughts and energy.'",
+        "Share reputable resources from mental health organizations. Sometimes hearing from experts helps family understand it's a real medical condition.",
+        "Focus on what you need: 'I know it's hard to understand, but I need your support rather than solutions right now.'"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "I've lost interest in everything I used to love. Will I ever enjoy hobbies again?",
+      "answers": [
+        "This loss of pleasure (anhedonia) is temporary. As treatment progresses, you'll gradually rediscover enjoyment in your favorite activities.",
+        "Yes, the capacity for joy returns as depression lifts. It might feel mechanical at first, but slowly the natural pleasure response comes back.",
+        "Think of it like a muted color palette - depression dulls everything. With treatment, the vibrancy and richness of experience returns."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "My mind feels foggy and I can't concentrate. Is this part of depression?",
+      "answers": [
+        "Yes, 'brain fog' is a very real depression symptom. Your cognitive resources are depleted - thinking takes enormous energy right now.",
+        "This is called cognitive dysfunction. Memory, focus, and decision-making are often impaired because depression affects executive brain function.",
+        "Absolutely. It's like trying to think through thick mud. This improves with treatment - your clear thinking will return as you heal."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "I'm sleeping all the time or can't sleep at all. How does depression affect sleep?",
+      "answers": [
+        "Depression disrupts sleep architecture. Some people hypersleep to escape, others can't sleep due to racing thoughts - both are common.",
+        "Sleep disturbances are core depression symptoms. Your brain's regulation of sleep-wake cycles is chemically disrupted by the illness.",
+        "Yes, both extremes happen. Oversleeping provides temporary relief from painful feelings, while insomnia often accompanies anxiety that co-occurs with depression."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "I feel like a burden to everyone. How do I stop these thoughts?",
+      "answers": [
+        "This is depression distorting your self-perception. People who care about you want to help - accepting support isn't burdening them.",
+        "Try this cognitive technique: Would you consider a loved one with depression a burden? Probably not. Apply that same compassion to yourself.",
+        "These thoughts are symptoms, not truths. As treatment progresses, this exaggerated sense of being a burden will diminish."
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Should I try medication? I'm worried about side effects.",
+      "answers": [
+        "Modern antidepressants are much better tolerated than older ones. Most side effects are temporary while your body adjusts over 2-4 weeks.",
+        "It's reasonable to discuss concerns with your doctor. There are multiple medication options - if one has problematic side effects, others can be tried.",
+        "Consider the cost-benefit: Temporary side effects versus ongoing depression. For many, medication provides the stability needed for other therapies to work."
+      ]
+    },
+    {
+      "id": 12,
+      "question": "How do I know if I need therapy or just need to 'snap out of it'?",
+      "answers": [
+        "If you could snap out of it, you would have already. Depression isn't a choice or weakness - it's a medical condition that deserves professional treatment.",
+        "Therapy provides tools and perspectives you can't access alone when depressed. A therapist is like a guide when you're lost in the woods.",
+        "Would you expect yourself to 'snap out' of diabetes or asthma? Depression is similarly a physical illness of the brain that needs proper treatment."
+      ]
+    },
+    {
+      "id": 13,
+      "question": "I have dark thoughts that scare me. What should I do?",
+      "answers": [
+        "Tell someone immediately - a doctor, therapist, or crisis line. These thoughts are medical emergencies, not personal failures.",
+        "Please call 988 (suicide and crisis lifeline) or go to the nearest emergency room. These thoughts are symptoms that need urgent treatment.",
+        "Dark thoughts are the depression talking, not your true self. With proper treatment, they will pass. Please reach for professional help right now."
+      ]
+    },
+    {
+      "id": 14,
+      "question": "My appetite has completely changed. Is this related to depression?",
+      "answers": [
+        "Yes, significant appetite changes - either increase or decrease - are very common. Depression affects the brain regions that regulate hunger.",
+        "Absolutely. Some people lose interest in food entirely, while others use food for comfort. Both are ways your body responds to the emotional pain.",
+        "This is a core depression symptom. As treatment helps, your appetite regulation will normalize. For now, focus on small, nutritious foods when possible."
+      ]
+    },
+    {
+      "id": 15,
+      "question": "I feel physically heavy, like I'm moving through cement. Is this normal?",
+      "answers": [
+        "Yes, this 'leadened paralysis' feeling is a real depression symptom. Your nervous system is depleted, making movement feel physically difficult.",
+        "This is psychomotor retardation - depression literally slows your physical movements and makes everything feel effortful.",
+        "Many people describe this exact sensation. It's not laziness - it's your body manifesting the psychological weight you're carrying."
+      ]
+    },
+    {
+      "id": 16,
+      "question": "How long does depression treatment take to work?",
+      "answers": [
+        "Most people notice some improvement in 2-4 weeks, with more significant changes in 6-8 weeks. Full recovery often takes several months.",
+        "It's a gradual process - like climbing out of a deep hole. Small improvements build over time. Be patient with the process and yourself.",
+        "Therapy can provide immediate coping tools, while medications typically take several weeks. Combination treatment often works fastest."
+      ]
+    },
+    {
+      "id": 17,
+      "question": "I'm irritable and snapping at everyone. Why is depression making me angry?",
+      "answers": [
+        "Irritability is a very common, though less discussed, depression symptom. When you're emotionally depleted, you have less capacity for patience.",
+        "Yes, depression often presents as anger, especially in men. The internal pain comes out as irritability toward others.",
+        "Think of it like a pain response - when you're in constant emotional pain, any additional stress feels unbearable and comes out as anger."
+      ]
+    },
+    {
+      "id": 18,
+      "question": "Should I exercise when I have no energy?",
+      "answers": [
+        "Even 5-10 minutes of gentle movement can help. The goal isn't fitness - it's stimulating your nervous system and releasing mood-boosting chemicals.",
+        "Start tiny - just walking to the mailbox or stretching. Depression recovery is about small, consistent efforts, not grand gestures.",
+        "Yes, but adjust expectations. A 'walk' might mean walking to the end of your driveway. Any movement counts when you're depressed."
+      ]
+    },
+    {
+      "id": 19,
+      "question": "I keep canceling plans and isolating myself. How do I stop this cycle?",
+      "answers": [
+        "Isolation fuels depression. Try committing to just showing up for 15 minutes - you can always leave early, but often the hardest part is getting there.",
+        "This is depression's self-perpetuating cycle. The less you do, the worse you feel. Breaking it with small social steps is crucial for recovery.",
+        "Be honest with trusted friends: 'I'm struggling but want to connect. Can we do something low-key for a short time?' Good friends will understand."
+      ]
+    },
+    {
+      "id": 20,
+      "question": "Will I have to take medication forever?",
+      "answers": [
+        "Not necessarily. Many people use medication for 6-12 months after feeling better, then taper off under medical supervision.",
+        "It depends on your individual situation. Some people benefit from long-term medication, just like people with chronic physical conditions.",
+        "The goal is to use medication as long as needed to stabilize and learn coping skills. Many eventually taper off successfully with their doctor's guidance."
+      ]
+    },
+    {
+      "id": 21,
+      "question": "How do I find a therapist when I can barely make phone calls?",
+      "answers": [
+        "Ask a trusted person to help make calls. Many therapists now offer online booking - look for 'request appointment' buttons on psychology today profiles.",
+        "Start with your primary doctor for a referral. They often have trusted therapists they work with and can facilitate the connection.",
+        "Try online therapy platforms that simplify matching. The barrier to starting is lower when you can text or email rather than call."
+      ]
+    },
+    {
+      "id": 22,
+      "question": "I feel like I'm faking or being dramatic. Am I really depressed?",
+      "answers": [
+        "Imposter syndrome is incredibly common with depression. The fact you're questioning whether you're 'sick enough' suggests you probably are.",
+        "This self-doubt is actually a depression symptom. The illness tricks you into believing you're not legitimately unwell.",
+        "If you're wondering this, you're likely experiencing real symptoms. People faking illness don't worry about whether they're faking."
+      ]
+    },
+    {
+      "id": 23,
+      "question": "Can depression cause physical pain?",
+      "answers": [
+        "Yes, depression often manifests physically - headaches, stomach issues, muscle pain, and general aches are very common.",
+        "Absolutely. Depression lowers your pain threshold and causes inflammation throughout the body. The mind-body connection is very real.",
+        "Chronic pain and depression frequently co-occur. Treating depression often improves physical symptoms, and vice versa."
+      ]
+    },
+    {
+      "id": 24,
+      "question": "I'm neglecting basic self-care. How do I start again?",
+      "answers": [
+        "Break it down to microscopic steps: 'Brush one tooth' often leads to brushing all. 'Put on clean socks' is a victory. Small wins build momentum.",
+        "Use the 'just one thing' rule - if you can only manage one self-care task today, that's enough. Tomorrow might be two things.",
+        "Lower your standards temporarily. A 30-second rinse in the shower counts. Baby wipes instead of bathing counts. Depression recovery means redefining success."
+      ]
+    },
+    {
+      "id": 25,
+      "question": "Why does depression make everything feel so meaningless?",
+      "answers": [
+        "Depression disrupts your brain's reward system, stripping meaning from activities and relationships that usually matter. This is a chemical effect, not reality.",
+        "This existential emptiness is a core symptom. The neural pathways that register significance and purpose are temporarily offline.",
+        "It's like watching a movie with the sound off - you see what's happening but miss the meaning. Treatment helps restore the 'soundtrack' to your life."
+      ]
+    },
+    {
+      "id": 26,
+      "question": "How do I handle work when I can't concentrate?",
+      "answers": [
+        "Break tasks into 5-minute chunks. Use timers - work for 5, rest for 15. Communicate needs simply: 'I'm managing a health condition and doing my best.'",
+        "Focus on one priority task per day. Depression means operating at reduced capacity - adjust expectations and focus on essentials only.",
+        "Consider discussing accommodations with HR if needed. The Americans with Disabilities Act covers depression, allowing for flexible arrangements during treatment."
+      ]
+    },
+    {
+      "id": 27,
+      "question": "I feel so ashamed of being depressed.",
+      "answers": [
+        "Shame is depression's favorite weapon. Remember: you didn't choose this illness any more than you'd choose cancer or diabetes.",
+        "This shame comes from stigma, not truth. Depression is a medical condition involving brain chemistry, genetics, and life stressors - not character.",
+        "Would you feel ashamed of having asthma? Both are physical conditions requiring treatment. The shame will ease as you understand depression medically."
+      ]
+    },
+    {
+      "id": 28,
+      "question": "Can depression be cured or just managed?",
+      "answers": [
+        "Many people experience full recovery, especially with early treatment. For others, it's a chronic condition managed successfully like diabetes or hypertension.",
+        "Think of it like a broken bone - it can heal completely, but you might always be more aware of that area. Full symptom remission is absolutely possible.",
+        "Yes, people do recover fully. Even if symptoms return later, you'll have tools and knowledge to address them more quickly."
+      ]
+    },
+    {
+      "id": 29,
+      "question": "I'm having memory problems. Is this related to depression?",
+      "answers": [
+        "Yes, depression significantly affects memory formation and recall. Your brain is using all its resources just to cope, leaving little for memory.",
+        "This is called cognitive dysfunction. The hippocampus (memory center) actually shrinks during depression but regenerates with treatment.",
+        "Absolutely. When you're depressed, your brain is preoccupied with emotional survival. Cognitive functions like memory often suffer as a result."
+      ]
+    },
+    {
+      "id": 30,
+      "question": "How do I know if I need hospitalization?",
+      "answers": [
+        "If you have thoughts of harming yourself or cannot care for your basic needs (eating, safety), go to the emergency room immediately.",
+        "When outpatient treatment isn't enough to keep you safe, hospitalization provides intensive support and medication adjustment in a secure environment.",
+        "If you're unsure, call a crisis line (988) or your therapist. They can assess whether you need this level of care. When in doubt, err toward safety."
+      ]
+    },
+    {
+      "id": 31,
+      "question": "Why do small tasks feel overwhelming?",
+      "answers": [
+        "Depression depletes your executive function - the brain's task manager. Simple tasks require enormous mental energy you don't have right now.",
+        "It's like your brain's computer has too many programs running in the background. There's no processing power left for basic tasks.",
+        "This is a classic symptom. Decision-making and initiation are impaired. Breaking tasks into tiny steps and using timers can help manage this feeling."
+      ]
+    },
+    {
+      "id": 32,
+      "question": "I feel disconnected from my body, like I'm watching myself from outside.",
+      "answers": [
+        "This is depersonalization/derealization - a common trauma response that often accompanies severe depression. It's your mind's way of coping with overwhelming pain.",
+        "Yes, this dissociative feeling is a protection mechanism. As you feel safer through treatment, this 'out of body' experience will diminish.",
+        "This is your nervous system's emergency mode. Grounding techniques (naming things you see/hear/feel) can help reconnect you to your body in the moment."
+      ]
+    },
+    {
+      "id": 33,
+      "question": "Should I tell my employer about my depression?",
+      "answers": [
+        "You're not obligated to disclose, but if you need accommodations, HR can help confidentially. Focus on functional needs rather than diagnosis.",
+        "Consider your workplace culture and needs. You might say 'I'm managing a health condition' rather than specifying depression if you're concerned about stigma.",
+        "If requesting formal accommodations, work with HR and provide documentation from your doctor. You're protected by disability laws in most cases."
+      ]
+    },
+    {
+      "id": 34,
+      "question": "I can't stop ruminating on negative thoughts.",
+      "answers": [
+        "Rumination is depression's hamster wheel. Try 'thought stopping' - literally saying 'stop' aloud, then distracting yourself with an activity.",
+        "This repetitive negative thinking is a core symptom. Cognitive behavioral therapy specifically targets breaking these cycles.",
+        "Set a 'worry time' - 15 minutes daily to ruminate, then postpone these thoughts until the next day. This contains rather than eliminates them."
+      ]
+    },
+    {
+      "id": 35,
+      "question": "Will antidepressants change my personality?",
+      "answers": [
+        "No, they'll help return you to yourself. Depression changes your personality - treatment removes the depression, not your essential self.",
+        "You'll still be you, just without the overwhelming negative filter. Most people feel more like themselves, not less, on proper medication.",
+        "Antidepressants target specific symptoms like anhedonia and irritability. They don't create artificial happiness - they restore your natural emotional range."
+      ]
+    },
+    {
+      "id": 36,
+      "question": "How do I know if it's depression or just normal sadness?",
+      "answers": [
+        "Duration and impairment are key. Sadness lifts; depression persists for weeks/months and significantly impacts functioning.",
+        "Sadness has a cause and fluctuates. Depression often lacks clear cause and remains consistently heavy, affecting sleep, appetite, and concentration.",
+        "If you're asking this question, it's likely beyond normal sadness. People experiencing typical sadness rarely wonder if they're depressed."
+      ]
+    },
+    {
+      "id": 37,
+      "question": "I feel too depressed to even help myself. What's the point of trying?",
+      "answers": [
+        "This is the depression talking. Start with one tiny action - making a doctor's appointment or telling one person. Momentum builds from micro-actions.",
+        "You don't need to 'help yourself' alone. Let professionals help you initially - your job is just to show up and be open to treatment.",
+        "The point is that this feeling is temporary, even though it doesn't feel that way. Treatment can lift this hopelessness faster than waiting it out."
+      ]
+    },
+    {
+      "id": 38,
+      "question": "Can depression come back after recovery?",
+      "answers": [
+        "Recurrence is possible, but now you'll have warning signs, coping skills, and knowledge to address it early, making episodes shorter and less severe.",
+        "Yes, depression can be episodic. Think of it like any chronic condition - you manage it proactively rather than being caught off guard.",
+        "Many people have only one major episode. For those with recurrence, maintenance treatment (therapy/medication) can prevent future episodes."
+      ]
+    },
+    {
+      "id": 39,
+      "question": "I'm neglecting responsibilities. How do I manage the consequences?",
+      "answers": [
+        "Prioritize survival tasks first (housing, employment). For less critical areas, give yourself grace - some things can wait until you're healthier.",
+        "Communicate simply: 'I'm dealing with a health issue and doing my best.' Most people are more understanding than we expect.",
+        "Make one small effort daily toward your biggest concern. One email, one bill paid. Slow progress is still progress during recovery."
+      ]
+    },
+    {
+      "id": 40,
+      "question": "Why does depression make me feel so lonely in a room full of people?",
+      "answers": [
+        "Depression creates an invisible barrier between you and others. The illness convinces you that no one could understand what you're experiencing.",
+        "This profound loneliness is a hallmark symptom. It's not about physical proximity - it's the feeling that your internal experience can't be shared.",
+        "Your brain's social connection systems are disrupted. As treatment helps, this isolating barrier will lift and you'll feel genuinely connected again."
+      ]
+    },
+    {
+      "id": 41,
+      "question": "How do I handle bad days during recovery?",
+      "answers": [
+        "Expect setbacks - recovery isn't linear. On bad days, return to basic self-care and remember that tomorrow will likely be better.",
+        "Use your coping toolkit even when it feels pointless. The discipline of practicing skills on hard days builds resilience.",
+        "Bad days don't erase progress. Think of recovery like stock market growth - temporary dips don't negate the overall upward trend."
+      ]
+    },
+    {
+      "id": 42,
+      "question": "I feel nothing toward my loved ones. Will these feelings return?",
+      "answers": [
+        "Yes, the emotional numbness will lift with treatment. Your capacity for connection and affection is still there - it's just buried under depression.",
+        "This is anhedonia affecting relationships. As your brain's reward system heals, natural feelings of connection and love will reemerge.",
+        "Many people experience this temporary emotional flatlining. It's incredibly distressing but reversible. The feelings aren't gone - just inaccessible right now."
+      ]
+    },
+    {
+      "id": 43,
+      "question": "Can depression be triggered by a specific event?",
+      "answers": [
+        "Yes, situational depression is common after loss, trauma, or major stress. The event triggers a depressive episode that then develops its own momentum.",
+        "Absolutely. While some depression seems to come from nowhere, many cases have clear triggers that overwhelm the brain's coping capacity.",
+        "Both types are valid. Whether there's a clear cause or not, the treatment is similar - addressing the brain chemistry and thought patterns maintaining the depression."
+      ]
+    },
+    {
+      "id": 44,
+      "question": "I'm having anxiety along with depression. Is this common?",
+      "answers": [
+        "Extremely common - they're often called 'first cousins.' Depression looks backward with regret, anxiety looks forward with fear, and many people experience both.",
+        "Yes, this combination is the rule rather than the exception. Treatment typically addresses both simultaneously since they share underlying mechanisms.",
+        "Absolutely. The restless agitation of anxiety and the heavy fatigue of depression can alternate or coexist, creating a particularly challenging experience."
+      ]
+    },
+    {
+      "id": 45,
+      "question": "How do I find the right therapist?",
+      "answers": [
+        "Look for someone specializing in depression treatment (CBT, ACT, or IPT). Schedule consultations with 2-3 to find someone you feel comfortable with.",
+        "The therapeutic relationship matters most. Pay attention to whether you feel heard, understood, and hopeful after the first session.",
+        "Consider practical factors: insurance, availability, telehealth options. The best therapist is one you can actually see consistently."
+      ]
+    },
+    {
+      "id": 46,
+      "question": "I feel like I'm failing at depression treatment.",
+      "answers": [
+        "There's no 'failing' - only finding what works for you. If current treatment isn't helping, that's valuable information to adjust your approach.",
+        "Depression treatment is trial and error. What doesn't work eliminates options, moving you closer to what will work. This is progress, not failure.",
+        "The fact you're still trying means you're succeeding. Depression recovery is messy and non-linear. Showing up despite discouragement is the real victory."
+      ]
+    },
+    {
+      "id": 47,
+      "question": "Why do I feel worse in the mornings?",
+      "answers": [
+        "Morning worsening is classic in depression. Cortisol patterns are disrupted, making mornings particularly difficult. This often improves as treatment progresses.",
+        "This diurnal variation is very common. The emptiness of a new day can feel overwhelming when you're depressed. Energy and mood often improve slightly as the day continues.",
+        "Yes, many people experience this. Your brain chemicals are at their lowest after sleep. As you move through the day, even slight activity can provide minimal relief."
+      ]
+    },
+    {
+      "id": 48,
+      "question": "How do I know when I'm getting better?",
+      "answers": [
+        "Look for small signs: sleeping slightly better, managing one more task, a moment of genuine laughter. Recovery happens in tiny increments.",
+        "You might notice the 'volume' of negative thoughts has turned down slightly, or basic self-care feels less impossible. These are meaningful improvements.",
+        "Often others notice first. Ask trusted people if they see changes. Recovery is sometimes more visible from the outside initially."
+      ]
+    },
+    {
+      "id": 49,
+      "question": "I'm scared I'll never be the person I was before depression.",
+      "answers": [
+        "You might not be - and that can be positive. Many people emerge from depression with greater wisdom, resilience, and self-awareness.",
+        "Think of it as an upgrade rather than a loss. You'll integrate this experience into who you're becoming, which might be someone even more authentic.",
+        "The core you is still there, waiting to reemerge. Depression obscures but doesn't destroy your essential self. With healing, you'll recognize yourself again."
+      ]
+    },
+    {
+      "id": 50,
+      "question": "What gives people hope during depression recovery?",
+      "answers": [
+        "Statistics help - knowing that millions have recovered before you. The brain's remarkable ability to heal itself with proper support.",
+        "Small moments of relief - the first genuine smile, the first task completed without overwhelming effort. These glimpses keep hope alive.",
+        "Connection with others who've been there. Hearing 'I felt exactly that way and now I'm better' provides tangible hope that recovery is possible."
+      ]
+    }
+  ]
+}

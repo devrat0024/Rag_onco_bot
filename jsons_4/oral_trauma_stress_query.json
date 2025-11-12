@@ -1,0 +1,454 @@
+{
+  "ptsd_questions_after_oral_cancer_diagnosis": [
+    {
+      "id": 1,
+      "question": "Is it normal to have flashbacks of my cancer diagnosis or treatment?",
+      "answers": [
+        "Yes, this is a very common experience. Your brain is trying to process the traumatic events you've been through. These flashbacks are your mind's way of working through what happened.",
+        "Intrusive memories and flashbacks are core symptoms of post-traumatic stress. Having experienced life-threatening illness and intensive treatments qualifies as trauma for many people.",
+        "Many cancer survivors experience these sudden, vivid memories. They can be distressing, but they are a normal response to an abnormal situation. You're not going crazy."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Why do I feel emotionally numb since finishing treatment?",
+      "answers": [
+        "Emotional numbness is a protective response after trauma. Your nervous system may be overwhelmed and has temporarily 'shut down' certain feelings to help you cope.",
+        "This is a common symptom of PTSD. The emotional system can become overloaded and go into a kind of protective hibernation. The feelings will likely return as you heal.",
+        "Think of this numbness as your mind's way of giving you a break from intense emotions. It's temporary and usually improves with time and support."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Why do I jump at every little sound and feel constantly on edge?",
+      "answers": [
+        "Your nervous system has been through a major threat and is now in a heightened state of alert. This hypervigilance is your body's attempt to protect you from future danger.",
+        "This is called hyperarousal - a common PTSD symptom. Your fight-or-flight system is stuck in the 'on' position after the trauma of cancer treatment.",
+        "Your body is behaving exactly as it should after a life-threatening experience. We need to help your nervous system learn that the immediate danger has passed."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "How are cancer-related PTSD symptoms different from regular anxiety?",
+      "answers": [
+        "PTSD symptoms are specifically tied to the trauma you experienced - they often include reliving the event through flashbacks or nightmares, avoiding reminders, and being constantly on alert.",
+        "While anxiety is general worry, PTSD involves re-experiencing the trauma, emotional numbness, and hypervigilance specifically related to your cancer experience.",
+        "The key difference is that PTSD symptoms are directly connected to the traumatic memories of your diagnosis and treatment, rather than general worries about the future."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Will these PTSD symptoms go away on their own?",
+      "answers": [
+        "For some people, symptoms gradually improve with time and support. For others, professional treatment is needed to fully process the trauma and find relief.",
+        "While many people see improvement over time, PTSD symptoms often benefit from specific trauma-focused therapies that can accelerate healing.",
+        "You don't have to wait and see. There are effective treatments available now that can help you process the trauma and reduce these symptoms more quickly."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Why do I avoid anything that reminds me of cancer, even my follow-up appointments?",
+      "answers": [
+        "Avoidance is a natural protective mechanism after trauma. Your mind is trying to shield you from anything that might trigger painful memories or feelings.",
+        "This is a classic PTSD symptom. While understandable, avoiding necessary medical care can become problematic. We can work on making these appointments feel safer.",
+        "Your brain has learned that 'cancer-related things equal danger.' We need to gently reteach it that you can handle these reminders without being overwhelmed."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "I have nightmares about cancer treatment - is this PTSD?",
+      "answers": [
+        "Yes, recurrent nightmares about traumatic events are a common symptom of PTSD. Your mind is processing the trauma during sleep when your defenses are down.",
+        "Trauma-related nightmares are different from regular bad dreams. They often replay actual events or themes from your cancer experience and can feel very real.",
+        "These nightmares are your brain's attempt to make sense of what happened. There are specific treatments that can help reduce trauma nightmares."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Why do I feel guilty that I survived when others don't?",
+      "answers": [
+        "Survivor's guilt is common after life-threatening illnesses. It's a natural response when you've witnessed others struggle or not make it through similar experiences.",
+        "This guilt often comes from the human need to find meaning and fairness in suffering. It's a normal, though painful, part of processing cancer trauma.",
+        "Your guilt shows your capacity for empathy. With time and support, this often transforms into gratitude and a sense of purpose in your survival."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "How can I handle medical appointments without having panic attacks?",
+      "answers": [
+        "We can create a step-by-step plan to make medical settings feel safer. This might include bringing support people, using relaxation techniques, or having a 'safe word' if you need a break.",
+        "Systematic desensitization can help - gradually exposing yourself to medical settings while using coping skills to manage anxiety.",
+        "Let's work with your care team to make appointments more trauma-informed. We can arrange for quieter waiting areas or longer appointment times to reduce rushing."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Will talking about my trauma make the PTSD worse?",
+      "answers": [
+        "When done with a trained trauma therapist, processing the trauma in a safe, controlled way actually helps reduce PTSD symptoms over time.",
+        "There's a difference between randomly reliving trauma and therapeutic processing. A good therapist will help you approach memories gradually and with strong coping skills in place.",
+        "The goal isn't to retraumatize you, but to help your brain properly store the memories so they're less intrusive and distressing."
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Why can't I remember parts of my treatment?",
+      "answers": [
+        "Memory gaps are common after trauma. Your brain may have blocked out particularly distressing moments as a protective measure.",
+        "High stress and some medications during treatment can affect memory formation. It's also common for trauma survivors to have fragmented recall of traumatic events.",
+        "This is your mind's way of protecting you from overwhelming experiences. The memories may return gradually as you feel safer, or they may remain inaccessible - both are normal."
+      ]
+    },
+    {
+      "id": 12,
+      "question": "How do I explain PTSD from cancer to friends who think I should be 'over it'?",
+      "answers": [
+        "You might explain that cancer was a traumatic life event, and PTSD is a normal response to trauma - not a sign of weakness or ingratitude for survival.",
+        "Some people find it helpful to use physical analogies: 'If I had a physical injury from treatment, you'd understand why it still hurts. This is an emotional injury.'",
+        "You don't owe anyone an explanation, but if you choose to educate, you could share that up to 1/3 of cancer survivors experience PTSD symptoms."
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Can medications help cancer-related PTSD?",
+      "answers": [
+        "Yes, certain medications can be very helpful for PTSD symptoms. SSRIs and other antidepressants can reduce anxiety, intrusive thoughts, and hypervigilance.",
+        "Medication can be an important part of PTSD treatment, especially when symptoms are severe. They can help calm your nervous system enough to engage in therapy.",
+        "There are medications that specifically target PTSD symptoms like nightmares and hypervigilance. A psychiatrist experienced with trauma can help find the right option."
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Why do I feel angry all the time since cancer?",
+      "answers": [
+        "Anger is a common response to trauma. It often masks other feelings like fear, helplessness, or grief about what you've been through.",
+        "Your life was threatened, and anger is a natural response to that violation. It's also a way to feel powerful when cancer made you feel powerless.",
+        "This anger makes sense given what you've endured. The challenge is finding healthy ways to express it so it doesn't control your life or relationships."
+      ]
+    },
+    {
+      "id": 15,
+      "question": "How can I sleep when I'm constantly alert for danger?",
+      "answers": [
+        "Hypervigilance makes sleep very difficult. Creating a strong bedtime routine and safe sleep environment can help signal to your body that it's okay to relax.",
+        "We can work on specific techniques to calm your nervous system at night, like progressive muscle relaxation or guided imagery designed for trauma survivors.",
+        "Sleep problems are one of the most distressing PTSD symptoms. Sometimes addressing this first with medication or specific therapies can provide significant relief."
+      ]
+    },
+    {
+      "id": 16,
+      "question": "Will EMDR therapy work for cancer-related PTSD?",
+      "answers": [
+        "Yes, EMDR (Eye Movement Desensitization and Reprocessing) is well-researched for trauma and can be very effective for processing cancer-related traumatic memories.",
+        "EMDR helps your brain reprocess traumatic memories so they become less distressing. Many cancer survivors find it helpful for specific traumatic moments from diagnosis or treatment.",
+        "EMDR doesn't require you to talk extensively about the trauma, which some people find appealing. It's definitely worth considering if you're struggling with intrusive memories."
+      ]
+    },
+    {
+      "id": 17,
+      "question": "Why do I feel disconnected from people who haven't had cancer?",
+      "answers": [
+        "Trauma can create a sense of separation from those who haven't shared your experience. It's hard for them to understand what you've been through.",
+        "This is common after life-altering events. You've been through something that changes your perspective, and it can feel lonely when others don't get it.",
+        "Many survivors describe feeling like they're 'speaking a different language' from people who haven't experienced serious illness. Support groups can help bridge this gap."
+      ]
+    },
+    {
+      "id": 18,
+      "question": "How long after treatment can PTSD symptoms appear?",
+      "answers": [
+        "PTSD symptoms can emerge immediately after treatment ends, or they might appear months or even years later as you process what you've been through.",
+        "Sometimes symptoms don't appear until the immediate crisis has passed and you have the mental space to process the trauma.",
+        "There's no timeline for trauma responses. Some people are in 'survival mode' during treatment and only experience PTSD symptoms once they're out of active treatment."
+      ]
+    },
+    {
+      "id": 19,
+      "question": "Can PTSD affect my physical recovery from cancer?",
+      "answers": [
+        "Yes, chronic stress from PTSD can impact immune function, sleep, and pain perception, which may affect your overall recovery.",
+        "The hypervigilance and anxiety of PTSD keep your body in a stressed state, which isn't ideal for healing. Treating the PTSD can actually support your physical recovery.",
+        "When your nervous system is constantly alert, it's hard for your body to focus on healing. Managing PTSD symptoms can create better conditions for physical recovery."
+      ]
+    },
+    {
+      "id": 20,
+      "question": "Why do certain smells or sounds suddenly trigger intense anxiety?",
+      "answers": [
+        "Your brain has associated these sensory cues with the trauma. A smell from the hospital or a sound like a certain machine can instantly bring back traumatic memories.",
+        "This is called conditioned responding. Your nervous system learned to associate these neutral stimuli with danger during your cancer experience.",
+        "These sensory triggers are very common in PTSD. We can work on desensitizing these triggers so they lose their power to cause distress."
+      ]
+    },
+    {
+      "id": 21,
+      "question": "How do I know if I need professional help for PTSD?",
+      "answers": [
+        "Consider seeking help if symptoms are affecting your daily life, relationships, or medical care; if you're using substances to cope; or if you're having thoughts of self-harm.",
+        "If PTSD symptoms are making it hard to function or enjoy life, it's time to seek professional support. You don't have to wait until you're in crisis.",
+        "A good rule is if the symptoms are controlling you rather than you managing them, professional help could make a significant difference."
+      ]
+    },
+    {
+      "id": 22,
+      "question": "Can children get PTSD from a parent's cancer?",
+      "answers": [
+        "Yes, children can develop trauma responses when a parent has serious illness. They may need support processing their fears and experiences.",
+        "Watching a parent go through cancer can be traumatic for children, especially if they witnessed distressing symptoms or treatment side effects.",
+        "Our child life specialists can help assess your children's needs and provide age-appropriate support if they're showing signs of trauma."
+      ]
+    },
+    {
+      "id": 23,
+      "question": "Why do I feel like I'm 'losing my mind' with these symptoms?",
+      "answers": [
+        "PTSD symptoms can feel frightening and confusing, but you're not losing your mind. You're having a normal response to abnormal circumstances.",
+        "The intensity and unpredictability of PTSD symptoms can make you question your sanity, but what you're experiencing has a name and treatment.",
+        "Many trauma survivors fear they're going crazy. Understanding that these are documented trauma responses can be reassuring - you're having a known reaction to trauma."
+      ]
+    },
+    {
+      "id": 24,
+      "question": "Can PTSD cause physical pain or other physical symptoms?",
+      "answers": [
+        "Yes, trauma is stored in the body. Chronic muscle tension, headaches, digestive issues, and other physical symptoms are common with PTSD.",
+        "The constant state of alertness in PTSD creates physical tension that can manifest as pain or other somatic symptoms.",
+        "Your body remembers the trauma too. Sometimes treating the PTSD helps resolve unexplained physical symptoms that began around the time of your cancer experience."
+      ]
+    },
+    {
+      "id": 25,
+      "question": "How can I support my partner who also shows signs of trauma from my cancer?",
+      "answers": [
+        "Caregivers often experience secondary trauma. Encouraging them to seek support and acknowledging their experience can help you both heal.",
+        "Your partner may have been traumatized by watching you suffer and fearing your death. Couples therapy with a trauma-informed therapist can help you heal together.",
+        "Many partners try to be 'strong' and suppress their own trauma. Creating space for both of you to acknowledge your experiences can strengthen your relationship."
+      ]
+    },
+    {
+      "id": 26,
+      "question": "Will I ever feel 'normal' again after cancer trauma?",
+      "answers": [
+        "You may not return to exactly who you were before cancer, but you can find a new normal where trauma doesn't control your life. Many survivors discover strengths they didn't know they had.",
+        "'Normal' changes after trauma. The goal is integration - learning to carry your experience in a way that doesn't define or limit you.",
+        "With treatment and time, the trauma can become part of your story rather than the whole story. Many people eventually find meaning and even growth from their experience."
+      ]
+    },
+    {
+      "id": 27,
+      "question": "Can art or music therapy help with cancer PTSD?",
+      "answers": [
+        "Yes, expressive therapies can be very effective for trauma when words are inadequate. They allow you to process experiences in different parts of the brain.",
+        "Art and music therapy can help access and process traumatic memories without retraumatizing you. They're especially helpful if talking about the trauma feels too overwhelming.",
+        "Many cancer survivors find creative therapies help them express complex feelings about their experience that are hard to put into words."
+      ]
+    },
+    {
+      "id": 28,
+      "question": "Why do I feel like I can't trust my body anymore?",
+      "answers": [
+        "When your body 'betrayed' you with cancer and then endured painful treatments, it's natural to lose trust in it. Rebuilding this trust is a gradual process.",
+        "This loss of bodily trust is common after medical trauma. Gentle movement practices like yoga or tai chi can help rebuild positive connection with your body.",
+        "Your body was the site of trauma and invasion. Learning to listen to it again with compassion rather than fear is an important part of healing."
+      ]
+    },
+    {
+      "id": 29,
+      "question": "Can PTSD affect my ability to make medical decisions?",
+      "answers": [
+        "Yes, trauma can affect cognitive function and decision-making capacity. Bringing a support person to appointments and asking for time to consider options can help.",
+        "The anxiety and avoidance of PTSD might make it hard to engage fully in medical decision-making. Let your care team know if you're struggling so they can provide extra support.",
+        "Trauma can make it hard to think clearly under stress. It's okay to ask for decisions to be broken down into smaller steps and to take time to process information."
+      ]
+    },
+    {
+      "id": 30,
+      "question": "How do I handle triggers I encounter in everyday life?",
+      "answers": [
+        "Having a 'trigger plan' can help - identifying common triggers and having specific coping strategies ready when you encounter them.",
+        "Grounding techniques can help when triggered: naming things you can see, hear, and feel; deep breathing; or holding something with an interesting texture.",
+        "With practice, you can learn to notice triggers without being overwhelmed by them. The goal isn't to avoid all triggers, but to build tolerance for them."
+      ]
+    },
+    {
+      "id": 31,
+      "question": "Why do I feel like I'm 'faking' or exaggerating my symptoms?",
+      "answers": [
+        "This self-doubt is common in trauma survivors. PTSD symptoms are real and valid, even if they're 'invisible' to others.",
+        "Imposter syndrome about mental health symptoms is very common. Remember that if the symptoms are affecting your life, they deserve attention regardless of their cause.",
+        "Many trauma survivors minimize their experience because 'others had it worse.' Your pain is valid regardless of comparisons."
+      ]
+    },
+    {
+      "id": 32,
+      "question": "Can acupuncture or massage help with PTSD symptoms?",
+      "answers": [
+        "Many people find body-based therapies helpful for trauma. They can help calm the nervous system and release physical tension from trauma.",
+        "Acupuncture has shown promise for PTSD symptoms in some studies. Massage can help with the physical manifestations of hypervigilance.",
+        "These therapies can be good complements to traditional PTSD treatment. Look for practitioners experienced working with trauma survivors."
+      ]
+    },
+    {
+      "id": 33,
+      "question": "Why do I feel like time stopped when I was diagnosed?",
+      "answers": [
+        "Trauma can disrupt your sense of time. The period around diagnosis and treatment may feel frozen or separate from the rest of your life.",
+        "This is called perceptual time distortion and is common in PTSD. Your brain prioritized survival during that time, which can alter time perception.",
+        "Many survivors describe feeling like they entered a different reality during cancer treatment. Integrating that experience into your life story is part of healing."
+      ]
+    },
+    {
+      "id": 34,
+      "question": "How can I explain medical trauma to new doctors?",
+      "answers": [
+        "You might say, 'I've had traumatic medical experiences and may need extra time or explanations to feel comfortable.' Most providers will appreciate knowing this.",
+        "Being direct but brief often works best: 'I have some medical trauma from cancer treatment. I do better when I understand what's happening and have some control.'",
+        "You have the right to trauma-informed care. Don't be afraid to advocate for what you need, whether that's more explanation, slower pacing, or bringing support."
+      ]
+    },
+    {
+      "id": 35,
+      "question": "Can PTSD affect my relationships with my medical team?",
+      "answers": [
+        "Yes, you might feel angry with or distrustful of medical providers, even if they provided good care. This is a common trauma response.",
+        "Your brain may associate healthcare providers with the trauma you experienced. It can help to discuss this with your team so they understand your reactions.",
+        "Sometimes starting fresh with a new provider who understands trauma can help, if possible. Otherwise, open communication with your current team about your triggers can improve your relationship."
+      ]
+    },
+    {
+      "id": 36,
+      "question": "Why do I feel like I'm 'waiting for the next bad thing' to happen?",
+      "answers": [
+        "This sense of foreshortened future is common in PTSD. After your world was shattered by cancer, it's hard to believe in a safe, predictable future.",
+        "Trauma teaches you that disaster can strike at any moment. Relearning safety and predictability takes time and positive experiences.",
+        "This is your mind trying to protect you from being blindsided again. With healing, you can learn to hold both caution and hope for the future."
+      ]
+    },
+    {
+      "id": 37,
+      "question": "Can support animals help with cancer-related PTSD?",
+      "answers": [
+        "Many people find emotional support animals helpful for PTSD symptoms. Their constant presence can provide comfort and help ground you during distress.",
+        "Animals can help regulate the nervous system and provide unconditional positive regard, which is especially healing after trauma.",
+        "While not a substitute for treatment, support animals can be a valuable part of a comprehensive PTSD management plan."
+      ]
+    },
+    {
+      "id": 38,
+      "question": "Why do I feel shame about having PTSD from cancer?",
+      "answers": [
+        "There's often stigma around mental health, and you might feel you 'should' just be grateful to be alive. But trauma responses aren't a choice or character flaw.",
+        "Shame is a common trauma response. Remember that PTSD is a injury, not a weakness. Your nervous system was overwhelmed by more than it could process.",
+        "Many survivors feel shame about not 'handling it better.' But what you're experiencing is a documented medical condition, not a personal failure."
+      ]
+    },
+    {
+      "id": 39,
+      "question": "Can PTSD symptoms come and go?",
+      "answers": [
+        "Yes, PTSD often has a fluctuating course. You might have good periods followed by flare-ups of symptoms, especially around triggers or anniversaries.",
+        "Symptoms often wax and wane. Stress, illness, or reminders of the trauma can trigger symptom recurrence even after a period of improvement.",
+        "This variability is normal. The goal is to reduce the frequency and intensity of symptom episodes and improve your ability to cope when they occur."
+      ]
+    },
+    {
+      "id": 40,
+      "question": "How do I handle the anniversary of my diagnosis or surgery?",
+      "answers": [
+        "Many survivors find it helpful to plan how they'll spend these days rather than being caught off guard by emotions. Some prefer quiet reflection, others distraction or celebration.",
+        "Trauma anniversaries often trigger symptom flare-ups. Having a self-care plan for these days can make them more manageable.",
+        "You might create a ritual that acknowledges what you've been through while also honoring your strength and survival."
+      ]
+    },
+    {
+      "id": 41,
+      "question": "Can yoga or meditation make PTSD worse?",
+      "answers": [
+        "For some people, focusing on body sensations or silence can initially increase anxiety. If this happens, try guided practices or movement-based meditation instead.",
+        "Some trauma survivors find silent meditation triggering. Movement-based practices like yoga or walking meditation are often better tolerated initially.",
+        "It's important to approach mindfulness gently with trauma. A teacher experienced with trauma can help you modify practices to feel safe."
+      ]
+    },
+    {
+      "id": 42,
+      "question": "Why do I feel like my personality changed after cancer?",
+      "answers": [
+        "Trauma often changes how we see ourselves and the world. This can feel like a loss of your old self, but it can also lead to growth and new strengths.",
+        "The person who went into cancer treatment isn't the same person who came out - and that's okay. Integration takes time.",
+        "Many survivors describe feeling like they lost their innocence or basic trust in life. With support, you can build a new relationship with yourself and the world."
+      ]
+    },
+    {
+      "id": 43,
+      "question": "Can PTSD affect my sex life?",
+      "answers": [
+        "Yes, trauma can significantly impact sexuality. This might include decreased desire, feeling disconnected from your body, or associating intimacy with medical vulnerability.",
+        "When your body has been a site of pain and invasion, it's hard to experience it as a source of pleasure. This is a common challenge after medical trauma.",
+        "Sex therapy with a trauma-informed therapist can help you rebuild comfort with intimacy and sexuality after cancer."
+      ]
+    },
+    {
+      "id": 44,
+      "question": "How do I know if I'm having a panic attack or PTSD flashback?",
+      "answers": [
+        "Panic attacks often feel like they come out of nowhere, while flashbacks are usually triggered by reminders of the trauma and involve reliving aspects of it.",
+        "Flashbacks typically involve feeling like the trauma is happening again, while panic attacks are intense anxiety without that sense of reliving the past.",
+        "Both can be overwhelming. The distinction matters mostly for treatment - PTSD-focused therapies target the traumatic memories underlying flashbacks."
+      ]
+    },
+    {
+      "id": 45,
+      "question": "Can writing about my experience help with PTSD?",
+      "answers": [
+        "Expressive writing has shown benefits for trauma processing for some people. However, if it feels retraumatizing, it's better to do with therapeutic guidance.",
+        "Writing can help organize fragmented traumatic memories. Some people find it cathartic, while others find it overwhelming. Listen to your own responses.",
+        "Structured writing exercises designed for trauma can be particularly helpful. A therapist can guide you in approaches that are likely to help rather than harm."
+      ]
+    },
+    {
+      "id": 46,
+      "question": "Why do I feel like I need to be 'strong' and hide my symptoms?",
+      "answers": [
+        "Many cancer survivors feel pressure to be 'brave' and not complain. But acknowledging pain isn't weakness - it's honesty.",
+        "This 'tyranny of positive thinking' can be harmful. True strength includes acknowledging suffering and seeking help when needed.",
+        "You were strong enough to get through cancer treatment. Now be strong enough to get the help you need for the aftermath."
+      ]
+    },
+    {
+      "id": 47,
+      "question": "Can PTSD affect my memory and concentration?",
+      "answers": [
+        "Yes, the hypervigilance and intrusive thoughts of PTSD can make it hard to focus. Trauma can also affect how memories are stored and retrieved.",
+        "'Chemo brain' and PTSD brain fog can overlap and compound each other. The good news is that both often improve with treatment and time.",
+        "Your brain has been through a lot. Be patient with cognitive symptoms and know they usually improve as PTSD symptoms are treated."
+      ]
+    },
+    {
+      "id": 48,
+      "question": "How can I find a therapist who understands both cancer and trauma?",
+      "answers": [
+        "Look for psycho-oncologists or therapists who list both 'medical trauma' and 'cancer' in their specialties. Our social work team can provide referrals.",
+        "The Academy of Cognitive Therapy and EMDR International Association have directories where you can search for therapists with specific trauma training.",
+        "I'm connecting you with our patient navigation team who maintains a list of mental health providers experienced with cancer-related trauma."
+      ]
+    },
+    {
+      "id": 49,
+      "question": "Will treating PTSD help with my fear of recurrence?",
+      "answers": [
+        "Yes, treating PTSD often reduces fear of recurrence because you're processing the original trauma that fuels the fear.",
+        "When the traumatic memories are less charged, worries about the future often diminish too. You're addressing the root of the fear.",
+        "Many people find that as PTSD symptoms improve, they're better able to manage recurrence fears with the mental space and coping skills they've developed."
+      ]
+    },
+    {
+      "id": 50,
+      "question": "What gives you hope about recovering from cancer-related PTSD?",
+      "answers": [
+        "I've seen many survivors move from being controlled by trauma to integrating their experience in ways that make them wiser and more compassionate.",
+        "The human capacity to heal from trauma is remarkable. With the right support, people can not only recover but often find new meaning and purpose.",
+        "I'm hopeful because we have more effective treatments for trauma than ever before, and because I consistently see people's resilience when given proper support."
+      ]
+    }
+  ]
+}

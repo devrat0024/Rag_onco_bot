@@ -1,0 +1,544 @@
+{
+  "lung_cancer_employment_impact_qa": [
+    {
+      "id": 1,
+      "question": "Should I tell my employer I have lung cancer?",
+      "answers": [
+        "You are not legally required to disclose a diagnosis immediately. However, disclosure is necessary to request protected leave (like FMLA) or workplace accommodations under the Americans with Disabilities Act (ADA).",
+        "Consider timing: Wait until you have a treatment plan from your doctor so you can clearly explain your needs (e.g., time off for treatment, flexible schedule).",
+        "Weigh the culture of your workplace. A supportive employer can be a tremendous asset, while a less understanding one may require you to know your legal rights before disclosing."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "How do I start the conversation with my boss about my diagnosis?",
+      "answers": [
+        "Schedule a private meeting. Start by stating your commitment to your job, then briefly share your diagnosis and that you'll need to focus on your health.",
+        "Be prepared but not overwhelming. Have a general idea of your expected treatment schedule and potential impacts, but avoid detailed medical jargon.",
+        "Frame it as a partnership: 'I want to work with you to create a plan that allows me to contribute while I undergo treatment.' This shows professionalism and a collaborative spirit."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What are my legal rights as an employee with cancer?",
+      "answers": [
+        "The Americans with Disabilities Act (ADA) requires employers to provide reasonable accommodations, such as modified work schedules or duties, if you can perform the essential functions of your job.",
+        "The Family and Medical Leave Act (FMLA) provides up to 12 weeks of unpaid, job-protected leave per year for serious health conditions, including cancer treatment and recovery.",
+        "You are protected from discrimination and retaliation based on your health condition. You cannot be fired, demoted, or harassed because you have cancer."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What is 'reasonable accommodation' and what can I ask for?",
+      "answers": [
+        "A reasonable accommodation is a modification that enables you to perform your job despite limitations from cancer or treatment. It must not create an 'undue hardship' for the employer.",
+        "Examples include: a flexible start/end time, working from home, reduced hours, more frequent breaks, a temporary reassignment to a less physically demanding role, or a parking space closer to the entrance.",
+        "You must request the accommodation. It's best to do this in writing and, if requested, provide a note from your doctor outlining your limitations and suggesting potential accommodations."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Can I be fired for having cancer?",
+      "answers": [
+        "No, it is illegal to fire someone solely because they have cancer. This is considered disability discrimination under the ADA.",
+        "However, you can be laid off as part of a general reduction in force, or terminated if you can no longer perform the essential functions of your job *and* no reasonable accommodation exists.",
+        "If you believe you were fired because of your diagnosis, you should contact an employment lawyer or file a charge with the Equal Employment Opportunity Commission (EEOC)."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "How do I handle the fatigue from treatment while trying to work?",
+      "answers": [
+        "Be proactive with your employer. Request accommodations like a compressed workweek, the ability to work from home on high-fatigue days, or scheduled rest breaks.",
+        "Practice extreme self-care. Prioritize sleep, nutrition, and gentle exercise. Use your energy for critical tasks and delegate or postpone less important ones.",
+        "Listen to your body. 'Pushing through' can lead to burnout and longer recovery times. It's better to work reduced, consistent hours than to crash and be unable to work at all."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What if I need to take a long leave of absence?",
+      "answers": [
+        "First, secure the leave formally through FMLA or your company's short-term/long-term disability insurance. This protects your job and may provide partial income.",
+        "Communicate a clear plan with HR and your manager. Provide expected dates for the leave and a point of contact for urgent questions. Offer to help transition your duties.",
+        "Focus on your health without guilt. Your job is protected for a reason. Use this time to heal, and worry about work when you are ready to return."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Will I be able to keep my health insurance if I stop working?",
+      "answers": [
+        "If you leave your job, you have options: COBRA allows you to continue your employer's group plan for 18-36 months, but you pay the full premium plus a fee; you can buy a plan through the Health Insurance Marketplace; or you may qualify for Medicaid.",
+        "A diagnosis of cancer is a 'qualifying life event' that opens a Special Enrollment Period on the Marketplace, allowing you to enroll outside of the standard annual window.",
+        "Speak with a hospital financial counselor or social worker. They are experts in navigating insurance options for patients with serious illnesses."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "How do I manage my workload when I'm constantly going to appointments?",
+      "answers": [
+        "Block your calendar in advance. As soon as you get your treatment and appointment schedule, mark those times as 'out of office' to manage expectations.",
+        "Communicate proactively with your team. Let them know you'll have limited availability on certain days and identify a colleague who can handle urgent matters in your absence.",
+        "Maximize your productive time. Use tools like email scheduling and task lists to stay organized. Focus on completing high-priority tasks when your energy is highest."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "'Chemo brain' is affecting my memory and concentration at work. What can I do?",
+      "answers": [
+        "Use compensatory strategies: take detailed notes in meetings, use digital reminders and calendars, break large projects into small steps, and minimize multitasking.",
+        "Request accommodations like a quieter workspace, noise-canceling headphones, written instead of verbal instructions, or extended deadlines for complex tasks.",
+        "Be kind to yourself. This is a real, biological side effect, not a personal failing. Inform your manager that you may need instructions repeated or tasks clarified, framing it as a medical need."
+      ]
+    },
+    {
+      "id": 11,
+      "question": "What is short-term disability and how do I apply for it?",
+      "answers": [
+        "Short-term disability (STD) is an insurance benefit that replaces a portion of your income (e.g., 50-70%) for a limited period (e.g., 3-6 months) when you cannot work due to a medical condition.",
+        "To apply, contact your HR department for the forms. You will need to complete a section, and your doctor will need to complete a section detailing your diagnosis, treatment, and inability to work.",
+        "Apply as soon as you know you'll need it, as there can be a waiting period. Keep copies of everything and follow up regularly on the status."
+      ]
+    },
+    {
+      "id": 12,
+      "question": "What is long-term disability and when should I consider it?",
+      "answers": [
+        "Long-term disability (LTD) takes over when short-term disability ends. It provides income replacement for a longer period, often until retirement age, if you are unable to return to your job or any job.",
+        "You should consider applying for LTD if your recovery is prolonged, your treatment has lasting side effects, or your cancer is advanced and prevents you from working.",
+        "Review your policy carefully. Some definitions change from 'own occupation' (unable to do your specific job) to 'any occupation' (unable to do any job) after a certain period."
+      ]
+    },
+    {
+      "id": 13,
+      "question": "My coworkers treat me differently now. How should I handle this?",
+      "answers": [
+        "Initiate a conversation to reset norms. You can say, 'I appreciate your concern, but I'd love to just talk about normal work stuff. It helps me feel like myself.'",
+        "Educate them gently. If they seem awkward, you can explain, 'The best way to support me is to treat me like the capable colleague I've always been.'",
+        "If the behavior is patronizing or isolating, discuss it with your manager or HR. They can help facilitate a more professional and inclusive environment."
+      ]
+    },
+    {
+      "id": 14,
+      "question": "I'm self-employed. How can I manage my business during treatment?",
+      "answers": [
+        "Be transparent with key clients on a need-to-know basis. Let them know you may have reduced availability but have a plan to ensure their needs are met.",
+        "Build a support network: hire a virtual assistant, partner with another freelancer to cover for you, or outsource specific tasks you won't be able to handle.",
+        "Prioritize income-generating tasks and put non-essential projects on hold. Focus on maintaining your most critical client relationships and streams of revenue."
+      ]
+    },
+    {
+      "id": 15,
+      "question": "How do I explain gaps in my resume if I have to stop working for a long time?",
+      "answers": [
+        "You are not obligated to disclose your medical history. A simple, honest statement like, 'I took a leave of absence to address a serious medical issue, which has now been resolved,' is sufficient.",
+        "Frame the time positively. You can say, 'I used this time to focus on a personal challenge that taught me immense resilience, time management, and prioritization skills.'",
+        "Many employers are understanding of medical leave, especially post-pandemic. Your skills and experience are what matter most."
+      ]
+    },
+    {
+      "id": 16,
+      "question": "Can I ask to work remotely full-time?",
+      "answers": [
+        "Yes, this is a very common and often reasonable accommodation under the ADA, especially if your immune system is compromised from treatment or you have fatigue that makes commuting difficult.",
+        "To make your case, focus on how you can perform all essential job functions remotely. Propose a clear plan for communication, availability, and project management.",
+        "If your job requires physical presence, a hybrid model might be a more feasible compromise to propose."
+      ]
+    },
+    {
+      "id": 17,
+      "question": "What if my employer denies my request for accommodation?",
+      "answers": [
+        "Ask for the denial in writing and the specific reason. The employer must demonstrate that the accommodation poses an 'undue hardship'—a significant difficulty or expense.",
+        "Be prepared to engage in an 'interactive process.' Suggest alternative accommodations that might achieve the same goal with less burden on the company.",
+        "If they refuse to engage or deny all reasonable options, contact the EEOC or an employment lawyer. This may constitute a violation of the ADA."
+      ]
+    },
+    {
+      "id": 18,
+      "question": "How can I maintain my professional skills while on extended leave?",
+      "answers": [
+        "Engage in low-energy professional development: listen to industry podcasts, read relevant articles or books, or take an online course at your own pace.",
+        "Stay loosely connected with former colleagues or professional networks through LinkedIn or occasional emails. This keeps you in the loop and maintains relationships.",
+        "Don't put pressure on yourself. Your primary job is healing. Even small, occasional efforts to stay connected to your field can be enough to ease the transition back."
+      ]
+    },
+    {
+      "id": 19,
+      "question": "I'm afraid I'll lose my professional identity if I can't work.",
+      "answers": [
+        "Your professional identity is just one part of who you are. While it's a significant part, your identity also includes your roles as a survivor, a friend, a family member, and a person with unique strengths and interests.",
+        "Explore other aspects of yourself. What did you enjoy before your career? What new perspectives has your cancer experience given you? This can be a time of profound re-evaluation.",
+        "Your skills and knowledge haven't vanished. They are merely on pause. You can and will reintegrate them, or apply them in new ways, when you are ready."
+      ]
+    },
+    {
+      "id": 20,
+      "question": "Should I use all my sick and vacation time before applying for disability?",
+      "answers": [
+        "This is often required by company policy. Most short-term disability policies have a 'elimination period' (e.g., 7-30 days) that must be covered by your sick pay before benefits begin.",
+        "Using accrued time off ensures you have some income during the waiting period. Check with your HR department to understand the specific sequence required by your plans.",
+        "Be strategic. You may want to save some vacation time for when you return to work part-time or for follow-up appointments later on."
+      ]
+    },
+    {
+      "id": 21,
+      "question": "How do I handle the financial stress of reduced income?",
+      "answers": [
+        "Create a bare-bones budget immediately. Cut all non-essential expenses. Contact lenders, utility companies, and landlords to ask about hardship programs or payment plans.",
+        "Seek financial assistance: talk to a hospital social worker about grants from non-profits, explore pharmaceutical patient assistance programs, and see if you qualify for state disability or other public benefits.",
+        "Focus on what you can control. The stress is real, but spreading yourself too thin financially can be mitigated with proactive planning and seeking help."
+      ]
+    },
+    {
+      "id": 22,
+      "question": "What if I can no longer do my physically demanding job?",
+      "answers": [
+        "Discuss with your doctor and HR about the possibility of a temporary or permanent reassignment to a 'light duty' position that accommodates your physical limitations.",
+        "If reassignment isn't possible, this may trigger a long-term disability claim. Vocational rehabilitation services can also help you retrain for a new, less physically demanding career.",
+        "This is a significant life change. Allow yourself to grieve the loss of your previous role while exploring new possibilities that align with your current abilities and health."
+      ]
+    },
+    {
+      "id": 23,
+      "question": "How do I manage the guilt of letting my team down?",
+      "answers": [
+        "Reframe your thinking: You are not 'letting them down'; you are dealing with a medical crisis. Any reasonable team would understand that health comes first.",
+        "The most professional thing you can do is communicate clearly and delegate effectively. This minimizes disruption and shows you care, even while prioritizing your health.",
+        "Guilt is a wasted emotion in this context. Direct that energy into your recovery, so you can return to your team as a healthy and productive member when you are able."
+      ]
+    },
+    {
+      "id": 24,
+      "question": "Can I be demoted when I return from medical leave?",
+      "answers": [
+        "Generally, no. The FMLA requires that you be reinstated to the same or an equivalent position with equivalent pay, benefits, and other employment terms.",
+        "An 'equivalent' position must be virtually identical in responsibilities, status, and pay. It cannot be a lesser role designed to encourage you to quit.",
+        "If you are demoted upon return, it could be considered unlawful retaliation for taking protected leave. Document everything and consult with an employment lawyer."
+      ]
+    },
+    {
+      "id": 25,
+      "question": "What is 'career grief' and how do I deal with it?",
+      "answers": [
+        "Career grief is the profound sense of loss over the career trajectory you had planned, which may now be altered or derailed by cancer. It's the mourning of a future self that may no longer be possible.",
+        "Acknowledge this grief as real and valid. Talk about it with a therapist or a trusted mentor. Allow yourself to feel the sadness and anger without judgment.",
+        "Begin to envision a new professional path. It might be a modified version of your old career, a pivot to a new field, or a different balance between work and life. Your skills are transferable."
+      ]
+    },
+    {
+      "id": 26,
+      "question": "How do I stay 'visible' at work when I'm often absent?",
+      "answers": [
+        "Make your contributions count. When you are present, focus on high-impact work. Ensure your results are documented and communicated to your manager.",
+        "Use technology to stay connected. Participate in virtual meetings when you can, contribute to email discussions, and use instant messaging to check in with colleagues.",
+        "Have periodic check-ins with your manager to discuss your contributions and reiterate your commitment to the team's goals, even if your presence is intermittent."
+      ]
+    },
+    {
+      "id": 27,
+      "question": "What if my treatment causes visible side effects, like hair loss, and I have a public-facing role?",
+      "answers": [
+        "You have choices: you can wear a wig, scarf, or hat; you can embrace the change with confidence; or you can briefly explain your situation to clients if you feel it's appropriate.",
+        "Remember that professionalism is about your knowledge, competence, and demeanor, not your appearance. Most people will respond with respect and empathy.",
+        "Discuss your concerns with your manager. They may be able to temporarily adjust your duties or provide support in how to handle client interactions."
+      ]
+    },
+    {
+      "id": 28,
+      "question": "Can I negotiate a severance package if I decide I can't return?",
+      "answers": [
+        "Yes, if you and your employer mutually agree that a return is not feasible, you can negotiate a severance package. This often includes a lump-sum payment and continuation of health benefits.",
+        "Never negotiate without consulting an employment lawyer. They can ensure the offer is fair and that you are not signing away any of your legal rights (like the right to sue for discrimination).",
+        "Consider what you need for a financial bridge—to long-term disability, a new career, or retirement. The goal is a settlement that supports your next chapter."
+      ]
+    },
+    {
+      "id": 29,
+      "question": "How do I handle the pressure to return to work before I'm ready?",
+      "answers": [
+        "Your return date should be determined by your doctor, not your employer. A premature return can jeopardize your health and lead to a longer absence overall.",
+        "Communicate clearly with HR and your manager, providing updated documentation from your physician that outlines your anticipated return-to-work date and any ongoing restrictions.",
+        "Stand firm in your recovery. Your health is your most important asset. A good employer will understand that a fully recovered employee is more valuable in the long run."
+      ]
+    },
+    {
+      "id": 30,
+      "question": "What is a 'return-to-work' plan and how is it created?",
+      "answers": [
+        "A return-to-work plan is a formal, often phased, agreement between you, your doctor, and your employer for transitioning back to your full duties. It manages expectations and supports a successful reintegration.",
+        "It might start with part-time hours (e.g., 20 hours per week), working from home several days a week, or a temporary reduction in responsibilities, gradually increasing over several weeks or months.",
+        "Your doctor will typically write a note outlining these recommendations. You then work with HR and your manager to formalize the plan. Get the agreement in writing."
+      ]
+    },
+    {
+      "id": 31,
+      "question": "I'm worried about my performance after I return. What if I'm not as sharp as I used to be?",
+      "answers": [
+        "Be patient with yourself. It takes time to readjust. 'Chemo brain' can linger, but it typically improves. Give yourself at least 3-6 months to get back into the swing of things.",
+        "Continue to use the organizational and compensatory strategies you developed during treatment. Don't be shy about asking for reminders or clarification.",
+        "Focus on your strengths. You bring unique problem-solving skills and resilience gained from your cancer experience that can be incredibly valuable to an employer, even if your recall is slightly slower initially."
+      ]
+    },
+    {
+      "id": 32,
+      "question": "Can I ask for a different role within the same company when I return?",
+      "answers": [
+        "Yes, this can be a form of reasonable accommodation under the ADA if your current role is no longer suitable due to lasting physical or cognitive limitations.",
+        "Frame the request positively. Highlight your desire to continue contributing to the company and your transferable skills. Suggest specific roles you believe would be a good fit.",
+        "The company is not obligated to create a new position for you, but they may be required to consider you for any open positions for which you are qualified."
+      ]
+    },
+    {
+      "id": 33,
+      "question": "How do I deal with anxiety about my job security while I'm on leave?",
+      "answers": [
+        "Knowledge is power. Understand your legal protections (FMLA, ADA) thoroughly. Knowing your job is protected for 12 weeks can provide a concrete timeframe of security.",
+        "Stay in appropriate communication with your workplace. A brief, periodic check-in with HR or your manager can reassure you that your role is being held and you are not forgotten.",
+        "Focus on what you can control: your health. Pouring anxiety into your recovery is counterproductive. Trust the legal process and use your energy to get better."
+      ]
+    },
+    {
+      "id": 34,
+      "question": "What if my company undergoes layoffs while I'm on leave?",
+      "answers": [
+        "You are not immune to a bona fide layoff. However, your employer cannot select you for layoff *because* you are on medical leave. That would be illegal retaliation.",
+        "If a layoff occurs, you should be treated like any other employee in a similar position. Factors like seniority, performance history, and the needs of the business should determine selection.",
+        "If you are laid off and suspect it was due to your medical leave, you should document everything and consult with an employment lawyer immediately."
+      ]
+    },
+    {
+      "id": 35,
+      "question": "How can I explain my changed work capabilities to a new employer?",
+      "answers": [
+        "You are not required to disclose your medical history during an interview. Focus on your abilities and what you *can* do.",
+        "If you need accommodations, you disclose *after* you have a job offer. At that point, you can state, 'I have a medical condition that requires a reasonable accommodation, such as [specific request]. I am fully able to perform all the essential functions of this role with this adjustment.'",
+        "Frame your experience positively: 'Going through a significant health challenge taught me unparalleled resilience, time management, and the ability to prioritize under pressure.'"
+      ]
+    },
+    {
+      "id": 36,
+      "question": "Should I consider early retirement?",
+      "answers": [
+        "This is a major decision that should not be made in the acute phase of treatment. Wait until you are in a more stable place, physically and emotionally, to assess your long-term energy, goals, and finances.",
+        "Consult with a financial advisor who specializes working with people with health crises. They can model different scenarios based on your savings, pension, Social Security Disability Insurance (SSDI), and health insurance needs.",
+        "Consider a 'phased retirement' or part-time work instead of a complete stop. This can provide structure, social connection, and supplemental income while reducing stress."
+      ]
+    },
+    {
+      "id": 37,
+      "question": "How do I maintain professional boundaries when coworkers constantly ask about my health?",
+      "answers": [
+        "Politely but firmly redirect the conversation. 'Thanks for asking, I'm focusing on my work right now. Can we talk about [current project]?'",
+        "Have a standard, brief response ready. 'I'm doing okay, taking it one day at a time. I appreciate your concern.' Then immediately change the subject.",
+        "If it becomes intrusive or harassing, it's appropriate to discuss it with your manager or HR. You have a right to privacy in the workplace."
+      ]
+    },
+    {
+      "id": 38,
+      "question": "What if I experience discrimination or harassment at work because of my cancer?",
+      "answers": [
+        "Document everything: dates, times, what was said or done, and who was present. Save relevant emails and notes.",
+        "Report it immediately to your HR department following company policy. Use formal channels to create a record of your complaint.",
+        "If the company does not address it, file a charge with the Equal Employment Opportunity Commission (EEOC). You have a limited time (often 180 days) to file, so act promptly."
+      ]
+    },
+    {
+      "id": 39,
+      "question": "Can I use my company's Employee Assistance Program (EAP) for support?",
+      "answers": [
+        "Absolutely. EAPs are a confidential benefit that typically offers short-term counseling, financial coaching, and legal referrals. This can be incredibly helpful for managing the stress of balancing work and illness.",
+        "Using the EAP is confidential. Your employer will not be notified about your specific issues. It's a safe resource to help you cope.",
+        "Contact your HR department for the EAP phone number or website. They can provide support for you and often for your family members as well."
+      ]
+    },
+    {
+      "id": 40,
+      "question": "How do I manage the jealousy I feel toward healthy coworkers?",
+      "answers": [
+        "These feelings are normal. It's painful to watch others move forward with their careers and lives effortlessly while yours is on hold due to a life-threatening illness.",
+        "Acknowledge the feeling without judgment, and then let it pass. Don't dwell on it. Comparing your Chapter 10 to someone else's Chapter 2 is always a losing game.",
+        "Focus on your own path. Your journey has given you a perspective and strength they may never know. Redirect your energy into your own recovery and defining what success means for you now."
+      ]
+    },
+    {
+      "id": 41,
+      "question": "What if my doctor says I can never return to my old job?",
+      "answers": [
+        "This is difficult news. Allow yourself to grieve. Then, shift your focus to 'what's next?' Your skills and experience are not worthless; they may just need to be applied in a new context.",
+        "Contact your state's vocational rehabilitation agency. They provide free counseling, job training, and placement services for people with disabilities.",
+        "This can be an opportunity for reinvention. What have you always been curious about? What kind of work would be more aligned with your post-cancer values and energy levels?"
+      ]
+    },
+    {
+      "id": 42,
+      "question": "How can I contribute to my field in a lower-stress way?",
+      "answers": [
+        "Consider consulting, part-time work, or freelance projects. This gives you control over your workload and schedule.",
+        "Mentor younger professionals. Sharing your knowledge is a low-energy but highly rewarding way to stay engaged and give back.",
+        "Write, speak, or teach about your area of expertise. This positions you as a thought leader without the demands of a full-time, high-pressure job."
+      ]
+    },
+    {
+      "id": 43,
+      "question": "Is it worth fighting to keep my job, or should I just quit?",
+      "answers": [
+        "Do not quit impulsively. Quitting may make you ineligible for unemployment benefits and will certainly cut off your access to employer-sponsored health insurance and potential disability benefits.",
+        "Exhaust all your protected leave and accommodation options first. If, after returning, the job is truly unsustainable for your health, then you can make a planned exit on your own terms.",
+        "This is a decision with massive financial and health implications. Discuss it with a financial advisor, a therapist, and/or an employment lawyer before taking action."
+      ]
+    },
+    {
+      "id": 44,
+      "question": "How do I rebuild my professional confidence after cancer?",
+      "answers": [
+        "Start small. Take on a manageable project and celebrate completing it. Each small success will rebuild your belief in your abilities.",
+        "List your transferable 'survivor skills': resilience, problem-solving under extreme pressure, grace under fire, and the ability to prioritize what truly matters. These are invaluable in any workplace.",
+        "Seek out a supportive mentor or coach who can provide objective feedback and remind you of your strengths when you doubt yourself."
+      ]
+    },
+    {
+      "id": 45,
+      "question": "What if I simply don't care about my career anymore after facing mortality?",
+      "answers": [
+        "This is a common and valid shift in perspective. When you've faced death, corporate deadlines can feel trivial. This doesn't mean you're lazy; it means your values have been realigned.",
+        "Give yourself permission to not care for a while. Your only job right now is to heal. Your passion for your work may return later, in a different form, or it may not.",
+        "This is an opportunity to design a life based on what brings you meaning and joy, which may or may not include a traditional career path. That is a powerful place to be."
+      ]
+    },
+    {
+      "id": 46,
+      "question": "Can I take intermittent FMLA for ongoing appointments?",
+      "answers": [
+        "Yes, intermittent FMLA is designed for this exact situation. You can take leave in separate blocks of time for a single qualifying reason, such as recurring chemotherapy, radiation, or follow-up scans.",
+        "You must follow your company's usual call-in procedures for absences, and they may require you to use paid sick leave for these periods.",
+        "Your employer can require medical certification to confirm the need for intermittent leave and its expected schedule."
+      ]
+    },
+    {
+      "id": 47,
+      "question": "How do I handle a performance review during or after treatment?",
+      "answers": [
+        "If your performance was impacted, be proactive. Before the review, schedule a meeting with your manager to contextualize the period. Acknowledge the challenges and highlight your efforts and contributions when you were able to work.",
+        "Focus on the future. Discuss your return-to-work plan and your goals for the coming review period, showing your commitment to returning to your previous performance level.",
+        "If the review is unfairly negative due to your medical leave, document it and consider discussing it with HR. Performance reviews cannot legally be penalized for time taken under FMLA."
+      ]
+    },
+    {
+      "id": 48,
+      "question": "What are my options if my company is not covered by FMLA (has fewer than 50 employees)?",
+      "answers": [
+        "You lose the federal job protection, but you may still have rights under state family and medical leave laws, which are often more generous and apply to smaller employers.",
+        "The ADA may still apply, requiring your employer to provide a reasonable accommodation (like a modified schedule or leave) unless it poses an undue hardship.",
+        "Your best approach is to have an open conversation with your employer about your needs. Many small business owners will work with you to retain a valued employee, even without a legal mandate."
+      ]
+    },
+    {
+      "id": 49,
+      "question": "How can I stay connected to my work community while on leave?",
+      "answers": [
+        "Let your colleagues know your preferred level of contact. Some people appreciate being included in non-essential team emails or social event invites, while others need a complete break.",
+        "Engage on your own terms. You might send an occasional group email update (if you want to) or meet a close work friend for coffee every few months.",
+        "Use LinkedIn to passively stay connected. Seeing updates from your network can help you feel involved without the pressure of direct communication."
+      ]
+    },
+    {
+      "id": 50,
+      "question": "What is 'presenteeism' and how does it affect me?",
+      "answers": [
+        "Presenteeism is when you are physically at work but not fully functioning due to illness, fatigue, or side effects. Your productivity and quality of work suffer, but you're still on the job.",
+        "For cancer patients, this is a major risk. You may be at your desk, but 'chemo brain,' pain, or fatigue makes it impossible to focus. This can be more damaging to your career and health than taking needed time off.",
+        "It's often better for you and your employer to take adequate sick leave or request a reduced schedule than to struggle through presenteeism, which can lead to mistakes and burnout."
+      ]
+    },
+    {
+      "id": 51,
+      "question": "How do I manage the logistics of disability insurance paperwork?",
+      "answers": [
+        "Get organized. Create a dedicated folder (digital or physical) for all disability-related documents: the policy, all forms, correspondence, and doctor's notes.",
+        "Be persistent and document all communication. Note who you spoke to, their phone number, the date, and what was discussed. Follow up on claims weekly.",
+        "Ask for help. A family member, social worker, or advocate can help you manage the bureaucratic burden, which is often overwhelming when you're already sick."
+      ]
+    },
+    {
+      "id": 52,
+      "question": "Can I be forced to see a doctor chosen by my disability insurance company?",
+      "answers": [
+        "Yes, most disability policies have a clause that allows the insurance company to require you to be examined by a doctor of their choice, at their expense, to verify your disability.",
+        "This is standard practice. Go to the appointment and be honest about your symptoms and limitations. It's helpful if your own doctor has provided thorough documentation beforehand.",
+        "If their doctor's opinion contradicts your treating physician's, you have the right to appeal the decision, often with additional evidence from your doctor."
+      ]
+    },
+    {
+      "id": 53,
+      "question": "What is a 'cognitive accommodation' and can I ask for one?",
+      "answers": [
+        "A cognitive accommodation is a change to your work environment or processes to help with limitations in memory, concentration, or information processing ('chemo brain').",
+        "Examples include: written task instructions, use of a digital recorder for meetings, software that blocks distracting websites, more time to complete tasks, or a job coach.",
+        "Yes, you can and should ask for these under the ADA. Provide a doctor's note that specifically mentions cognitive challenges as a side effect of treatment."
+      ]
+    },
+    {
+      "id": 54,
+      "question": "How do I deal with the loss of income and social status?",
+      "answers": [
+        "Acknowledge the grief that comes with this loss. Your income and job title may have been a big part of your identity. It's okay to mourn that.",
+        "Redefine your self-worth. Your value is not your salary or your title. It's your character, your relationships, your resilience, and the wisdom you've gained.",
+        "Seek community in new places. Support groups, volunteer opportunities, or new hobbies can provide a sense of purpose and connection that isn't tied to your profession."
+      ]
+    },
+    {
+      "id": 55,
+      "question": "What if I want to completely change careers after cancer?",
+      "answers": [
+        "This is a common desire, known as a 'post-cancer pivot.' The experience often clarifies what is truly important and what work feels meaningful.",
+        "Take it slowly. Research new fields, conduct informational interviews, and perhaps take a class. Don't rush into a new commitment until you're sure and have the energy for it.",
+        "Leverage your story. The resilience, perspective, and empathy you've gained are assets in any field. Frame your cancer experience as a period of intense personal and professional development."
+      ]
+    },
+    {
+      "id": 56,
+      "question": "How can I explain my need for a less stressful job to a new employer?",
+      "answers": [
+        "You don't need to mention cancer. Frame it as a positive, intentional career shift. 'I'm looking for a role with a better work-life balance where I can focus deeply on [specific skill/interest].'",
+        "Focus on what you're moving *toward*, not what you're running from. Highlight your interest in the company's culture, values, or the specific responsibilities of the new role.",
+        "Your health is a private matter. You are under no obligation to disclose it to a prospective employer. Your right to accommodation begins *after* you have a job offer."
+      ]
+    },
+    {
+      "id": 57,
+      "question": "Can I volunteer to keep my skills sharp and maintain a routine?",
+      "answers": [
+        "Absolutely. Volunteering is an excellent way to contribute meaningfully, build a new network, and maintain a sense of structure, all on a flexible schedule that you control.",
+        "Look for virtual or low-commitment opportunities that align with your skills. This can be a low-pressure way to 'test' your capacity for work before returning to paid employment.",
+        "It also adds a recent, positive entry to your resume, helping to fill any employment gaps with productive activity."
+      ]
+    },
+    {
+      "id": 58,
+      "question": "What if my employer is 'quietly' pushing me out?",
+      "answers": [
+        "Document everything. If you're suddenly being excluded from meetings, given poor assignments, or subjected to unwarranted criticism, keep a detailed log with dates and specifics.",
+        "Send a follow-up email after concerning interactions. For example, 'Per our conversation, I want to confirm that you are removing me from the X project. Can you clarify the reason for this change?' This creates a paper trail.",
+        "Consult with an employment lawyer. 'Constructive discharge' (making conditions so intolerable that you're forced to quit) is illegal, and a lawyer can advise you on your best course of action."
+      ]
+    },
+    {
+      "id": 59,
+      "question": "How do I balance the need for rest with the fear of being perceived as lazy?",
+      "answers": [
+        "Reframe rest as a medical necessity, not laziness. You are recovering from a physiological assault on your body. Rest is part of the treatment protocol, just like chemotherapy was.",
+        "Manage perceptions through clear communication. If you need to log off early, a simple message like, 'Signing off for today to manage my energy. I'll pick this up first thing tomorrow,' shows professionalism, not laziness.",
+        "Let go of the need to manage others' perceptions. Your health is more important than anyone's opinion. The people who matter will understand."
+      ]
+    },
+    {
+      "id": 60,
+      "question": "What is the most important thing to remember about work and cancer?",
+      "answers": [
+        "Your health is your greatest career asset. Without it, you cannot work at all. Prioritizing your recovery is the most strategic career decision you can make in the long run.",
+        "You have rights. You are protected from discrimination and are entitled to accommodations. Do not be afraid to assert these rights to protect your livelihood and well-being.",
+        "You are more than your job. Cancer forces a re-evaluation of what matters. Your identity, worth, and purpose extend far beyond your professional title."
+      ]
+    }
+  ]
+}

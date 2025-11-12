@@ -1,0 +1,454 @@
+{
+  "ptsd_qa": [
+    {
+      "id": 1,
+      "question": "I keep having flashbacks to my diagnosis or treatment. They feel so real and terrifying. What's happening?",
+      "answers": [
+        "These are trauma re-experiencing symptoms - your brain is stuck replaying the most frightening moments. This is a normal response to the abnormal trauma of cancer.",
+        "Flashbacks happen when triggers activate your trauma memory network. The memories feel present rather than past because they're stored differently in your brain.",
+        "This is PTSD's way of trying to process what happened. Your mind keeps returning to these moments because it hasn't fully integrated the experience as something that's over."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "I can't sleep because of nightmares about cancer and treatment. How can I stop them?",
+      "answers": [
+        "Establish a calming pre-sleep routine - no screens an hour before bed, relaxation techniques, and creating a safe sleep environment. This signals to your brain that it's time to rest, not be on high alert.",
+        "Try 'nightmare rescripting' - while awake, rewrite the nightmare with a positive ending. This can help your brain process the trauma differently during sleep.",
+        "Practice grounding techniques when you wake from nightmares: name 5 things you see, 4 you feel, 3 you hear, 2 you smell, 1 you taste. This brings you back to the present moment."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Medical settings, smells, or even certain dates trigger intense panic attacks. How do I manage these triggers?",
+      "answers": [
+        "Create a 'safety kit' for triggering situations: calming music, essential oils with different scents, a comforting object, and breathing exercises you can do discreetly.",
+        "Practice gradual exposure to triggers in safe contexts. Start small - drive by the hospital without going in, then progress to short visits to less intense medical settings.",
+        "Develop a 'panic plan' with your therapist that includes grounding techniques, coping statements, and emergency contacts. Having a plan reduces the fear of being triggered."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "I feel constantly on edge, like I'm waiting for the next bad thing to happen. My body is always tense.",
+      "answers": [
+        "This is hypervigilance - your nervous system is stuck in fight-or-flight mode. Regular practice of relaxation techniques can help retrain your body that it's safe now.",
+        "Try progressive muscle relaxation: systematically tense and release different muscle groups. This helps you recognize the difference between tension and relaxation in your body.",
+        "Schedule 'worry time' each day to contain the anxiety. Outside that time, when anxious thoughts arise, note them and return to them during your scheduled worry period."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "I feel numb and disconnected from people I love, like I'm watching my life from outside.",
+      "answers": [
+        "This emotional numbing and dissociation are protective mechanisms. When emotions become too overwhelming, your brain 'shuts down' to survive. This will ease as you process the trauma.",
+        "Practice small reconnection exercises: focus on physical sensations during hugs, really taste your food, notice textures around you. These gentle sensory experiences can help bring you back into your body.",
+        "Be patient with yourself. The numbness served an important purpose during trauma. As you feel safer, your capacity to feel and connect will gradually return."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "I avoid anything that reminds me of cancer - doctor shows, certain conversations, even my own body. Is this normal?",
+      "answers": [
+        "Yes, avoidance is a core PTSD symptom. Your brain is trying to protect you from re-experiencing the trauma. The problem is that avoidance reinforces the fear over time.",
+        "Try the 'graded exposure' approach: start with mildly triggering situations and gradually work up to more challenging ones. Each success builds confidence.",
+        "Create a hierarchy of avoided situations from least to most frightening. Work through them slowly with support, celebrating each small step forward."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "I get angry and irritable over small things, then feel guilty for lashing out at loved ones.",
+      "answers": [
+        "This irritability is your nervous system operating at maximum alert. You have less capacity for frustration when you're constantly in survival mode.",
+        "Practice the 'pause and check' technique: when you feel anger rising, pause to check if the current situation warrants this response or if it's trauma-related.",
+        "Communicate to loved ones: 'My PTSD is making me irritable today. It's not about you. I might need some space to regulate.' This helps prevent damage to relationships."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "I can't remember parts of my treatment. There are whole chunks missing from my memory.",
+      "answers": [
+        "Memory gaps are common with trauma. Your brain may have blocked out the most overwhelming moments as a protective measure. This is normal and doesn't mean you're 'going crazy.'",
+        "Don't force yourself to remember. The memories may return gradually as you feel safer, or they may remain inaccessible - both are okay. You survived what happened even if you can't recall all of it.",
+        "Focus on creating new, positive memories now rather than trying to recover lost ones. Your healing isn't dependent on remembering every detail of the trauma."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "I feel overwhelming guilt that I survived when others didn't, or that I burdened my family.",
+      "answers": [
+        "Survivor's guilt is a common trauma response. It often masks the real issue: feeling powerless during the cancer experience. Addressing the underlying helplessness can help relieve the guilt.",
+        "Try writing letters to yourself from your loved ones' perspective. What would they say about your worthiness to survive? This can challenge distorted guilt thoughts.",
+        "Consider that your survival may bring meaning to others' journeys. By thriving, you honor those who didn't make it and show what's possible for those still fighting."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "My startle response is extreme - I jump at ordinary sounds and can't calm down afterwards.",
+      "answers": [
+        "This hyper-startle response means your nervous system is primed for danger. Practice daily relaxation techniques to lower your overall arousal level, making these responses less intense.",
+        "When startled, use the 5-4-3-2-1 grounding technique: name 5 things you see, 4 you feel, 3 you hear, 2 you smell, 1 you taste. This engages your prefrontal cortex to calm the alarm response.",
+        "Carry a comforting object you can touch when startled. The physical sensation can help anchor you in the present moment rather than being swept into panic."
+      ]
+    },
+    {
+      "id": 11,
+      "question": "I have intrusive thoughts about cancer returning, even when there's no medical reason to worry.",
+      "answers": [
+        "These intrusive thoughts are trauma echoes, not premonitions. Label them as 'PTSD thoughts' rather than truths. This creates mental distance from their content.",
+        "Practice acknowledging then redirecting: 'There's that thought again. Thanks, brain, but I'm focusing on [current activity] now.' Don't engage in mental arguments with the thoughts.",
+        "Remember that thoughts are not facts. Having a thought about recurrence doesn't make it more likely to happen. The thought itself is a symptom of trauma, not a prediction."
+      ]
+    },
+    {
+      "id": 12,
+      "question": "I feel like no one understands what I went through, which makes me feel isolated and alone.",
+      "answers": [
+        "This sense of alienation is a hallmark of PTSD. Trauma changes you in ways that can be hard to articulate to others who haven't experienced something similar.",
+        "Consider joining a cancer trauma support group. Being with people who 'get it' without explanation can be profoundly healing and reduce the isolation.",
+        "Practice putting your experience into words, even if just in a journal. Finding language for what happened helps integrate the experience and makes it easier to share with safe people."
+      ]
+    },
+    {
+      "id": 13,
+      "question": "I can't tolerate feeling strong emotions - they instantly overwhelm me and feel dangerous.",
+      "answers": [
+        "This is called affect intolerance. After trauma, any strong emotion can feel like a return to the overwhelming feelings during the traumatic event.",
+        "Practice 'titrating' emotions - allowing yourself to feel small amounts for short periods, then using grounding techniques. This builds tolerance gradually.",
+        "Work with a trauma therapist on developing a 'window of tolerance' - the zone where you can feel emotions without becoming overwhelmed. This window widens with practice."
+      ]
+    },
+    {
+      "id": 14,
+      "question": "I feel like the cancer experience shattered my fundamental beliefs about safety and the world.",
+      "answers": [
+        "This shattering of assumptions is a core part of trauma. The world no longer feels predictable or safe. Rebuilding a coherent worldview takes time and support.",
+        "Focus on finding new meaning rather than returning to old beliefs. Many trauma survivors develop deeper, more complex understandings of life that eventually feel more authentic.",
+        "Look for 'islands of safety' - people, places, and activities that feel predictably safe. As these islands grow, your sense of safety in the world can gradually rebuild."
+      ]
+    },
+    {
+      "id": 15,
+      "question": "My relationships have changed dramatically since cancer. I either cling to people or push them away.",
+      "answers": [
+        "Trauma often disrupts attachment patterns. You might alternate between needing reassurance and fearing dependency. This is normal and can be worked through in therapy.",
+        "Practice communicating your needs clearly: 'I'm feeling vulnerable today and need connection' or 'I'm feeling overwhelmed and need space.' This helps relationships weather the PTSD symptoms.",
+        "Consider that your relationship patterns served a survival purpose during cancer. Now you're learning new ways of connecting that work for peacetime rather than crisis."
+      ]
+    },
+    {
+      "id": 16,
+      "question": "I feel permanently damaged or broken by the cancer experience.",
+      "answers": [
+        "This sense of being fundamentally changed is common after trauma. With treatment, many people discover they're not broken but have been forged into someone new - different, but not damaged.",
+        "Look for evidence of growth alongside the pain: increased compassion, clearer priorities, deeper appreciation for life. PTSD symptoms coexist with post-traumatic growth.",
+        "Think of yourself as injured rather than broken. Injuries heal with proper care and time. The parts that feel most damaged often become sources of greatest strength later."
+      ]
+    },
+    {
+      "id": 17,
+      "question": "I can't stop thinking about 'what if' scenarios - what if I'd noticed symptoms earlier, chosen different treatment, etc.",
+      "answers": [
+        "This rumination is your mind trying to gain mastery over a situation where you felt powerless. The problem is that you're applying present knowledge to past decisions.",
+        "Practice bringing yourself back to the person you were then, with the information you had then. That person made the best decisions possible in impossible circumstances.",
+        "Set a timer for 10 minutes of 'what if' thinking daily. When the timer goes off, consciously shift to 'what is' - what's actually happening in the present moment."
+      ]
+    },
+    {
+      "id": 18,
+      "question": "I feel like I'm back in treatment emotionally, even though it's physically over.",
+      "answers": [
+        "This is because trauma exists outside of linear time. Emotionally, you can be simultaneously in the past (trauma), present (recovery), and future (fear). This will integrate with healing.",
+        "Create clear markers that treatment is over: a ritual, a celebration, returning to work or hobbies. These concrete actions help your nervous system recognize the danger has passed.",
+        "Practice orienting to the present: regularly check in with what's different NOW versus during treatment. Each time you notice safety, you build new neural pathways."
+      ]
+    },
+    {
+      "id": 19,
+      "question": "I have physical symptoms that remind me of cancer symptoms, but doctors say they're anxiety-related.",
+      "answers": [
+        "The mind-body connection is powerful. Anxiety can create physical sensations that mimic your original cancer symptoms. This doesn't mean they're 'all in your head' - they're real physiological responses.",
+        "Keep a symptom diary to identify patterns. Do symptoms increase during stress or trauma reminders? This can help you recognize them as anxiety rather than recurrence.",
+        "Learn to differentiate: anxiety symptoms often fluctuate with stress and respond to relaxation techniques. Cancer symptoms typically persist or worsen regardless of your emotional state."
+      ]
+    },
+    {
+      "id": 20,
+      "question": "I feel like I should be over this by now. Why am I still struggling?",
+      "answers": [
+        "Trauma healing doesn't follow a linear timeline. The fact that you're still struggling means your brain is still working to integrate an overwhelming experience. This is normal.",
+        "Compare trauma recovery to physical therapy after a major injury. You wouldn't expect to be 'over' a spinal injury quickly. Emotional injuries need similar patience and rehabilitation.",
+        "The 'shoulds' are often internalized from others' expectations. Your healing timeline is unique to your experience. What matters is progress, not perfection or speed."
+      ]
+    },
+    {
+      "id": 21,
+      "question": "I can't watch medical shows or hear about others' cancer experiences without becoming overwhelmed.",
+      "answers": [
+        "This is vicarious trauma triggering your own. It's wise to limit exposure until you've built more resilience. Your priority is your healing, not being informed about every cancer story.",
+        "Practice using the 'off' button liberally. You have permission to change channels, leave conversations, or mute content that triggers you. This is self-protection, not weakness.",
+        "As you heal, you might gradually expose yourself to others' stories in controlled ways. The goal is to build compassion without being retraumatized."
+      ]
+    },
+    {
+      "id": 22,
+      "question": "I feel like I'm 'too sensitive' now and can't handle ordinary stress.",
+      "answers": [
+        "Your stress capacity is depleted after trauma. Think of it like having a smaller 'cup' for stress right now. As you heal, your capacity will gradually increase.",
+        "Practice stress inoculation: expose yourself to small, manageable stresses and practice coping skills. Each success builds confidence and expands your tolerance.",
+        "Adjust expectations temporarily. You're recovering from a major life threat - it's normal to be more vulnerable to stress during this period."
+      ]
+    },
+    {
+      "id": 23,
+      "question": "I have moments where I suddenly feel like I'm back in the hospital or treatment room.",
+      "answers": [
+        "These are dissociative episodes where your sense of time and place becomes distorted. Grounding techniques can help bring you back to the present.",
+        "Keep a 'reality testing' card in your wallet with current date, your age, where you are in treatment recovery. Reading this can help reorient you during these episodes.",
+        "Notice what triggers these moments and develop a prevention plan. Sometimes just anticipating triggers can reduce their power."
+      ]
+    },
+    {
+      "id": 24,
+      "question": "I feel betrayed by my body for getting cancer in the first place.",
+      "answers": [
+        "This sense of betrayal is common. Working toward reconciliation with your body - through gentle movement, self-care, and self-compassion - can help heal this rupture.",
+        "Consider that your body also fought the cancer and survived treatment. It was your ally in survival, even though it felt like the source of the problem.",
+        "Practice speaking to your body with compassion rather than anger. This relationship repair takes time but is fundamental to healing from illness-related trauma."
+      ]
+    },
+    {
+      "id": 25,
+      "question": "I can't make decisions anymore - I'm terrified of making the wrong choice like I might have with treatment decisions.",
+      "answers": [
+        "This is decision paralysis from trauma. Start with low-stakes decisions to rebuild confidence. Celebrate any decision made, regardless of outcome.",
+        "Use the 'good enough' standard rather than seeking perfect decisions. Most choices are reversible, and you can course-correct if needed.",
+        "Remember that during cancer, decisions felt life-or-death. Most decisions now don't carry that weight, even though they feel like they do."
+      ]
+    },
+    {
+      "id": 26,
+      "question": "I feel like I've lost parts of myself - my confidence, my sense of humor, my interests.",
+      "answers": [
+        "Trauma can temporarily obscure these parts of yourself, but they're not gone. They often reemerge as you feel safer, sometimes in new forms.",
+        "Try 'behavioral activation' - deliberately engaging in activities you used to enjoy, even if you don't feel pleasure initially. The feeling often follows the action.",
+        "Think of yourself as in hibernation rather than lost. The essential you is conserved underground, gathering strength to reemerge when conditions are safer."
+      ]
+    },
+    {
+      "id": 27,
+      "question": "I'm hyper-aware of every physical sensation and immediately think it's cancer returning.",
+      "answers": [
+        "This body scanning is a trauma response. Practice redirecting your attention outward rather than inward. Engage with your environment instead of monitoring your body.",
+        "Learn the actual statistics: most physical sensations are benign. Keep a log of sensations that worried you but turned out to be nothing. Review it when anxiety spikes.",
+        "Set 'body check' limits - maybe once daily at a scheduled time. Outside that time, when the urge arises, use a distraction technique instead."
+      ]
+    },
+    {
+      "id": 28,
+      "question": "I feel like I'm 'too much' for people now with all my trauma symptoms and needs.",
+      "answers": [
+        "This feeling often comes from having your needs minimized during cancer treatment. You learned to doubt your right to take up space with your pain.",
+        "Practice discerning between people who can handle your truth and those who can't. Invest in relationships with those who see your needs as valid.",
+        "Remember that being 'too much' for some people doesn't mean you're too much period. It means you need different people, not that you need to make yourself smaller."
+      ]
+    },
+    {
+      "id": 29,
+      "question": "I have trouble trusting doctors and medical information now.",
+      "answers": [
+        "This makes sense after an experience where medical authorities held life-and-death power. Rebuilding trust takes time and should happen at your pace.",
+        "Look for healthcare partners rather than authorities. Seek providers who collaborate with you, respect your expertise about your body, and acknowledge the trauma.",
+        "Bring advocates to appointments who can help you process information and ask questions. Having backup can make medical encounters feel less threatening."
+      ]
+    },
+    {
+      "id": 30,
+      "question": "I feel stuck in the cancer identity, like it's the most defining thing about me now.",
+      "answers": [
+        "This is common when trauma dominates your inner world. As you process the experience, other parts of your identity will reemerge and take up more space.",
+        "Consciously cultivate non-cancer-related interests and relationships. What did you care about before cancer? What new things might you want to explore?",
+        "Practice introducing yourself without mentioning cancer. Notice all the other roles and identities you hold: friend, artist, professional, nature-lover, etc."
+      ]
+    },
+    {
+      "id": 31,
+      "question": "I can't plan for the future because I don't believe I have one.",
+      "answers": [
+        "This foreshortened sense of future is a PTSD symptom. Start with tiny future plans - what you'll do this weekend, then next month. Gradually expand the timeline.",
+        "Practice 'as if' planning: make plans as if you'll be here, while acknowledging the uncertainty everyone lives with. This builds future-oriented thinking muscles.",
+        "Look to other long-term survivors as evidence that future planning is possible. Their continued existence demonstrates that life does go on after cancer."
+      ]
+    },
+    {
+      "id": 32,
+      "question": "I feel like I need to be constantly productive to 'make up for' the time I lost to cancer.",
+      "answers": [
+        "This compensatory drive comes from trauma. Rest itself can feel dangerous when you're trying to outrun painful feelings. Learning to rest is part of healing.",
+        "Examine the belief that your worth comes from productivity. Your inherent worth isn't diminished by time spent surviving. Your existence is enough.",
+        "Schedule rest as seriously as you schedule productivity. Treat it as essential trauma recovery work, not laziness or wasted time."
+      ]
+    },
+    {
+      "id": 33,
+      "question": "I have emotional outbursts that seem to come out of nowhere.",
+      "answers": [
+        "These are emotional flashbacks - you're reacting to current situations with the intensity of past trauma. Learning to recognize them helps you respond rather than react.",
+        "When you have an outsized emotional reaction, ask: 'What does this remind me of?' Often there's a trauma connection your conscious mind hasn't noticed.",
+        "Develop an 'emotional first aid' kit: techniques to use when emotions overwhelm you. This might include breathing exercises, calling a support person, or temporary distraction."
+      ]
+    },
+    {
+      "id": 34,
+      "question": "I feel like I'm 'faking being okay' and everyone can see through it.",
+      "answers": [
+        "This impostor syndrome is common in trauma recovery. The fact that you're functioning at all after what you've been through is evidence of real strength, not faking.",
+        "Give yourself permission to not be okay. The energy spent pretending could be used for healing. Most people appreciate authenticity over perfect composure.",
+        "Remember that healing isn't linear. Some days you'll feel more 'together' than others. This variability is normal, not evidence of faking."
+      ]
+    },
+    {
+      "id": 35,
+      "question": "I can't tolerate being alone because my thoughts become too dark.",
+      "answers": [
+        "This is common when being alone with your thoughts feels dangerous. Gradually build tolerance through short periods alone with comforting distractions.",
+        "Create 'company' through other means: podcasts, music, or video calls running in the background. The sense of other voices can make solitude feel safer.",
+        "Work with a therapist on developing internal resources so you can be with yourself without becoming overwhelmed. This is a gradual process of building self-trust."
+      ]
+    },
+    {
+      "id": 36,
+      "question": "I feel like the trauma has stolen my ability to feel joy.",
+      "answers": [
+        "Anhedonia (inability to feel pleasure) is a protective mechanism. As your nervous system calms, your capacity for joy will gradually return.",
+        "Practice 'behavioral activation' - engage in previously enjoyable activities even without expecting pleasure. The feeling often follows the action.",
+        "Look for 'glimmers' - tiny moments of peace, connection, or beauty. These small positive moments are the foundation for joy's return."
+      ]
+    },
+    {
+      "id": 37,
+      "question": "I have compulsive habits I've developed since cancer that I can't stop.",
+      "answers": [
+        "These compulsions likely developed to manage anxiety. Understanding their function helps you address the underlying anxiety rather than just the behavior.",
+        "Practice delaying compulsions rather than fighting them. Set a timer for 5 minutes, then 10, gradually increasing the delay. This builds tolerance for uncertainty.",
+        "Replace compulsions with healthier anxiety-management techniques. The goal isn't to eliminate coping mechanisms but to upgrade them to more adaptive ones."
+      ]
+    },
+    {
+      "id": 38,
+      "question": "I feel like I need constant reassurance from doctors and loved ones that I'm okay.",
+      "answers": [
+        "This reassurance-seeking comes from shattered safety beliefs. The problem is that external reassurance never fully satisfies - the security has to be rebuilt internally.",
+        "Practice 'self-reassurance': what would you tell a friend in your situation? Often we're more compassionate and wise with others than with ourselves.",
+        "Set limits on reassurance-seeking while developing internal coping resources. This might mean scheduling 'check-in' times rather than seeking constant validation."
+      ]
+    },
+    {
+      "id": 39,
+      "question": "I feel like my personality has permanently changed in ways I don't like.",
+      "answers": [
+        "Trauma does change us, but not necessarily permanently or only in negative ways. Many survivors discover new strengths and depths they didn't have before.",
+        "Think of yourself as in transition rather than permanently changed. The person emerging from trauma integration often combines pre-trauma strengths with new wisdom.",
+        "Identify what specific changes bother you and which might be adaptive. Some 'negative' changes (like being more cautious) might actually be wise adaptations."
+      ]
+    },
+    {
+      "id": 40,
+      "question": "I can't stop researching cancer and recurrence statistics, even though it makes me more anxious.",
+      "answers": [
+        "This compulsive researching is an attempt to gain control over something uncontrollable. The more you research, the more you reinforce the anxiety.",
+        "Set strict limits: one hour weekly with a timer. Outside that time, when the urge arises, use a distraction technique or practice tolerating the uncertainty.",
+        "Notice that the researching never provides the certainty you seek. The relief is temporary, which is why you have to keep doing it. Breaking this cycle is key."
+      ]
+    },
+    {
+      "id": 41,
+      "question": "I feel like I'm 'contagious' with trauma and will burden anyone who gets close to me.",
+      "answers": [
+        "This belief isolates you when you most need connection. Most people feel honored to be trusted with someone's pain, not burdened by it.",
+        "Practice reciprocal relationships where you both give and receive support. Being vulnerable allows others to be vulnerable with you, creating deeper connection.",
+        "Remember that you're not responsible for others' emotional responses. They're adults who can set their own boundaries. Your job is to be authentic, not protect everyone from your truth."
+      ]
+    },
+    {
+      "id": 42,
+      "question": "I have physical pain that doctors say is related to trauma rather than cancer.",
+      "answers": [
+        "Trauma gets stored in the body, creating real physical symptoms. Treatments like trauma-sensitive yoga, EMDR, or somatic experiencing can help release this stored trauma.",
+        "Learn about the neurobiology of trauma pain. When your nervous system is constantly activated, it creates inflammation and muscle tension that manifest as pain.",
+        "Approach trauma-related pain with both physical and psychological treatments. Neither approach alone is usually sufficient for trauma-related physical symptoms."
+      ]
+    },
+    {
+      "id": 43,
+      "question": "I feel like I'm mourning the person I was before cancer.",
+      "answers": [
+        "This mourning is necessary and healthy. The pre-cancer you is gone, and acknowledging this loss allows you to fully embrace who you're becoming.",
+        "Create a ritual to honor the person you were - write a letter to them, create art, or visit meaningful places. Formal acknowledgment helps with integration.",
+        "Remember that mourning doesn't mean the new you will be lesser. Many survivors feel they've gained depth, purpose, and appreciation they wouldn't have developed otherwise."
+      ]
+    },
+    {
+      "id": 44,
+      "question": "I can't tolerate uncertainty in any area of my life now.",
+      "answers": [
+        "Cancer taught you that uncertainty can be deadly, so now all uncertainty feels threatening. The work is to recalibrate your threat detector.",
+        "Practice tolerating small uncertainties and noticing that most don't lead to disaster. Each success builds evidence that you can handle not knowing.",
+        "Focus on what IS certain right now: your breathing, the ground beneath you, the present moment. These anchors can help when uncertainty feels overwhelming."
+      ]
+    },
+    {
+      "id": 45,
+      "question": "I feel like my trauma symptoms are a sign of weakness or failure.",
+      "answers": [
+        "PTSD symptoms are actually signs of a brain that worked incredibly hard to protect you during overwhelming events. They're evidence of strength, not weakness.",
+        "Consider that trauma responses helped our ancestors survive life-threatening situations. Your brain was doing its job, just in a context where those responses are no longer adaptive.",
+        "Look at the neuroscience: trauma changes brain structure and function in measurable ways. This is biology, not character. Treatment helps the brain recalibrate to safety."
+      ]
+    },
+    {
+      "id": 46,
+      "question": "I have trouble recognizing myself in the mirror or feeling connected to my body.",
+      "answers": [
+        "This depersonalization is a dissociative response to trauma. Gentle reconnection practices like mirror work, dance, or massage can help rebuild body connection.",
+        "Practice noticing your reflection with compassion rather than judgment. Your body carried you through something unimaginable - it deserves gratitude, not rejection.",
+        "Work with a trauma therapist on embodiment techniques. Feeling safe in your body is often the last piece of trauma recovery to fall into place."
+      ]
+    },
+    {
+      "id": 47,
+      "question": "I feel like I need to tell my trauma story over and over.",
+      "answers": [
+        "This repetitive telling is part of integration. Each telling processes the experience slightly differently. Eventually, the need to tell it will diminish.",
+        "Pay attention to your motivation for telling: is it for processing or for reassurance? Processing is healthy; reassurance-seeking might indicate stuck points.",
+        "Consider creative ways to tell your story: writing, art, music. These can provide the processing benefits without potentially overwhelming listeners."
+      ]
+    },
+    {
+      "id": 48,
+      "question": "I feel like I'm permanently waiting for the next crisis.",
+      "answers": [
+        "This anticipatory anxiety is your brain's attempt to never be caught off-guard again. The work is to convince your nervous system that constant vigilance isn't necessary now.",
+        "Practice noticing periods of safety and labeling them: 'This is a safe moment.' The more you notice safety, the more your brain learns to recognize it.",
+        "Create a 'crisis plan' so you feel prepared if bad things happen. Sometimes having a plan reduces the need to be constantly braced for disaster."
+      ]
+    },
+    {
+      "id": 49,
+      "question": "I feel like time stopped during cancer and I'm permanently behind in life.",
+      "answers": [
+        "This sense of being developmentally arrested is common. The work is to rejoin the flow of time at your own pace, not try to catch up to some imaginary timeline.",
+        "Release societal expectations about where you 'should' be. Your journey is unique, and the wisdom gained from survival has value beyond conventional achievements.",
+        "Focus on depth rather than speed. The intensity of your cancer experience may have given you insights that take others decades to acquire through ordinary living."
+      ]
+    },
+    {
+      "id": 50,
+      "question": "Will I ever feel normal again after all this trauma?",
+      "answers": [
+        "You won't return to your pre-trauma normal, but you can develop a new normal that incorporates your experience while allowing for joy, connection, and peace.",
+        "Many survivors describe eventually reaching a place where the trauma becomes integrated - it's part of your story but doesn't dominate your present experience.",
+        "The goal isn't to erase what happened but to transform your relationship to it. With treatment and time, the trauma can become something that happened to you rather than who you are."
+      ]
+    }
+  ]
+}

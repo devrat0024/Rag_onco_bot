@@ -1,0 +1,454 @@
+{
+  "breast_cancer_qa": [
+    {
+      "id": 1,
+      "question": "I found a lump. Does this mean I definitely have cancer?",
+      "answers": [
+        "Most breast lumps are benign - about 80% turn out to be cysts or fibroadenomas. But any new lump needs professional evaluation.",
+        "Finding a lump is scary, but it's not a diagnosis. Many factors determine if it's concerning, like whether it's fixed or mobile, painful or painless.",
+        "Schedule an appointment with your doctor immediately. They'll likely order imaging like a mammogram or ultrasound to determine the next steps."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "My mammogram was abnormal. What happens next?",
+      "answers": [
+        "An abnormal mammogram is common and usually requires additional imaging, not necessarily a biopsy. Most callbacks don't lead to cancer diagnoses.",
+        "You'll typically get a diagnostic mammogram with more detailed views. Sometimes an ultrasound is also used to get better pictures of the area.",
+        "Try not to panic while waiting. The radiologist is being thorough. Bring someone with you to your next appointment for support and to help remember information."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "How do I cope with the anxiety while waiting for biopsy results?",
+      "answers": [
+        "The waiting period is often the hardest part. Stay busy with work, hobbies, or time with loved ones - distraction can be therapeutic.",
+        "Practice mindfulness techniques like deep breathing. When anxious thoughts arise, acknowledge them without judgment, then gently redirect your focus.",
+        "Limit online searching, which often leads to worst-case scenarios. Write down questions for your doctor instead of letting them cycle in your mind."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "I've been diagnosed. How do I tell my family?",
+      "answers": [
+        "Choose a calm moment and be direct but hopeful. Emphasize that you have a medical team and a treatment plan already in place.",
+        "You might tell close family together so you only have one difficult conversation. Prepare what you want to say beforehand.",
+        "Remember you control how much to share. It's okay to say 'I'm still processing' if you don't have answers to their questions yet."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Should I get a second opinion?",
+      "answers": [
+        "Yes, for major decisions like treatment plans. Reputable doctors expect this and can provide your records to another specialist.",
+        "A second opinion can confirm your treatment path or offer alternatives, giving you confidence in your decisions either way.",
+        "Many insurance companies cover second opinions. This is your health and your body - take the time you need to feel certain."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "How do I choose between lumpectomy and mastectomy?",
+      "answers": [
+        "For early-stage cancer, survival rates are equivalent with both options. The choice often comes down to personal preference and peace of mind.",
+        "Consider your feelings about preserving your breast versus reducing recurrence risk. Some prefer lumpectomy plus radiation; others prefer mastectomy's finality.",
+        "Discuss your specific cancer characteristics with your surgeon. Factors like tumor size relative to breast size and genetic markers influence this decision."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What should I expect from chemotherapy?",
+      "answers": [
+        "Chemo affects everyone differently. Common side effects include fatigue, nausea, and hair loss, but modern medications manage these much better than before.",
+        "You'll receive detailed information about your specific drugs and their side effects. Pre-medications help prevent nausea and allergic reactions.",
+        "Plan for help during treatment weeks - with meals, childcare, and transportation. Many people feel reasonably well between cycles and can maintain some normalcy."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "How can I prepare for hair loss?",
+      "answers": [
+        "Consider cutting hair short before it falls out - this can make the transition less traumatic. Some choose to shave their heads when thinning begins.",
+        "Look into cold capping, which may reduce hair loss. Or explore wigs, scarves, and hats - many cancer centers have resources to help.",
+        "Remember this is temporary. Hair typically begins regrowing 3-6 weeks after treatment ends, though texture or color may initially be different."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Will radiation hurt?",
+      "answers": [
+        "The treatment itself is painless, like getting an X-ray. You won't feel anything during the actual radiation delivery.",
+        "Side effects develop over time, mainly skin irritation like sunburn and fatigue. Your radiation team will provide creams and advice for management.",
+        "Treatments are quick - usually 15-30 minutes including setup. The course typically lasts 3-6 weeks, Monday through Friday."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "How do I manage treatment-related fatigue?",
+      "answers": [
+        "Listen to your body and rest when needed, but also try gentle activity like short walks, which can actually boost energy.",
+        "Prioritize tasks and delegate what you can. Accept help from friends and family with meals, cleaning, and errands.",
+        "Practice energy conservation - sit instead of stand, break tasks into small steps, and schedule important activities for when you typically feel best."
+      ]
+    },
+    {
+      "id": 11,
+      "question": "What can I do about 'chemo brain'?",
+      "answers": [
+        "Use tools like calendars, lists, and phone reminders. Designate specific spots for keys, phones, and other frequently lost items.",
+        "Get enough sleep, exercise gently, and challenge your brain with puzzles or reading. These can help improve cognitive function.",
+        "Be patient with yourself and explain to loved ones that memory and concentration issues are common treatment side effects, not personal failings."
+      ]
+    },
+    {
+      "id": 12,
+      "question": "How will treatment affect my intimacy and sex life?",
+      "answers": [
+        "Fatigue, body image issues, and medical side effects like vaginal dryness commonly affect intimacy. Open communication with your partner is essential.",
+        "Ask your doctor about vaginal moisturizers and lubricants safe during treatment. Some estrogen creams may be appropriate after certain treatments.",
+        "Intimacy doesn't have to mean intercourse - focus on connection through touching, cuddling, and emotional closeness during this challenging time."
+      ]
+    },
+    {
+      "id": 13,
+      "question": "What are my reconstruction options after mastectomy?",
+      "answers": [
+        "Options include implants or using your own tissue (autologous reconstruction). Each has different recovery times and results - discuss with a plastic surgeon.",
+        "Reconstruction can be done immediately during mastectomy surgery or delayed until after treatment. Each timing has advantages depending on your situation.",
+        "Results won't perfectly match your natural breast, but techniques have improved significantly. Ask to see photos of your surgeon's work to set realistic expectations."
+      ]
+    },
+    {
+      "id": 14,
+      "question": "How do I handle the financial burden of treatment?",
+      "answers": [
+        "Meet with a hospital financial counselor early. They know about payment plans, charity care, and programs that reduce costs.",
+        "Contact organizations like CancerCare, Patient Advocate Foundation, and the American Cancer Society for financial assistance and copay help.",
+        "Keep detailed records of medical expenses for tax purposes. Some treatments, travel for care, and even certain foods may be deductible."
+      ]
+    },
+    {
+      "id": 15,
+      "question": "What should I eat during treatment?",
+      "answers": [
+        "Focus on protein for healing and enough calories to maintain weight. Small, frequent meals often work better than three large ones.",
+        "During chemo, food safety is crucial - avoid raw foods, unpasteurized products, and buffets when your immunity is low.",
+        "Consult a oncology dietitian if possible. They can provide personalized advice for managing treatment side effects like mouth sores or taste changes."
+      ]
+    },
+    {
+      "id": 16,
+      "question": "How do I talk to my children about my diagnosis?",
+      "answers": [
+        "Be honest using age-appropriate language. Reassure them they're loved and safe, and emphasize that cancer isn't contagious.",
+        "Explain changes they'll see (like hair loss or fatigue) beforehand. Involving them in small helping roles can make them feel useful.",
+        "Keep routines as normal as possible. Children take emotional cues from adults - if you're openly dealing with feelings, they'll learn this is healthy."
+      ]
+    },
+    {
+      "id": 17,
+      "question": "What if I need to stop working during treatment?",
+      "answers": [
+        "Talk to HR about short-term disability, FMLA protection, and other benefits. Get all communications in writing and keep copies.",
+        "Focus on your health without guilt - treatment is your job right now. Financial stress is real, but your wellbeing comes first.",
+        "Many employers are supportive. Be clear about your needs but flexible with solutions like gradual return or modified duties when you're ready."
+      ]
+    },
+    {
+      "id": 18,
+      "question": "How can friends and family best support me?",
+      "answers": [
+        "Ask them for specific help: 'Could you bring dinner Tuesday?' or 'Can you drive me to treatment next Thursday?' People want to help but don't know how.",
+        "Designate a point person to coordinate help and updates. This prevents you from repeating medical information when you're tired.",
+        "It's okay to set boundaries. Let people know if you need space or quiet time. True supporters will understand."
+      ]
+    },
+    {
+      "id": 19,
+      "question": "What are the long-term side effects I should know about?",
+      "answers": [
+        "Depending on treatment, potential issues include lymphedema (arm swelling), early menopause, heart issues, or bone density loss.",
+        "Your oncology team will monitor for long-term effects. Follow-up care is crucial - don't skip appointments after active treatment ends.",
+        "Many side effects are manageable. Lymphedema can be controlled with compression and therapy; bone density can be protected with medication and exercise."
+      ]
+    },
+    {
+      "id": 20,
+      "question": "How do I manage fear of recurrence?",
+      "answers": [
+        "This fear is normal and often lessens with time. Acknowledge the fear without letting it control you - 'I'm having the thought that the cancer is back.'",
+        "Focus on factors within your control: follow-up care, healthy habits, and enjoying present moments rather than worrying about an uncertain future.",
+        "If anxiety becomes overwhelming, consider counseling or a survivor support group. Learning to live with uncertainty is a skill that develops over time."
+      ]
+    },
+    {
+      "id": 21,
+      "question": "What is lymphedema and how can I prevent it?",
+      "answers": [
+        "Lymphedema is swelling that can occur after lymph node removal or radiation. It's managed, not cured, so prevention is key.",
+        "Protect the affected arm: avoid blood draws, blood pressure checks, injuries, and heavy lifting on that side. Watch for signs of infection.",
+        "Consider seeing a lymphedema therapist who can teach you massage techniques and recommend compression garments if needed."
+      ]
+    },
+    {
+      "id": 22,
+      "question": "How will hormonal therapy affect me?",
+      "answers": [
+        "Medications like tamoxifen or aromatase inhibitors cause menopause-like symptoms: hot flashes, joint pain, vaginal dryness, and sometimes weight gain.",
+        "Side effects vary greatly. Don't suffer silently - many management strategies exist, from medications to complementary therapies.",
+        "These medications significantly reduce recurrence risk. If side effects are difficult, talk to your doctor about options rather than stopping treatment."
+      ]
+    },
+    {
+      "id": 23,
+      "question": "What complementary therapies might help?",
+      "answers": [
+        "Acupuncture can help with pain, nausea, and hot flashes. Massage can reduce anxiety and lymphedema risk (find a therapist trained in oncology massage).",
+        "Mindfulness, meditation, and yoga have good evidence for reducing cancer-related stress and improving quality of life.",
+        "Always discuss supplements with your oncology team - some can interfere with treatments. Choose practitioners experienced with cancer patients."
+      ]
+    },
+    {
+      "id": 24,
+      "question": "When will I feel like myself again after treatment?",
+      "answers": [
+        "Recovery is gradual, often taking 6-12 months or longer. Be patient - your body has been through tremendous stress.",
+        "You may not return to exactly who you were before cancer, and that's okay. Many survivors discover new strengths and priorities.",
+        "Set small goals and celebrate progress. If you're struggling with depression or prolonged fatigue, talk to your doctor - support is available."
+      ]
+    },
+    {
+      "id": 25,
+      "question": "Should I join a support group?",
+      "answers": [
+        "Many find tremendous comfort connecting with others who truly understand this experience. It reduces feelings of isolation.",
+        "Options include in-person groups, online communities, and one-on-one peer support. Try different formats to see what feels right.",
+        "If groups aren't for you, individual counseling can still provide crucial support. There's no right way to navigate this journey."
+      ]
+    },
+    {
+      "id": 26,
+      "question": "How do I handle well-meaning but unhelpful advice?",
+      "answers": [
+        "People often share miracle cures or horror stories trying to help. A simple 'Thank you, I'll discuss that with my doctor' usually suffices.",
+        "Remember you're the expert on your experience. You don't need to justify your treatment decisions or educate everyone about cancer.",
+        "It's okay to set boundaries: 'I appreciate your concern, but I'm following my medical team's advice specifically for my situation.'"
+      ]
+    },
+    {
+      "id": 27,
+      "question": "What questions should I ask at my next oncology appointment?",
+      "answers": [
+        "Bring a written list so you don't forget important questions. Prioritize your top 3-5 concerns in case time is limited.",
+        "Ask about treatment goals, potential side effects and their management, and what warning signs warrant immediate calls.",
+        "Bring someone to take notes. It's hard to absorb everything when you're anxious. Record the visit if your doctor permits it."
+      ]
+    },
+    {
+      "id": 28,
+      "question": "How can I maintain hope during difficult treatment phases?",
+      "answers": [
+        "Focus on small victories - a good day, a treatment milestone, kind moments with loved ones. Hope can live in these small spaces.",
+        "Remember that difficult phases are temporary. Treatment has a beginning, middle, and end, even when it doesn't feel that way.",
+        "Connect with long-term survivors if possible. Seeing people thriving years after diagnosis provides powerful tangible hope."
+      ]
+    },
+    {
+      "id": 29,
+      "question": "What should I bring to chemotherapy sessions?",
+      "answers": [
+        "Comfort items: warm socks, a cozy blanket, headphones with music or podcasts, hard candy for metal taste, and something to do.",
+        "Snacks and drinks - treatment can take hours. Some centers provide food, but bring favorites that appeal even when nauseated.",
+        "A support person if allowed. Company makes time pass faster, and they can help remember information from the medical team."
+      ]
+    },
+    {
+      "id": 30,
+      "question": "How do I navigate the transition from patient to survivor?",
+      "answers": [
+        "This transition can be surprisingly difficult. After intensive medical attention, finishing treatment can bring anxiety rather than relief.",
+        "Create a survivorship care plan with your team detailing follow-up schedules, monitoring tests, and signs to watch for.",
+        "Be gentle with yourself as you find your new normal. Many benefit from counseling specifically addressing post-treatment adjustment."
+      ]
+    },
+    {
+      "id": 31,
+      "question": "What are the warning signs of infection during treatment?",
+      "answers": [
+        "Fever of 100.4°F or higher requires immediate medical attention when on chemo. Don't wait - this can be life-threatening with low immunity.",
+        "Other red flags: chills, cough, shortness of breath, redness/swelling at IV sites, or any sign of infection.",
+        "Your team will provide specific guidelines. Keep emergency numbers handy and don't hesitate to call - they expect these calls."
+      ]
+    },
+    {
+      "id": 32,
+      "question": "How can I manage nausea between treatments?",
+      "answers": [
+        "Take anti-nausea medications as prescribed, not just when nausea hits. Prevention is more effective than treatment.",
+        "Eat small, frequent meals. Ginger, crackers, and bland foods often help. Avoid strong food smells and fatty/greasy foods.",
+        "Distraction techniques like deep breathing, acupressure wristbands, or pleasant aromas can provide additional relief."
+      ]
+    },
+    {
+      "id": 33,
+      "question": "What exercises are safe during treatment?",
+      "answers": [
+        "Gentle walking is usually appropriate and beneficial throughout treatment. Listen to your body and rest when needed.",
+        "Ask about physical therapy - they can provide safe exercises addressing specific surgery limitations like range of motion.",
+        "Avoid strenuous activity, especially right after surgery or during chemo lows. The goal is movement, not fitness milestones."
+      ]
+    },
+    {
+      "id": 34,
+      "question": "How do I deal with changes in my appearance?",
+      "answers": [
+        "Acknowledge the grief - it's valid to mourn these changes. But try to separate your worth from your appearance.",
+        "Experiment with new ways to feel like yourself - scarves, makeup, or comfortable clothes that make you feel good.",
+        "Remember that most changes are temporary. Hair grows back, surgery scars fade, and weight often normalizes after treatment."
+      ]
+    },
+    {
+      "id": 35,
+      "question": "What should I know about fertility preservation?",
+      "answers": [
+        "If having children is important to you, discuss fertility preservation options BEFORE treatment begins when possible.",
+        "Options include egg/embryo freezing, ovarian suppression during chemo, or other techniques depending on your situation and time available.",
+        "Oncofertility specialists can provide urgent consultations. Though overwhelming amid diagnosis, many never regret preserving this option."
+      ]
+    },
+    {
+      "id": 36,
+      "question": "How can I sleep better during treatment?",
+      "answers": [
+        "Create a relaxing bedtime routine: warm bath, meditation, gentle stretching, or reading - no screens before bed.",
+        "If pain or hot flashes disrupt sleep, talk to your team about management strategies. Don't suffer through sleepless nights.",
+        "Nap if needed but try to keep a somewhat consistent sleep schedule. Sleep is crucial for healing and coping."
+      ]
+    },
+    {
+      "id": 37,
+      "question": "What resources are available for emotional support?",
+      "answers": [
+        "Most cancer centers have oncology social workers who provide counseling and connect you with resources - often free of charge.",
+        "Organizations like CancerCare offer professional counseling and support groups at no cost, including specialized groups for young adults, etc.",
+        "Don't wait until you're in crisis to seek support. Proactive emotional care is as important as physical treatment."
+      ]
+    },
+    {
+      "id": 38,
+      "question": "How do I handle scanxiety before follow-up scans?",
+      "answers": [
+        "Schedule scans for early in the day to minimize waiting. Plan something enjoyable afterward to focus on.",
+        "Practice what you'll do with either result. Having a plan for bad news can make it less terrifying.",
+        "Remember that scans are surveillance tools catching any problems early. They're part of your protection, not just sources of fear."
+      ]
+    },
+    {
+      "id": 39,
+      "question": "What should I know about clinical trials?",
+      "answers": [
+        "Clinical trials aren't just last resorts - they can be good first options offering access to cutting-edge treatments.",
+        "Ask your oncologist if there are appropriate trials for your situation. They can search national databases for matches.",
+        "Participating contributes to future cancer care regardless of personal outcome. Trial participants receive excellent monitoring and care."
+      ]
+    },
+    {
+      "id": 40,
+      "question": "How can I maintain my relationship during this challenge?",
+      "answers": [
+        "Communicate openly about fears and needs. Your partner can't read your mind, especially during this stressful time.",
+        "Schedule 'normal' time together without discussing cancer. Watch movies, play games, or just be together without medical talk.",
+        "Consider couples counseling - not because your relationship is failing, but because it provides tools for navigating this extraordinary stress."
+      ]
+    },
+    {
+      "id": 41,
+      "question": "What are the signs of lymphedema I should watch for?",
+      "answers": [
+        "Early signs include heaviness, aching, or tightness in the arm; swelling; jewelry or clothing feeling tighter; or decreased flexibility.",
+        "Compare both arms regularly. Noticeable size difference, skin changes, or persistent symptoms warrant prompt evaluation.",
+        "Early intervention is key. If you suspect lymphedema, see a specialist immediately rather than waiting to see if it resolves."
+      ]
+    },
+    {
+      "id": 42,
+      "question": "How do I manage the metal taste during chemo?",
+      "answers": [
+        "Use plastic utensils instead of metal. Tart flavors like lemon, vinegar, or pickled foods can help cut through the metal taste.",
+        "Try different protein sources - sometimes red meat tastes metallic, while chicken, fish, eggs, or beans may be more palatable.",
+        "Rinse with baking soda solution before eating. Sugar-free mints or gum between meals can keep the metal taste at bay."
+      ]
+    },
+    {
+      "id": 43,
+      "question": "What should I know about breast prostheses after mastectomy?",
+      "answers": [
+        "Many insurance plans cover prosthetic breasts and special bras. Get properly fitted by a certified fitter for comfort and natural appearance.",
+        "Options range from lightweight everyday forms to swim prostheses. You might want different types for different activities.",
+        "Take time to adjust - it can feel strange initially. Many fit specialists are breast cancer survivors themselves with helpful insights."
+      ]
+    },
+    {
+      "id": 44,
+      "question": "How can I prepare for surgery day?",
+      "answers": [
+        "Pack a hospital bag with comfortable going-home clothes (front-opening tops are easiest), lip balm, phone charger, and personal items.",
+        "Follow pre-surgery instructions carefully regarding eating, drinking, and medications. This prevents dangerous complications.",
+        "Arrange help for at least the first week home - with cooking, cleaning, and personal care. You'll need to focus on resting and healing."
+      ]
+    },
+    {
+      "id": 45,
+      "question": "What questions should I ask about radiation treatment?",
+      "answers": [
+        "Ask about the schedule, duration, what side effects to expect, and skin care recommendations specific to their radiation technology.",
+        "Inquire about permanent markings versus daily tattoos - some centers use different marking methods with varying permanence.",
+        "Discuss how radiation integrates with other treatments like chemotherapy or surgery in your specific treatment sequence."
+      ]
+    },
+    {
+      "id": 46,
+      "question": "How do I handle unsolicited cancer stories from others?",
+      "answers": [
+        "You're not obligated to listen to every cancer story. It's okay to say 'I'm finding it hard to hear other stories right now.'",
+        "Remember that people often share these stories trying to connect or show they understand, even when it's not helpful.",
+        "Have a prepared response: 'Thank you for sharing, but I'm focusing on staying positive about my own situation right now.'"
+      ]
+    },
+    {
+      "id": 47,
+      "question": "What should I know about port placement?",
+      "answers": [
+        "A port makes blood draws and chemo administration easier and protects your veins. It's placed under the skin during a minor procedure.",
+        "Ports require minimal maintenance - usually flushed monthly when not in use. Most people find them much more comfortable than repeated IVs.",
+        "You'll feel a bump under your skin but it's not usually visible through clothing. It can be removed after treatment ends if desired."
+      ]
+    },
+    {
+      "id": 48,
+      "question": "How can I advocate for myself in the medical system?",
+      "answers": [
+        "Bring someone to appointments to be a second set of ears and help remember information and ask questions you might forget.",
+        "Keep organized records of test results, treatment summaries, and provider contacts. This helps when seeing new specialists.",
+        "If something doesn't feel right with your care, speak up. You have the right to ask questions and seek clarification about your treatment."
+      ]
+    },
+    {
+      "id": 49,
+      "question": "Is it safe for me to work during treatment?",
+      "answers": [
+        "Most people need leave during active treatment, especially chemoradiation. The fatigue and side effects are significant. Health must come first.",
+        "For regimens like chemoradiation, working is generally not advisable. The cumulative fatigue and daily appointments make it impractical.",
+        "Plan now for leave. Talk to HR about disability benefits. We'll handle paperwork. Your job now is being a full-time patient - be kind to yourself."
+      ]
+    },
+    {
+      "id": 50,
+      "question": "How do I find my new normal after treatment ends?",
+      "answers": [
+        "Give yourself time - recovery continues long after active treatment. Expect ups and downs as you adjust physically and emotionally.",
+        "Reevaluate priorities. Many survivors make positive life changes regarding work, relationships, or self-care after this experience.",
+        "Be patient with yourself and others. You've been through a trauma. It takes time to integrate this experience into your life story."
+      ]
+    }
+  ]
+}

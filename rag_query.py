@@ -6,9 +6,11 @@
 
 import os, json, faiss, numpy as np, torch
 from sentence_transformers import SentenceTransformer
-from transformers import pipeline
+from transformers import pipeline, AutoTokenizer
 from rank_bm25 import BM25Okapi
 from dotenv import load_dotenv
+import warnings
+warnings.filterwarnings("ignore")
 
 # =========================================================
 # ⚙️ Environment Setup
@@ -32,15 +34,15 @@ device = "cuda" if torch.cuda.is_available() else "cpu"
 print(f"🧠 Using device: {device}")
 
 # =========================================================
-# 📂 Load FAISS + Data
+# 📂 Load FAISS + Data (FIXED PATHS)
 # =========================================================
 def _load_data():
-    index_path = os.path.join(OUTPUT_DIR, "pdf_faiss.index")
-    text_path = os.path.join(OUTPUT_DIR, "pdf_texts.npy")
-    meta_path = os.path.join(OUTPUT_DIR, "pdf_metadata.json")
+    index_path = os.path.join(OUTPUT_DIR, "faiss_index.index")  # Fixed path
+    text_path = os.path.join(OUTPUT_DIR, "texts.npy")  # Fixed path
+    meta_path = os.path.join(OUTPUT_DIR, "metadata.json")  # Fixed path
 
     if not all(os.path.exists(p) for p in [index_path, text_path, meta_path]):
-        raise FileNotFoundError("❌ Missing FAISS or embedding data. Run 'rag_llm.py' first.")
+        raise FileNotFoundError("❌ Missing FAISS or embedding data. Run 'rag_pipe_embedding.py' first.")
 
     index = faiss.read_index(index_path)
     texts = np.load(text_path, allow_pickle=True)
@@ -71,6 +73,16 @@ def retrieve_context(query: str, top_k: int = 3):
     return chosen_texts, chosen_meta
 
 # =========================================================
+# 🛠️ Text Truncation Helper
+# =========================================================
+def truncate_for_model(text, max_tokens=400):
+    """Truncate text to prevent token overflow"""
+    words = text.split()
+    if len(words) > max_tokens:
+        return " ".join(words[:max_tokens]) + "..."
+    return text
+
+# =========================================================
 # 🤖 Generate Short Conversational Answer
 # =========================================================
 def generate_answer(query: str, context: str, chat_context: str = ""):
@@ -79,60 +91,113 @@ def generate_answer(query: str, context: str, chat_context: str = ""):
         "Be warm, natural, and empathetic — not robotic or overly formal."
     )
 
+    # Truncate inputs to prevent token overflow
+    truncated_context = truncate_for_model(context, 300)
+    truncated_chat = truncate_for_model(chat_context, 200)
+
     prompt = f"""
 Chat history:
-{chat_context[:1000]}
+{truncated_chat}
 
 User question: {query}
 
 Relevant info:
-{context[:2000]}
+{truncated_context}
 
 Instruction: {style_instruction}
 """
 
-    # Try Groq API first
+    # Try Groq API first with better error handling
     if groq_api_key:
         try:
-            from groq import Groq
-            client = Groq(api_key=groq_api_key)
-            chat = client.chat.completions.create(
-                model="llama-3.3-70b-versatile",
-                messages=[
+            # Use requests-based fallback to avoid httpx issues
+            import requests
+            headers = {
+                "Authorization": f"Bearer {groq_api_key}",
+                "Content-Type": "application/json"
+            }
+            payload = {
+                "messages": [
                     {"role": "system", "content": "You are a kind, concise medical counselor."},
-                    {"role": "user", "content": prompt},
+                    {"role": "user", "content": prompt}
                 ],
-                temperature=0.7,
-                max_tokens=150,
+                "model": "llama-3.3-70b-versatile",
+                "temperature": 0.7,
+                "max_tokens": 150
+            }
+            
+            response = requests.post(
+                "https://api.groq.com/openai/v1/chat/completions",
+                headers=headers,
+                json=payload,
+                timeout=30
             )
-            answer = chat.choices[0].message.content.strip()
+            response.raise_for_status()
+            result = response.json()
+            answer = result['choices'][0]['message']['content'].strip()
             print("✅ Groq API generated a response.")
             return answer
         except Exception as e:
-            print("⚠️ Groq API failed:", e)
+            print(f"⚠️ Groq API failed: {e}")
             print("💻 Using local model fallback...")
 
-    # Local model fallback
+    # Local model fallback with better token handling
     try:
-        generator = pipeline("text2text-generation", model=GENERATOR_MODEL, device_map="auto")
-        result = generator(prompt, max_new_tokens=100, do_sample=False)[0]["generated_text"].strip()
+        # Initialize tokenizer and generator separately
+        tokenizer = AutoTokenizer.from_pretrained(GENERATOR_MODEL)
+        generator = pipeline(
+            "text2text-generation", 
+            model=GENERATOR_MODEL, 
+            tokenizer=tokenizer,
+            device=0 if torch.cuda.is_available() else -1,
+            torch_dtype=torch.float16 if torch.cuda.is_available() else torch.float32
+        )
+        
+        # Tokenize and truncate if necessary
+        inputs = tokenizer(prompt, return_tensors="pt", truncation=True, max_length=512)
+        
+        result = generator(
+            prompt,
+            max_new_tokens=100,
+            do_sample=False,
+            truncation=True
+        )[0]["generated_text"].strip()
+        
         # Keep it short — 1–2 sentences
         sentences = result.split(". ")
-        return ". ".join(sentences[:2]) + "."
+        final_answer = ". ".join(sentences[:2]) + ("." if not result.endswith(".") else "")
+        return final_answer
+        
     except Exception as e:
-        print("❌ Local model generation failed:", e)
-        return "⚠️ Sorry, I couldn’t create a reply right now."
+        print(f"❌ Local model generation failed: {e}")
+        return "I apologize, but I'm having trouble generating a response right now. Please try again or rephrase your question."
 
 # =========================================================
 # 🩺 Full RAG Query
 # =========================================================
 def rag_query(query: str, top_k: int = 3, chat_context: str = ""):
     """Retrieve → Generate → Return short conversational answer."""
-    chunks, meta = retrieve_context(query, top_k)
-    if not chunks:
-        return {"answer": "⚠️ No relevant information found.", "metadata": []}
-    answer = generate_answer(query, "\n".join(chunks), chat_context)
-    return {"answer": answer, "metadata": meta}
+    try:
+        chunks, meta = retrieve_context(query, top_k)
+        if not chunks:
+            return {
+                "answer": "I don't have specific information about that in my knowledge base. Please consult with a healthcare professional for personalized medical advice.",
+                "metadata": [],
+                "safety_warning": False
+            }
+        answer = generate_answer(query, "\n".join(chunks), chat_context)
+        return {
+            "answer": answer, 
+            "metadata": meta,
+            "safety_warning": False
+        }
+    except Exception as e:
+        print(f"❌ RAG query error: {e}")
+        return {
+            "answer": "I'm experiencing technical difficulties. Please try again in a moment.",
+            "metadata": [],
+            "safety_warning": True
+        }
 
 # =========================================================
 # 🧪 Test Run

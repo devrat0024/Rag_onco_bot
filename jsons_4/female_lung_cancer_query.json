@@ -1,0 +1,469 @@
+{
+  "gender_based_lung_cancer_questions_females": [
+    {
+      "id": 1,
+      "question": "Why are lung cancer rates increasing in women while decreasing in men?",
+      "answers": [
+        "Delayed smoking patterns: Women started smoking in large numbers later than men, and their smoking rates peaked later, creating a delayed epidemic.",
+        "Tobacco marketing targeting: Aggressive marketing of cigarettes to women in the 1970s-1990s created generations of female smokers now developing cancer.",
+        "Increased longevity: Women live longer, providing more time for lung cancer to develop from smoking or other risk factors."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What biological factors make women more susceptible to lung cancer?",
+      "answers": [
+        "Hormonal influences: Estrogen may promote lung cancer development and progression through estrogen receptor signaling in lung tissue.",
+        "Genetic susceptibility: Women have higher levels of DNA adducts from tobacco carcinogens and reduced DNA repair capacity compared to men.",
+        "Metabolic differences: Women metabolize nicotine faster and may extract more carcinogens from each cigarette smoked."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "How does lung cancer histology differ in women compared to men?",
+      "answers": [
+        "Adenocarcinoma predominance: Women develop adenocarcinoma more frequently than other types, even with similar smoking histories.",
+        "EGFR mutation prevalence: Women, especially never-smokers, have higher rates of EGFR mutations that respond to targeted therapies.",
+        "Molecular subtypes: Female-predominant molecular subtypes show different response patterns to chemotherapy and immunotherapy."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What are the unique risk factors for never-smoker women developing lung cancer?",
+      "answers": [
+        "Secondhand smoke exposure: Women historically had higher exposure to spouse's smoking in domestic settings.",
+        "Cooking fumes exposure: Long-term exposure to high-temperature cooking oils and indoor air pollution affects women disproportionately.",
+        "Hormone replacement therapy: Some studies suggest links between HRT use and increased lung cancer risk in certain populations."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "How do smoking patterns and addiction differ in women?",
+      "answers": [
+        "Weight control smoking: Many women smoke for weight management, creating additional barriers to smoking cessation.",
+        "Stress-responsive smoking: Women often smoke in response to emotional stress and have stronger cue-induced cravings.",
+        "Metabolic differences: Women metabolize nicotine faster and may experience more intense withdrawal symptoms when quitting."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What are the gender differences in treatment response and outcomes?",
+      "answers": [
+        "Chemotherapy response: Women often show better response to platinum-based chemotherapy and have longer survival with advanced disease.",
+        "Targeted therapy benefits: Higher rates of actionable mutations make women better candidates for newer targeted treatments.",
+        "Surgical outcomes: Women have better postoperative survival and tolerate lung resection surgery better than men."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "How does lung cancer diagnosis affect women's family roles?",
+      "answers": [
+        "Caregiver role reversal: Women who are primary family caregivers struggle with becoming care recipients.",
+        "Motherhood concerns: Young women face unique challenges balancing treatment with childcare responsibilities.",
+        "Household management: Diagnosis disrupts women's traditional roles in managing household and family schedules."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What are the body image concerns for women with lung cancer?",
+      "answers": [
+        "Weight changes: Treatment-related weight loss or steroid-induced weight gain significantly impacts female body image.",
+        "Hair loss: Chemotherapy-induced alopecia can be particularly distressing for women's self-perception.",
+        "Surgical scars: Thoracotomy scars and port placements affect clothing choices and body confidence."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "How does menopause interact with lung cancer risk and treatment?",
+      "answers": [
+        "Hormonal transitions: Menopausal status and timing may influence lung cancer risk and progression.",
+        "Symptom management: Cancer treatment exacerbates menopausal symptoms like hot flashes and sleep disturbances.",
+        "Bone health: Combined effects of menopause and cancer treatment accelerate osteoporosis development."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What are the unique psychosocial impacts on women?",
+      "answers": [
+        "Stigma and blame: Women face different societal judgments about smoking, with greater stigma as mothers.",
+        "Relationship stress: Diagnosis creates unique marital and partnership challenges, including intimacy issues.",
+        "Social isolation: Treatment side effects often cause withdrawal from social networks and community activities."
+      ]
+    },
+    {
+      "id": 11,
+      "question": "How does lung cancer affect women's mental health?",
+      "answers": [
+        "Anxiety and depression: Women report higher rates of anxiety and depression following lung cancer diagnosis.",
+        "Guilt and self-blame: Intense feelings of responsibility for smoking-related illness, especially when children are involved.",
+        "Financial stress: Women often have fewer financial resources and more concerns about medical costs."
+      ]
+    },
+    {
+      "id": 12,
+      "question": "What are the screening and early detection challenges for women?",
+      "answers": [
+        "Awareness gaps: Many women don't perceive themselves as at risk for lung cancer, delaying screening.",
+        "Access barriers: Women may have less flexible work schedules for screening appointments.",
+        "Risk assessment: Current screening criteria based on heavy smoking history may miss at-risk women."
+      ]
+    },
+    {
+      "id": 13,
+      "question": "How does pregnancy history affect lung cancer risk?",
+      "answers": [
+        "Reproductive factors: Early menarche, nulliparity, and early menopause may influence lung cancer risk.",
+        "Pregnancy hormones: The protective effects of pregnancy on lung cancer risk are still being investigated.",
+        "Birth control use: Some studies suggest oral contraceptive use may modify lung cancer risk."
+      ]
+    },
+    {
+      "id": 14,
+      "question": "What are the occupational risks specific to women?",
+      "answers": [
+        "Service industry exposures: Women in cleaning, hospitality, and healthcare face unique occupational carcinogens.",
+        "Beauty industry: Hairdressers and cosmetologists have chemical exposures from beauty products.",
+        "Textile and manufacturing: Historical exposures in female-dominated manufacturing jobs."
+      ]
+    },
+    {
+      "id": 15,
+      "question": "How does lung cancer treatment affect female fertility?",
+      "answers": [
+        "Premature menopause: Chemotherapy and radiation can cause immediate ovarian failure in young women.",
+        "Fertility preservation: Unique challenges in discussing and accessing fertility preservation before treatment.",
+        "Pregnancy after diagnosis: Complex decisions about family planning during and after cancer treatment."
+      ]
+    },
+    {
+      "id": 16,
+      "question": "What are the communication patterns of female lung cancer patients?",
+      "answers": [
+        "Information seeking: Women typically seek more detailed information and participate more actively in treatment decisions.",
+        "Symptom reporting: Women report symptoms more thoroughly but may have their concerns dismissed as anxiety.",
+        "Support networks: Women build extensive communication networks with other patients and caregivers."
+      ]
+    },
+    {
+      "id": 17,
+      "question": "How does socioeconomic status affect women's lung cancer outcomes?",
+      "answers": [
+        "Financial vulnerability: Women often have lower incomes and less financial stability to withstand treatment costs.",
+        "Insurance disparities: Women are more likely to have gaps in health insurance coverage.",
+        "Resource access: Single women and widows may lack caregiver support during treatment."
+      ]
+    },
+    {
+      "id": 18,
+      "question": "What are the unique nutritional needs of female patients?",
+      "answers": [
+        "Bone health: Higher calcium and vitamin D requirements to prevent treatment-accelerated osteoporosis.",
+        "Weight management: Different metabolic responses to steroids and other medications affecting weight.",
+        "Eating patterns: Women often prioritize family meals over their own nutritional needs during treatment."
+      ]
+    },
+    {
+      "id": 19,
+      "question": "How does lung cancer affect intimate relationships?",
+      "answers": [
+        "Sexual health: Treatment side effects like fatigue and vaginal dryness significantly impact sexual function.",
+        "Body image intimacy: Changes in appearance and breathing difficulties affect intimacy and sexual confidence.",
+        "Partner dynamics: Shifts in relationship roles from partners to caregiver-patient create new challenges."
+      ]
+    },
+    {
+      "id": 20,
+      "question": "What are the exercise and rehabilitation considerations?",
+      "answers": [
+        "Bone protection: Weight-bearing exercise needs to balance benefits with fracture risk in osteoporotic women.",
+        "Upper body strength: Women may need different approaches to rebuilding strength after thoracic surgery.",
+        "Pulmonary rehab: Gender-specific breathing techniques and exercise tolerance levels."
+      ]
+    },
+    {
+      "id": 21,
+      "question": "How does age affect lung cancer in women?",
+      "answers": [
+        "Young women: More likely to be never-smokers with targetable mutations but face fertility and childcare concerns.",
+        "Middle-aged women: Often diagnosed during peak caregiving and career years with multiple competing responsibilities.",
+        "Elderly women: May be undertreated due to ageism and comorbidity concerns despite good functional status."
+      ]
+    },
+    {
+      "id": 22,
+      "question": "What are the racial and ethnic disparities for women?",
+      "answers": [
+        "African American women: Higher mortality despite lower smoking rates, suggesting access and biological disparities.",
+        "Cultural barriers: Different cultural beliefs about cancer and treatment in various ethnic groups.",
+        "Genetic variations: Ethnic differences in mutation prevalence and treatment metabolism."
+      ]
+    },
+    {
+      "id": 23,
+      "question": "How does lung cancer stigma affect women differently?",
+      "answers": [
+        "Motherhood judgment: Intense stigma for women who smoked during pregnancy or while raising children.",
+        "Social isolation: Women may lose social support due to judgment about 'self-inflicted' disease.",
+        "Internalized shame: Greater self-blame and reluctance to seek support services."
+      ]
+    },
+    {
+      "id": 24,
+      "question": "What are the survivorship issues unique to women?",
+      "answers": [
+        "Long-term side effects: Women report more persistent fatigue, cognitive changes, and pain after treatment.",
+        "Secondary cancers: Higher risk of breast and other hormonally influenced cancers after lung cancer.",
+        "Cardiac late effects: Women may experience different patterns of treatment-related heart damage."
+      ]
+    },
+    {
+      "id": 25,
+      "question": "How does caregiver burden affect female patients?",
+      "answers": [
+        "Caregiver stress: Women often worry about burdening family members, particularly daughters.",
+        "Limited caregiver availability: Older women may outlive spouses and have limited caregiver support.",
+        "Reciprocal caregiving: Women who were caregivers themselves struggle to accept care from others."
+      ]
+    },
+    {
+      "id": 26,
+      "question": "What are the financial toxicity aspects for women?",
+      "answers": [
+        "Income impact: Women are more likely to reduce work hours or leave employment during treatment.",
+        "Medical debt: Women have fewer financial resources to cope with treatment-related expenses.",
+        "Retirement security: Treatment interruptions affect pension accumulation and Social Security benefits."
+      ]
+    },
+    {
+      "id": 27,
+      "question": "How does immunotherapy affect women differently?",
+      "answers": [
+        "Immune response: Women may have different immune checkpoint inhibitor efficacy and toxicity profiles.",
+        "Autoimmune predisposition: Higher rates of autoimmune diseases in women may influence immunotherapy response.",
+        "Side effect patterns: Women experience different immune-related adverse events than men."
+      ]
+    },
+    {
+      "id": 28,
+      "question": "What are the complementary therapy usage patterns?",
+      "answers": [
+        "Higher utilization: Women are more likely to use complementary therapies alongside conventional treatment.",
+        "Mind-body approaches: Greater use of meditation, yoga, and other stress-reduction techniques.",
+        "Communication with providers: Women are more likely to discuss complementary therapy use with their doctors."
+      ]
+    },
+    {
+      "id": 29,
+      "question": "How does lung cancer affect women's work lives?",
+      "answers": [
+        "Career interruptions: Treatment often coincides with critical career advancement years.",
+        "Workplace discrimination: Women face different forms of workplace bias when dealing with cancer.",
+        "Return to work: Women may need different accommodations when returning to work after treatment."
+      ]
+    },
+    {
+      "id": 30,
+      "question": "What are the smoking cessation challenges for women?",
+      "answers": [
+        "Weight gain fears: Concern about weight gain is a major barrier to smoking cessation for women.",
+        "Emotional coping: Women often use smoking to manage stress and emotional distress.",
+        "Cessation aids: Women may respond differently to nicotine replacement and other cessation medications."
+      ]
+    },
+    {
+      "id": 31,
+      "question": "How does marital status affect women's outcomes?",
+      "answers": [
+        "Marriage protective effect: Married women often have better outcomes, possibly due to social support.",
+        "Widow vulnerability: Widowed women may have poorer outcomes due to grief and reduced support.",
+        "Single women: May have stronger friend networks but lack daily caregiver support."
+      ]
+    },
+    {
+      "id": 32,
+      "question": "What are the cognitive impact differences?",
+      "answers": [
+        "Chemo brain: Women report more severe and persistent cognitive changes after treatment.",
+        "Multitasking challenges: Treatment effects particularly impact women's ability to manage multiple family responsibilities.",
+        "Return to work: Cognitive deficits may differently affect women in professions requiring high executive function."
+      ]
+    },
+    {
+      "id": 33,
+      "question": "How does geographic location affect women's care?",
+      "answers": [
+        "Rural access barriers: Women in rural areas face transportation challenges and limited local resources.",
+        "Urban resources: City dwellers have better access to support services but may face higher costs.",
+        "Regional variations: Different regions have varying levels of awareness about women's lung cancer risks."
+      ]
+    },
+    {
+      "id": 34,
+      "question": "What are the spiritual and coping mechanisms?",
+      "answers": [
+        "Religious coping: Women often use prayer and religious community support more extensively.",
+        "Meaning-making: Different approaches to finding meaning and purpose after cancer diagnosis.",
+        "Legacy concerns: Women often focus on leaving emotional and relational legacies for family."
+      ]
+    },
+    {
+      "id": 35,
+      "question": "How does lung cancer affect grandmother roles?",
+      "answers": [
+        "Intergenerational impact: Inability to provide grandchildren care affects family dynamics and self-worth.",
+        "Legacy transmission: Concerns about not being present for grandchildren's milestones.",
+        "Family storytelling: Desire to preserve family history and memories for younger generations."
+      ]
+    },
+    {
+      "id": 36,
+      "question": "What are the pain management considerations?",
+      "answers": [
+        "Pain perception: Women may experience and report pain differently than men.",
+        "Analgesic response: Gender differences in medication metabolism and effectiveness.",
+        "Pain expression: Social norms may influence how women communicate their pain levels."
+      ]
+    },
+    {
+      "id": 37,
+      "question": "How does lung cancer affect women's friendships?",
+      "answers": [
+        "Social support: Women often maintain stronger emotional support networks throughout treatment.",
+        "Friendship changes: Diagnosis may reveal which friendships can withstand serious illness.",
+        "Support groups: Women are more likely to participate in and benefit from peer support groups."
+      ]
+    },
+    {
+      "id": 38,
+      "question": "What are the domestic violence considerations?",
+      "answers": [
+        "Vulnerability increase: Cancer diagnosis may increase dependence on abusive partners.",
+        "Healthcare access: Women in abusive relationships may have delayed diagnosis and treatment.",
+        "Support needs: Unique safety planning requirements for women in violent relationships."
+      ]
+    },
+    {
+      "id": 39,
+      "question": "How does lung cancer affect women's sleep?",
+      "answers": [
+        "Menopausal interactions: Cancer treatment exacerbates existing menopausal sleep disturbances.",
+        "Caregiver sleep: Women often maintain caregiving responsibilities that disrupt sleep even during treatment.",
+        "Anxiety insomnia: Higher rates of anxiety-related sleep problems in female patients."
+      ]
+    },
+    {
+      "id": 40,
+      "question": "What are the transportation challenges?",
+      "answers": [
+        "Driving limitations: Treatment side effects may prevent women from driving themselves to appointments.",
+        "Family logistics: Women often coordinate multiple family transportation needs alongside their own.",
+        "Public safety: Women may have safety concerns about using public transportation when immunocompromised."
+      ]
+    },
+    {
+      "id": 41,
+      "question": "How does lung cancer affect women's retirement?",
+      "answers": [
+        "Early retirement: Treatment side effects often force women to retire earlier than planned.",
+        "Pension impacts: Women's generally lower lifetime earnings mean smaller retirement benefits.",
+        "Widow considerations: Financial planning must account for potentially longer lifespan as widows."
+      ]
+    },
+    {
+      "id": 42,
+      "question": "What are the digital health engagement patterns?",
+      "answers": [
+        "Online communities: Women are more active in online lung cancer support groups and forums.",
+        "Health information seeking: Women typically research their condition more extensively online.",
+        "Telemedicine comfort: Generally positive engagement with virtual care options."
+      ]
+    },
+    {
+      "id": 43,
+      "question": "How does cultural background affect experiences?",
+      "answers": [
+        "Cultural norms: Different cultural expectations about illness disclosure and treatment decisions.",
+        "Traditional healing: Varied use of traditional remedies alongside conventional treatment.",
+        "Family dynamics: Cultural variations in how much autonomy women have in healthcare decisions."
+      ]
+    },
+    {
+      "id": 44,
+      "question": "What are the financial planning needs?",
+      "answers": [
+        "Long-term care planning: Women often outlive male partners and need different long-term care planning.",
+        "Medical cost management: Strategies for coping with out-of-pocket costs on typically lower incomes.",
+        "Estate planning: Often more focused on providing for children and grandchildren."
+      ]
+    },
+    {
+      "id": 45,
+      "question": "How does lung cancer affect women's social media use?",
+      "answers": [
+        "Advocacy participation: Women often become lung cancer advocates and educators online.",
+        "Community building: Active in creating and maintaining online support communities.",
+        "Information sharing: More likely to share personal experiences to help other women."
+      ]
+    },
+    {
+      "id": 46,
+      "question": "What are the palliative care acceptance factors?",
+      "answers": [
+        "Communication preferences: Women typically want more detailed information about palliative options.",
+        "Family considerations: Often consider family burden when making palliative care decisions.",
+        "Quality of life focus: May prioritize different quality of life aspects than male patients."
+      ]
+    },
+    {
+      "id": 47,
+      "question": "How does lung cancer affect women's volunteer work?",
+      "answers": [
+        "Community role loss: Inability to maintain volunteer positions affects sense of purpose and identity.",
+        "Advocacy opportunities: Many women channel their experience into lung cancer advocacy work.",
+        "Social connection: Volunteer work often provides important social connections that are lost during treatment."
+      ]
+    },
+    {
+      "id": 48,
+      "question": "What are the appearance management strategies?",
+      "answers": [
+        "Wig and headwear use: More extensive use of wigs and fashionable head coverings during hair loss.",
+        "Clothing adaptations: Creative clothing solutions for medical devices and treatment side effects.",
+        "Makeup use: Many women use makeup to maintain appearance and sense of normalcy."
+      ]
+    },
+    {
+      "id": 49,
+      "question": "How does lung cancer affect women's dietary roles?",
+      "answers": [
+        "Family nutrition: Women often maintain responsibility for family meals despite treatment effects.",
+        "Food preparation: Taste changes and fatigue make cooking challenging but emotionally important.",
+        "Cultural food traditions: Maintaining family food traditions becomes particularly meaningful."
+      ]
+    },
+    {
+      "id": 50,
+      "question": "What are the future research priorities for women's lung cancer?",
+      "answers": [
+        "Hormonal mechanisms: Better understanding of estrogen's role in lung cancer development and progression.",
+        "Gender-specific screening: Developing screening criteria that account for women's different risk patterns.",
+        "Supportive care: Creating interventions addressing women's unique psychosocial and practical needs."
+      ]
+    }
+  ],
+  "metadata": {
+    "topic": "Gender-Based Factors for Females in Lung Cancer",
+    "total_questions": 50,
+    "answers_per_question": 3,
+    "categories_covered": [
+      "Biological and Hormonal Factors",
+      "Psychosocial Impacts",
+      "Treatment and Response Differences",
+      "Social and Family Roles",
+      "Quality of Life Issues",
+      "Survivorship and Rehabilitation",
+      "Prevention and Screening"
+    ],
+    "note": "All questions include three distinct answers covering the unique biological, psychological, and social aspects of lung cancer in women"
+  }
+}

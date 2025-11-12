@@ -1,0 +1,454 @@
+{
+  "depression_questions_after_oral_cancer_diagnosis": [
+    {
+      "id": 1,
+      "question": "Is it normal to feel this sad and hopeless after a cancer diagnosis?",
+      "answers": [
+        "What you're feeling is completely normal and understandable. A cancer diagnosis is one of life's most challenging experiences, and feelings of sadness and hopelessness are very common among patients.",
+        "Yes, it's a normal psychological response to a traumatic life event. While it's normal, it doesn't mean you have to suffer through it alone - we have resources to help you cope.",
+        "Many patients experience these exact feelings. The important thing is that you're acknowledging them and seeking help, which is a courageous first step toward feeling better."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "How can I tell if what I'm feeling is depression or just normal sadness?",
+      "answers": [
+        "Normal sadness comes and goes, while depression tends to be more persistent and overwhelming. If these feelings are affecting your daily life and treatment, it might be depression.",
+        "Key signs of depression include persistent low mood, loss of interest in activities, changes in sleep or appetite, and difficulty concentrating that lasts for more than two weeks.",
+        "A good indicator is whether these feelings are preventing you from engaging in your treatment or daily activities. We can use a simple assessment tool to help determine what you're experiencing."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "I don't have energy for anything anymore - is this depression or just cancer fatigue?",
+      "answers": [
+        "It's often both - cancer treatment causes physical fatigue, while depression causes emotional and mental exhaustion. They can feed off each other, creating a cycle that's hard to break.",
+        "Depression fatigue often includes loss of motivation and interest, while cancer fatigue is more physical. When both are present, it's important to address them together.",
+        "This is a very common combination. Let's work on both aspects - managing your physical symptoms while also addressing the emotional components that are draining your energy."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "I feel like I'm just going through the motions - is this depression?",
+      "answers": [
+        "That feeling of disconnection and going through the motions is very characteristic of depression. It's like you're watching your life from the outside rather than living it.",
+        "Yes, this is called anhedonia - the inability to feel pleasure in activities you normally enjoy. It's a core symptom of depression that many cancer patients experience.",
+        "This is a protective mechanism your mind might be using to cope with overwhelming stress. The good news is that with support, you can gradually reconnect with your life and find meaning again."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "How can I cope with feeling like a burden to my family?",
+      "answers": [
+        "Many patients feel this way, but please know that your family likely sees caring for you as an expression of love rather than a burden.",
+        "This is a common thought in depression. Try to remember that relationships involve giving and receiving care at different times - this is your time to receive.",
+        "Could you try asking your family what helping you means to them? Often, it makes them feel useful and connected during a difficult time when they otherwise feel helpless."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Who can I talk to about these feelings without being judged?",
+      "answers": [
+        "Our oncology social workers and psychologists are specially trained to listen without judgment. Everything you share is confidential and they truly understand what cancer patients experience.",
+        "There are several safe options: our mental health team, cancer support groups where everyone understands, or even confidential helplines staffed by trained counselors.",
+        "I'm giving you the direct contact information for our psychosocial team right now. They're wonderful listeners who specialize in helping people through exactly what you're experiencing."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Are antidepressants safe to take during cancer treatment?",
+      "answers": [
+        "Yes, there are several antidepressants that are safe and commonly used during cancer treatment. They can really help lift the depression enough for you to engage in your healing.",
+        "Absolutely. We have good options that don't interfere with cancer treatments. We'll work with your oncologist to choose the safest one for your situation.",
+        "Think of antidepressants as another tool in your treatment toolbox - they can help manage this symptom of depression just like we manage physical symptoms like pain or nausea."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "I'm having thoughts that life isn't worth living - what should I do?",
+      "answers": [
+        "Please know these thoughts are a symptom of the depression, not a reflection of reality. Thank you for telling me - this is something we need to address with urgency and care.",
+        "This is a medical emergency that requires immediate attention. These thoughts indicate that the depression has become severe and needs intensive treatment.",
+        "Here's what we do right now: I'm connecting you with our crisis team. We also have a 24/7 hotline you can call anytime. Your safety is our highest priority. The number is [Insert local crisis hotline]."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "How can I find motivation for my treatment when I feel so hopeless?",
+      "answers": [
+        "On days when motivation is low, try focusing on just one small step at a time rather than the big picture. Sometimes just getting through the next hour is an accomplishment.",
+        "This is where your support system can help - let family members help with reminders and transportation when your own motivation is low.",
+        "Let's break your treatment into the smallest possible steps. Instead of 'going to treatment,' just focus on 'getting dressed' or 'getting in the car.' Small steps add up."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Will I always feel this depressed?",
+      "answers": [
+        "No, depression is treatable even in the context of cancer. With the right support, this heavy feeling can and will lift. Many patients find their mood improves significantly with treatment.",
+        "Depression is usually episodic - it comes and goes. With proper treatment, most people experience relief. It might fluctuate during your cancer journey, but we have tools to manage it.",
+        "Let's focus on getting through today rather than worrying about forever. My goal is to help you find some relief soon, and I'm confident we can help you feel better."
+      ]
+    },
+    {
+      "id": 11,
+      "question": "I can't stop crying - is this normal?",
+      "answers": [
+        "Yes, frequent crying is a normal response to the grief and stress of a cancer diagnosis. Your body is releasing emotional pain in the way it knows how.",
+        "Frequent crying spells are common in depression. Think of it as your emotional system's way of processing more than it can handle all at once.",
+        "The tears need to come out. Rather than fighting them, try to create safe spaces and times where you can let them flow without judgment."
+      ]
+    },
+    {
+      "id": 12,
+      "question": "How can I sleep better when my mind won't stop racing?",
+      "answers": [
+        "Many patients struggle with sleep during cancer treatment. Creating a calming bedtime routine and writing down worries before bed can sometimes help quiet the mind.",
+        "Sleep problems are very common with both cancer and depression. We have safe sleep medications we can prescribe, and also non-medication approaches like relaxation techniques.",
+        "Let's try a 'worry dump' - keep a notebook by your bed and write down all your concerns before trying to sleep. This can help get them out of your head and onto paper."
+      ]
+    },
+    {
+      "id": 13,
+      "question": "I've lost interest in food - is this depression or treatment side effects?",
+      "answers": [
+        "It's often both - treatment can affect taste and appetite, while depression takes away the pleasure of eating. We need to address both aspects to keep you nourished.",
+        "Loss of appetite is common in depression, and cancer treatments can compound this. We have nutritionists who specialize in helping patients through this exact challenge.",
+        "When food doesn't bring pleasure, focus on it as medicine instead. Small, frequent nutrient-dense foods or supplements can help maintain your strength even when you don't feel like eating."
+      ]
+    },
+    {
+      "id": 14,
+      "question": "How do I handle the anxiety that comes with every scan and test?",
+      "answers": [
+        "Scan anxiety is incredibly common. Many patients find it helpful to bring support people to appointments and plan comforting activities for after the scan.",
+        "This is called 'scanxiety' and it's a normal response. Mindfulness techniques and sometimes medication can help manage the intense worry around test times.",
+        "Let's create a specific plan for scan days - who will go with you, what you'll do afterwards to distract yourself, and how you'll practice self-care regardless of the results."
+      ]
+    },
+    {
+      "id": 15,
+      "question": "I feel so alone even when people are around me - why?",
+      "answers": [
+        "This feeling of isolation is common in depression. It's like there's a glass wall between you and others, even when they're trying to connect.",
+        "Depression can create profound feelings of loneliness because it distorts your ability to feel connected to others. This is a symptom, not a reality.",
+        "You might feel alone in your experience, but there are many other cancer patients who understand exactly what you're feeling. A support group could help bridge that loneliness."
+      ]
+    },
+    {
+      "id": 16,
+      "question": "How can I explain what I'm feeling to my family?",
+      "answers": [
+        "Sometimes using metaphors helps - like describing depression as a heavy blanket or thick fog. Or you could share articles about depression in cancer patients that put words to your experience.",
+        "You might say 'I know you're trying to help, but depression makes it hard for me to feel better even when good things happen' or 'My brain isn't letting me feel joy right now.'",
+        "I can help facilitate a family meeting where we can explain together what depression looks like in cancer patients and how they can best support you."
+      ]
+    },
+    {
+      "id": 17,
+      "question": "Will therapy actually help when I have real reasons to be depressed?",
+      "answers": [
+        "Yes, therapy can be incredibly helpful even when depression seems 'rational.' It gives you tools to cope with very real challenges rather than just positive thinking.",
+        "Therapy isn't about pretending everything is fine - it's about developing strategies to survive and eventually find meaning in the midst of real suffering.",
+        "Think of therapy as practical tools for an impossible situation. It won't take away the cancer, but it can help you carry the weight more effectively."
+      ]
+    },
+    {
+      "id": 18,
+      "question": "How do I deal with people who tell me to 'just stay positive'?",
+      "answers": [
+        "This well-meaning but unhelpful advice is frustrating for many patients. It's okay to set boundaries - you might say 'I'm working on coping, not positivity' or 'I need to feel my real feelings right now.'",
+        "Toxic positivity is common and unhelpful. Remember that acknowledging difficult emotions is healthier than pretending they don't exist.",
+        "You could try responding with 'I'm focusing on getting through each day realistically' or 'What actually helps me is when people listen without trying to fix my feelings.'"
+      ]
+    },
+    {
+      "id": 19,
+      "question": "I feel guilty for being depressed when other people have it worse",
+      "answers": [
+        "Your pain is valid regardless of what others are going through. Cancer is one of life's biggest challenges, and your feelings are an appropriate response to that challenge.",
+        "Suffering isn't a competition. Your experience is real and deserving of care, regardless of what others might be facing.",
+        "This guilt is actually a common symptom of depression. The illness tries to convince you that you don't deserve help. But you absolutely do deserve support."
+      ]
+    },
+    {
+      "id": 20,
+      "question": "How can I manage depression while also dealing with cancer treatment side effects?",
+      "answers": [
+        "It's like juggling multiple serious conditions at once. We need to treat both the physical symptoms and the depression simultaneously, as they affect each other.",
+        "We'll coordinate your care so your mental health treatment supports your cancer treatment and vice versa. Managing depression can actually help you tolerate physical treatments better.",
+        "Let's create an integrated plan that addresses both your physical symptoms and emotional needs. Improving one area often helps the other."
+      ]
+    },
+    {
+      "id": 21,
+      "question": "What's the difference between grief and depression?",
+      "answers": [
+        "Grief comes in waves and often mixes with good memories, while depression tends to be a persistent low mood without relief. With grief, your self-esteem usually remains intact.",
+        "Grief is a natural response to loss (like loss of health), while depression is a clinical condition that affects your ability to function. They can overlap, but treatment may differ.",
+        "The key difference is that in grief, the world feels poor and empty, while in depression, you yourself feel poor and empty. We can help you figure out which you're experiencing."
+      ]
+    },
+    {
+      "id": 22,
+      "question": "I'm angry all the time - is this part of depression?",
+      "answers": [
+        "Yes, irritability and anger are common but less talked about symptoms of depression, especially in men. The anger is often a mask for the pain underneath.",
+        "Irritability can be a manifestation of depression, particularly when people feel trapped or powerless in their situation.",
+        "This anger makes sense - cancer is unfair and treatment is hard. The challenge is finding healthy ways to express it so it doesn't turn inward and worsen the depression."
+      ]
+    },
+    {
+      "id": 23,
+      "question": "How long does it take for antidepressants to work?",
+      "answers": [
+        "Most people start noticing some improvement in 2-4 weeks, but full benefits can take 6-8 weeks. It's important to be patient and stay in close contact with your doctor during this time.",
+        "Antidepressants typically take several weeks to build up in your system. We'll monitor you closely and adjust the dose or medication if needed.",
+        "Think of it like planting a garden - it takes time for the seeds to grow. We'll start with a low dose and increase gradually while checking in regularly about how you're feeling."
+      ]
+    },
+    {
+      "id": 24,
+      "question": "Can depression affect my cancer recovery?",
+      "answers": [
+        "There is evidence that untreated depression can make it harder to cope with treatment and recovery. Taking care of your mental health is an important part of your overall cancer care.",
+        "While the research is complex, we know that depression can affect treatment adherence, quality of life, and possibly even immune function. Treating depression is part of comprehensive cancer care.",
+        "What we know for sure is that treating depression improves your quality of life during treatment and helps you engage more fully in your recovery process."
+      ]
+    },
+    {
+      "id": 25,
+      "question": "I feel numb instead of sad - is this still depression?",
+      "answers": [
+        "Yes, emotional numbness or 'flatness' is a common experience in depression. It's like your emotional system has shut down to protect itself from overwhelming pain.",
+        "This is called emotional blunting and it's a recognized symptom of depression. Some people experience more numbness than sadness.",
+        "The numbness is your mind's way of coping with more feeling than it can process. As treatment helps, the capacity to feel both positive and negative emotions usually returns."
+      ]
+    },
+    {
+      "id": 26,
+      "question": "How can I support my spouse/partner when I'm barely managing myself?",
+      "answers": [
+        "Right now, taking care of yourself IS supporting your partner. When you get the help you need, you relieve their worry about you. That's a gift to them.",
+        "Your partner likely wants you to get professional support. Allowing others to help you is actually a way of caring for your relationship during this difficult time.",
+        "Could you show your partner this conversation? Sometimes demonstrating that you're taking steps to get help is the most supportive thing you can do for them right now."
+      ]
+    },
+    {
+      "id": 27,
+      "question": "Are there specific types of therapy that work best for cancer-related depression?",
+      "answers": [
+        "Cognitive Behavioral Therapy (CBT) and Acceptance and Commitment Therapy (ACT) have good evidence for helping cancer patients. They provide practical tools for managing difficult thoughts and emotions.",
+        "Yes, therapies like CBT, mindfulness-based stress reduction, and meaning-centered therapy have all shown benefit for cancer patients dealing with depression.",
+        "Our oncology social workers are trained in several evidence-based approaches specifically for cancer patients. We can match you with the type that seems best suited to your needs."
+      ]
+    },
+    {
+      "id": 28,
+      "question": "I can't concentrate or remember things - is this the depression?",
+      "answers": [
+        "Yes, 'brain fog' and concentration problems are very common in depression. It's like your brain is too overwhelmed with emotional pain to focus on other tasks.",
+        "Cognitive difficulties are a core symptom of depression. This is different from 'chemo brain' though they can overlap and worsen each other.",
+        "This mental fog is incredibly frustrating, but it's a symptom that usually improves as the depression lifts. Be patient with yourself - it's not personal failing."
+      ]
+    },
+    {
+      "id": 29,
+      "question": "How do I find a therapist who understands cancer patients?",
+      "answers": [
+        "We have psycho-oncologists right here in our cancer center who specialize in working with cancer patients. I can give you a referral today.",
+        "Look for therapists who list 'health psychology,' 'medical trauma,' or 'chronic illness' in their specialties. Our social work team maintains a list of community therapists experienced with cancer.",
+        "I'm connecting you with our patient navigation team who can help match you with a therapist who has experience with cancer-related depression. They'll help with the logistics too."
+      ]
+    },
+    {
+      "id": 30,
+      "question": "Will I need to be on antidepressants forever?",
+      "answers": [
+        "Most people don't need them forever. They're often used for 6-12 months after you start feeling better, and then we gradually taper them under medical supervision.",
+        "The duration varies by individual. Some people use them just during the most intense part of treatment, while others benefit from longer-term use. We'll regularly reassess what you need.",
+        "Let's focus on getting you through this difficult period first. We can discuss how long to continue medication once you're feeling more stable and the acute crisis has passed."
+      ]
+    },
+    {
+      "id": 31,
+      "question": "How can I practice self-care when I have no energy?",
+      "answers": [
+        "Self-care during depression might look different - it could be just brushing your teeth, drinking some water, or changing clothes. Small acts count.",
+        "Think 'minimum viable self-care' - what are the absolute basics that would make you feel slightly more human? Sometimes that's just washing your face or taking your medications.",
+        "Let's define self-care as 'anything that doesn't make things worse' rather than adding pressure to do elaborate routines. Resting when you need to is self-care."
+      ]
+    },
+    {
+      "id": 32,
+      "question": "I keep canceling plans because I don't feel up to socializing",
+      "answers": [
+        "This is common in depression. Instead of canceling, could you suggest a lower-energy alternative? Maybe a short phone call instead of visiting, or watching a movie together quietly.",
+        "Social withdrawal is a symptom of depression. While rest is important, complete isolation usually makes depression worse. Small, manageable social contacts can help.",
+        "Try the 'five-minute rule' - commit to just five minutes of social interaction. You can always leave after that, but often getting started is the hardest part."
+      ]
+    },
+    {
+      "id": 33,
+      "question": "My faith used to comfort me but now I feel abandoned - is this normal?",
+      "answers": [
+        "Many people experience spiritual crisis during serious illness. Feeling angry or abandoned by God is a normal part of grappling with the 'why' of suffering.",
+        "This is a common experience. Some people find it helpful to speak with a hospital chaplain or spiritual counselor who understands the unique spiritual challenges of illness.",
+        "Your faith community can be a source of support, but it's also okay to take space from it if that's what you need right now. Spiritual struggles are valid and deserve care."
+      ]
+    },
+    {
+      "id": 34,
+      "question": "How do I handle the financial stress without sinking deeper into depression?",
+      "answers": [
+        "Financial stress is a huge burden for cancer patients. Our financial counselors and social workers can help you access resources and create a plan to reduce this pressure.",
+        "This practical stress absolutely worsens depression. Let's address it directly - we have resources for medication assistance, transportation help, and other forms of financial support.",
+        "I'm referring you to our financial navigation team today. Getting concrete help with finances can provide real relief from one of the major stressors feeding your depression."
+      ]
+    },
+    {
+      "id": 35,
+      "question": "I feel like I've lost my identity to cancer and depression",
+      "answers": [
+        "This loss of identity is profound. You're still you, but cancer has become a dominating chapter of your story. Other chapters will follow where you reclaim parts of yourself.",
+        "Many patients describe feeling like 'a cancer patient' rather than themselves. Working with a therapist can help you reconnect with who you are beyond the illness.",
+        "Could we make a list of things that are still true about you that have nothing to do with cancer? Favorite music, sense of humor, values? These are anchors to your self."
+      ]
+    },
+    {
+      "id": 36,
+      "question": "Are there support groups for depression in cancer patients?",
+      "answers": [
+        "Yes, we offer several support groups specifically for patients dealing with depression and anxiety during cancer treatment. Many find it incredibly validating to share this experience.",
+        "We have both in-person and online support groups. Some are general cancer support, while others specifically focus on the emotional and mental health aspects.",
+        "I'm giving you the schedule for our support groups. You don't have to talk - many people just listen at first. Hearing others describe similar feelings can be powerfully reassuring."
+      ]
+    },
+    {
+      "id": 37,
+      "question": "How do I know if I need hospitalization for depression?",
+      "answers": [
+        "If you're having thoughts of harming yourself, can't care for your basic needs, or feel completely unsafe, hospitalization might be necessary to keep you safe and stabilize you.",
+        "We consider hospitalization when someone is a danger to themselves, unable to function, or needs intensive treatment that can't be provided outpatient.",
+        "If you're wondering whether you need hospitalization, that's a sign you should talk to a mental health professional immediately. We can assess your safety together."
+      ]
+    },
+    {
+      "id": 38,
+      "question": "Can exercise really help depression when I'm so fatigued from treatment?",
+      "answers": [
+        "Gentle movement like short walks can help, but it's important to balance this with rest. Even 5-10 minutes of walking can release mood-boosting chemicals in your brain.",
+        "Research shows that gentle exercise can help depression, but it needs to be tailored to your energy levels. We're not talking about workouts - just movement.",
+        "Let's think of it as 'movement' rather than 'exercise.' Could you sit outside for a few minutes? Stretch gently? Every small bit counts when you're dealing with both cancer fatigue and depression."
+      ]
+    },
+    {
+      "id": 39,
+      "question": "I feel guilty for not being 'stronger' about all of this",
+      "answers": [
+        "What you're experiencing takes tremendous strength. Getting through each day with cancer AND depression requires more strength than most people will ever know.",
+        "The concept of 'fighting' cancer can be harmful - it implies that those who struggle emotionally are somehow failing. You're not failing - you're human.",
+        "Let's redefine strength as showing up honestly with what you're feeling rather than pretending to be okay. That takes real courage."
+      ]
+    },
+    {
+      "id": 40,
+      "question": "How can I make decisions about treatment when I'm depressed?",
+      "answers": [
+        "Depression can make decision-making very difficult. Lean on your medical team and trusted loved ones to help think through options when your own thinking feels clouded.",
+        "This is an important concern. We can slow down decisions when possible, break them into smaller steps, and make sure you have good support for the decision-making process.",
+        "Let's identify 1-2 people you trust to be your 'clear-thinking partners' for important decisions right now. You don't have to figure everything out alone."
+      ]
+    },
+    {
+      "id": 41,
+      "question": "Will the depression come back after I finish cancer treatment?",
+      "answers": [
+        "Some people do experience depression during the transition out of active treatment. We'll continue to monitor your mental health throughout your journey.",
+        "The end of treatment can be surprisingly difficult emotionally. We'll make sure you have support in place for that transition, including mental health resources.",
+        "Let's create a wellness plan for after treatment that includes mental health maintenance, just like we have follow-up plans for your physical health."
+      ]
+    },
+    {
+      "id": 42,
+      "question": "How do I deal with the 'what if' thoughts that keep me up at night?",
+      "answers": [
+        "These intrusive thoughts are common in both cancer and depression. Mindfulness techniques can help you notice them without getting caught in the spiral.",
+        "Cognitive behavioral therapy offers specific tools for managing catastrophic thinking. We can teach you some of these techniques to use when the 'what ifs' take over.",
+        "Try giving yourself a specific 'worry time' each day - 15 minutes where you write down all your worries. When they pop up at other times, remind yourself you'll address them during worry time."
+      ]
+    },
+    {
+      "id": 43,
+      "question": "I'm embarrassed to need mental health help",
+      "answers": [
+        "Please know that seeking help for depression during cancer is incredibly common and shows self-awareness and strength. Our entire team views it as an important part of comprehensive care.",
+        "Depression is a medical condition, not a personal failing. You wouldn't be embarrassed to treat diabetes or high blood pressure - this is no different.",
+        "Some of the strongest, most accomplished patients I've worked with have needed mental health support during cancer treatment. It's a normal response to an abnormal situation."
+      ]
+    },
+    {
+      "id": 44,
+      "question": "Can depression medication interfere with my cancer drugs?",
+      "answers": [
+        "We carefully choose antidepressants that are safe with your specific cancer treatment. Your oncologist and psychiatrist will coordinate to ensure there are no dangerous interactions.",
+        "There are several antidepressant options that are well-studied and safe with most cancer treatments. We'll select the best one for your situation.",
+        "Medication management is a team effort. We'll make sure all your doctors are communicating about your treatments to keep you safe."
+      ]
+    },
+    {
+      "id": 45,
+      "question": "How do I find moments of joy when I'm depressed?",
+      "answers": [
+        "Don't pressure yourself to feel joy right now. Instead, look for slight relief - a warm shower, a familiar song, a cool breeze. These micro-moments can build up.",
+        "Depression makes it hard to access positive emotions. Instead of chasing joy, focus on small comforts or distractions that provide even brief respite from the pain.",
+        "Try engaging your senses - a favorite scent, a soft blanket, a pleasant taste. Sometimes bypassing your thoughts and going straight to physical sensations can provide relief."
+      ]
+    },
+    {
+      "id": 46,
+      "question": "Should I tell my employer about my depression?",
+      "answers": [
+        "This is a personal decision. Some find that explaining they're dealing with a medical condition (without specifics) helps them access accommodations they need.",
+        "You're not obligated to disclose specifics. You might simply say you're managing treatment side effects that affect your concentration or energy.",
+        "Our social workers can help you think through the pros and cons of disclosure in your specific work situation and help you plan what to say if you choose to."
+      ]
+    },
+    {
+      "id": 47,
+      "question": "How can I support my children when I'm so depressed?",
+      "answers": [
+        "Your presence matters more than perfection. Even small moments of connection - reading a short story, watching a show together - maintain the bond when you can't be your usual self.",
+        "Our child life specialists can help your children understand what's happening in age-appropriate ways and can help you find manageable ways to stay connected.",
+        "Could you identify one small, sustainable parenting task that feels manageable? Maybe tucking them in at night or eating one meal together? Protect that one thing."
+      ]
+    },
+    {
+      "id": 48,
+      "question": "I feel like I'm failing at having cancer",
+      "answers": [
+        "There's no right or wrong way to have cancer. You're not failing - you're surviving an incredibly difficult experience the best way you know how.",
+        "This feeling is common when depression distorts your thinking. The reality is that getting through each day with cancer is an achievement.",
+        "Let's make a list of what you HAVE done - showed up for appointments, taken medications, gotten out of bed on hard days. These are successes, not failures."
+      ]
+    },
+    {
+      "id": 49,
+      "question": "How do I know if the depression is getting better?",
+      "answers": [
+        "Look for small signs - sleeping slightly better, managing to shower, a moment where you laughed unexpectedly. Recovery usually happens in tiny steps, not giant leaps.",
+        "We track specific symptoms like mood, sleep, appetite, and energy. Even small improvements in these areas are meaningful progress.",
+        "Sometimes other people notice improvements before you do. You might ask a trusted person if they've seen any small positive changes lately."
+      ]
+    },
+    {
+      "id": 50,
+      "question": "What gives you hope when you work with depressed cancer patients?",
+      "answers": [
+        "I'm continually inspired by the resilience I see. The fact that you're here talking about this shows a spark of hope and fight that depression hasn't completely extinguished.",
+        "I've seen many patients move from the depth of depression to finding meaning and even post-traumatic growth. The human capacity to heal emotionally is remarkable.",
+        "What gives me hope is seeing small breakthroughs - when someone who couldn't get out of bed starts showing interest in life again. These transformations happen, and I believe they can happen for you too."
+      ]
+    }
+  ]
+}

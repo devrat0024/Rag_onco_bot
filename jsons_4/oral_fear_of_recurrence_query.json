@@ -1,0 +1,454 @@
+{
+  "fear_of_recurrence_questions": [
+    {
+      "id": 1,
+      "question": "Is it normal to be constantly worried about my cancer coming back?",
+      "answers": [
+        "Absolutely. Fear of recurrence is one of the most common and normal experiences for cancer survivors. Almost every survivor deals with these worries to some degree.",
+        "Yes, this is completely normal. Studies show that up to 70% of cancer survivors experience significant fear of recurrence. It's a natural response to having faced a life-threatening illness.",
+        "What you're feeling is very common and understandable. Having been through cancer treatment, your body and mind are naturally on high alert for any sign of danger."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Will this fear ever go away completely?",
+      "answers": [
+        "For most people, the intense fear lessens over time, but it may never completely disappear. It often becomes more manageable as you build confidence in your recovery.",
+        "The fear tends to evolve rather than disappear completely. Many survivors describe it as becoming a background concern rather than a constant preoccupation.",
+        "While the fear may always be there in some form, most people find it becomes less intense and less frequent with time and with developing good coping strategies."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "How can I stop checking my body for new symptoms all the time?",
+      "answers": [
+        "Try to establish a balanced approach - regular planned self-exams rather than constant checking. Your care team can help you understand what's normal to monitor versus excessive worrying.",
+        "Body vigilance is common after cancer. Setting specific 'check-in times' rather than constant monitoring can help break the cycle of anxiety-driven checking.",
+        "We can work together to create a reasonable monitoring plan so you feel informed without being consumed by constant body scanning."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What are the actual signs of recurrence I should watch for?",
+      "answers": [
+        "Your medical team will give you a personalized list, but generally watch for new lumps, persistent pain, unexplained weight loss, or changes in your mouth that don't heal.",
+        "We'll provide you with a clear, specific list of symptoms that are meaningful for your type of cancer, so you're not worrying about every minor ache or pain.",
+        "Knowing the real warning signs can actually reduce anxiety because it helps you distinguish between normal body sensations and those that truly need medical attention."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "How do I handle the anxiety before follow-up scans and appointments?",
+      "answers": [
+        "Scan anxiety is very real. Many people find it helpful to bring support to appointments, practice relaxation techniques, and plan something pleasant for after the appointment.",
+        "This is often called 'scanxiety' and it's completely normal. We can discuss strategies like mindfulness, staying busy with distractions, and having a support person with you.",
+        "Let's create a specific plan for managing scan days - including who will go with you, how you'll cope with waiting for results, and ways to reward yourself for getting through it."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What is my actual risk of recurrence?",
+      "answers": [
+        "Your specific risk depends on many factors including your cancer type, stage, and treatment. Your oncologist can give you personalized statistics based on your situation.",
+        "Rather than focusing on general statistics, it's more helpful to understand your individual risk factors and what we're doing to monitor and reduce your recurrence risk.",
+        "Let's discuss your specific situation at your next appointment. I can explain your personal risk factors and what they mean in practical terms."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Should I avoid reading about cancer recurrence statistics online?",
+      "answers": [
+        "Online statistics can be outdated, general, and frightening. It's usually better to discuss your specific situation with your medical team who knows your individual case.",
+        "Internet statistics often don't account for recent treatment advances or individual factors. We can provide you with more relevant, personalized information.",
+        "If you do research online, stick to reputable sources and remember that statistics represent large groups, not individuals. Your journey is unique."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "How can I stop imagining worst-case scenarios?",
+      "answers": [
+        "Catastrophic thinking is common after cancer. Cognitive behavioral techniques can help you recognize these thoughts and gently challenge them with more balanced perspectives.",
+        "Many survivors find it helpful to practice 'thought stopping' and consciously replacing catastrophic thoughts with more realistic ones.",
+        "When you notice catastrophic thinking, try asking yourself: 'What's more likely to happen?' or 'What would I tell a friend who had this worry?'"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Will every little ache and pain always make me think the cancer is back?",
+      "answers": [
+        "In the beginning, yes, this is very common. Over time, as you learn your new normal and have more clean scans, these fears usually become less intense.",
+        "This hypervigilance is your body's way of trying to protect you. With time and positive experiences, your nervous system will learn to dial back the alarm system.",
+        "We can work on helping you distinguish between ordinary body sensations and true warning signs, which can reduce the frequency of these fear responses."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "How do other cancer survivors manage this fear?",
+      "answers": [
+        "Many find support groups incredibly helpful - hearing how others cope can provide practical strategies and reduce feelings of isolation.",
+        "Common strategies include staying present-focused (mindfulness), maintaining follow-up care, talking openly about fears, and finding meaning beyond cancer.",
+        "Our survivorship program connects you with other survivors who can share what's worked for them in managing recurrence fears."
+      ]
+    },
+    {
+      "id": 11,
+      "question": "What if I can't enjoy life because I'm always waiting for the other shoe to drop?",
+      "answers": [
+        "This is a very common struggle. Many people benefit from therapy focused on living fully in the present rather than in fear of an uncertain future.",
+        "The concept of 'radical acceptance' - accepting uncertainty while still engaging with life - can be helpful. This is something we can work on together.",
+        "Setting small goals for engaging in enjoyable activities, even when you're anxious, can help rebuild your capacity for pleasure and meaning."
+      ]
+    },
+    {
+      "id": 12,
+      "question": "How often will I need follow-up scans?",
+      "answers": [
+        "This varies by cancer type and stage. Your oncologist will create a personalized surveillance schedule that balances thorough monitoring with minimizing unnecessary testing.",
+        "Typically, follow-up is most frequent in the first 2-3 years, then gradually spaces out. We'll give you a clear schedule so you know what to expect.",
+        "Your follow-up plan is designed to detect any recurrence early while also helping you transition back to normal life between appointments."
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Can lifestyle changes actually reduce my recurrence risk?",
+      "answers": [
+        "While nothing guarantees prevention, healthy lifestyle choices can reduce recurrence risk for many cancers and, importantly, help you feel more in control of your health.",
+        "Yes, factors like maintaining a healthy weight, not smoking, limiting alcohol, and good oral care can meaningfully impact recurrence risk for oral cancers.",
+        "Focusing on healthy behaviors gives you positive actions to take, which can reduce feelings of helplessness and anxiety about recurrence."
+      ]
+    },
+    {
+      "id": 14,
+      "question": "What if the cancer comes back and treatment doesn't work next time?",
+      "answers": [
+        "It's natural to have these fears, but try to remember that if recurrence did happen, there are often multiple treatment options available, including new therapies developed since your first diagnosis.",
+        "This 'what if' thinking is very common. While we can't predict the future, we can focus on the good surveillance plan we have in place and the treatments available today.",
+        "Rather than borrowing trouble from a future that may never happen, we can work on building your resilience and coping skills for whatever may come."
+      ]
+    },
+    {
+      "id": 15,
+      "question": "How do I explain my fears to family who think I should 'just be grateful' I'm cancer-free?",
+      "answers": [
+        "Many survivors struggle with this. You might explain that gratitude and fear can coexist - you're grateful to be here AND scared about the future.",
+        "It can help to say something like, 'I am grateful, and I'm also dealing with the normal fears that come with having had cancer.'",
+        "Sometimes sharing articles about fear of recurrence helps loved ones understand this is a normal part of cancer survivorship, not ingratitude."
+      ]
+    },
+    {
+      "id": 16,
+      "question": "Will certain foods or supplements help prevent recurrence?",
+      "answers": [
+        "A balanced diet rich in fruits and vegetables supports overall health, but be wary of extreme 'cancer diets' or supplements that make big promises. We can discuss evidence-based nutrition.",
+        "There's no magic food that prevents recurrence, but good nutrition supports your immune system and overall health. We have oncology dietitians who can provide guidance.",
+        "Be cautious about supplements, as some can interfere with healing or have unknown effects. Always check with your care team before starting anything new."
+      ]
+    },
+    {
+      "id": 17,
+      "question": "How can I make long-term plans when I'm not sure about my future health?",
+      "answers": [
+        "This is one of the biggest challenges. Many survivors find it helpful to make flexible plans and focus on shorter-term goals while gradually expanding their planning horizon.",
+        "Learning to live with uncertainty is part of cancer survivorship. Making plans while acknowledging they might need to change can feel more authentic than avoiding planning altogether.",
+        "Start with small plans for the next week or month. As you build confidence in your recovery, you can gradually make plans further into the future."
+      ]
+    },
+    {
+      "id": 18,
+      "question": "What if my doctors miss something at my follow-up appointments?",
+      "answers": [
+        "This is a common fear. Remember that you're part of your healthcare team too - your observations about your body combined with our clinical expertise create a good safety net.",
+        "We use evidence-based surveillance protocols designed to catch recurrences early. You can help by being prepared for appointments and mentioning any concerns.",
+        "Having a consistent medical team who knows your history provides continuity of care that reduces the chance of missing subtle changes."
+      ]
+    },
+    {
+      "id": 19,
+      "question": "How do I handle birthdays and cancer anniversaries without getting overwhelmed?",
+      "answers": [
+        "Many survivors find mixed emotions around these dates. Some find meaning in creating new traditions that acknowledge the journey while celebrating life.",
+        "It's normal for these dates to trigger anxiety. Planning how you want to spend these days - whether quietly reflecting or celebrating - can help you feel more in control.",
+        "Some people find it helpful to use cancer anniversaries as a time to reflect on their strength and resilience rather than just focusing on fear."
+      ]
+    },
+    {
+      "id": 20,
+      "question": "Can stress actually cause my cancer to come back?",
+      "answers": [
+        "While stress doesn't directly cause cancer recurrence, chronic stress can weaken immune function. Managing stress is important for your overall quality of life and health.",
+        "The research on stress and cancer recurrence is complex. What we know for sure is that reducing stress improves your quality of life right now.",
+        "Rather than worrying about stress causing recurrence, focus on stress management as a way to feel better today and support your overall health."
+      ]
+    },
+    {
+      "id": 21,
+      "question": "What percentage of oral cancer patients experience recurrence?",
+      "answers": [
+        "Recurrence rates vary widely depending on the original stage, location, and treatment. Your oncologist can give you statistics specific to your situation.",
+        "Rather than focusing on general statistics, it's more helpful to understand your individual risk factors and our surveillance plan.",
+        "Many factors influence recurrence risk, including whether you smoke, the margins from your surgery, and lymph node involvement. We can review your specific factors."
+      ]
+    },
+    {
+      "id": 22,
+      "question": "How will I know if a new symptom is cancer or something else?",
+      "answers": [
+        "This is a challenging part of survivorship. We'll give you clear guidelines about which symptoms warrant calling us versus which are likely normal variations.",
+        "Over time, you'll learn your 'new normal.' When in doubt, it's always better to contact us - we'd rather check something unimportant than miss something important.",
+        "Keeping a symptom diary can help you track what's normal for you and identify patterns that might need medical attention."
+      ]
+    },
+    {
+      "id": 23,
+      "question": "Should I get a second opinion on my surveillance plan?",
+      "answers": [
+        "If it would give you peace of mind, seeking a second opinion is completely reasonable. We can help facilitate getting your records to another specialist.",
+        "Many patients find confidence in having their surveillance plan confirmed by another expert. We support whatever helps you feel most secure in your care.",
+        "Our surveillance plans follow national guidelines, but if a second opinion would reduce your anxiety, we encourage you to pursue it."
+      ]
+    },
+    {
+      "id": 24,
+      "question": "How do I stop mentally rehearsing how I'd handle bad news?",
+      "answers": [
+        "This mental rehearsal is your mind's attempt to feel prepared, but it often increases anxiety. Mindfulness practices can help you stay present rather than rehearsing feared futures.",
+        "When you notice yourself rehearsing bad news, gently redirect your attention to your breathing or something in your immediate environment.",
+        "Some people find it helpful to set aside specific 'worry time' rather than letting these thoughts intrude throughout the day."
+      ]
+    },
+    {
+      "id": 25,
+      "question": "What if I can't afford follow-up care if I lose my insurance?",
+      "answers": [
+        "This is a very real concern for many survivors. Our social work team can help you understand your options and resources for maintaining healthcare coverage.",
+        "There are often options available, including COBRA, ACA marketplace plans, and patient assistance programs. We can connect you with experts who can help navigate this.",
+        "Don't let financial fears prevent you from getting needed care. We have resources to help you access affordable follow-up care."
+      ]
+    },
+    {
+      "id": 26,
+      "question": "How can I trust my body again after it 'betrayed' me with cancer?",
+      "answers": [
+        "This feeling of betrayal is very common. Rebuilding trust in your body is a gradual process that happens through positive experiences and self-care.",
+        "Many survivors find that gentle activities like yoga, walking, or massage help rebuild positive connections with their bodies.",
+        "Think of your body not as having betrayed you, but as having fought hard for you during treatment. Now it deserves your kindness and care."
+      ]
+    },
+    {
+      "id": 27,
+      "question": "Will this fear affect my relationships with family and friends?",
+      "answers": [
+        "It can, which is why open communication is important. Letting loved ones know this is a normal part of survivorship helps them understand what you're experiencing.",
+        "Some relationships may deepen through shared vulnerability, while others might struggle. Support groups can provide understanding from people who truly get it.",
+        "Couples or family counseling can help navigate these changes if fear of recurrence is creating tension in your important relationships."
+      ]
+    },
+    {
+      "id": 28,
+      "question": "What's the difference between prudent monitoring and excessive worrying?",
+      "answers": [
+        "Prudent monitoring follows medical guidelines and doesn't significantly interfere with your life. Excessive worrying consumes your thoughts and prevents you from living fully.",
+        "A good question to ask is: 'Is this thought helping keep me safe or just making me miserable?' Useful vigilance leads to appropriate action; excessive worry just causes distress.",
+        "We can work together to find the balance between being responsibly aware and being consumed by fear."
+      ]
+    },
+    {
+      "id": 29,
+      "question": "How do other survivors handle the 'waiting room anxiety' before check-ups?",
+      "answers": [
+        "Many bring support people, practice deep breathing, listen to calming music, or use grounding techniques like naming things they can see, hear, and feel.",
+        "Some survivors find it helpful to arrive exactly on time rather than early, to minimize waiting room time. Others prefer distractions like reading or games on their phone.",
+        "Having a specific coping plan for waiting rooms can make these moments more manageable. What has helped you get through stressful waiting situations in the past?"
+      ]
+    },
+    {
+      "id": 30,
+      "question": "Can meditation or mindfulness really help with fear of recurrence?",
+      "answers": [
+        "Yes, mindfulness practices are evidence-based for managing cancer-related anxiety. They help you relate differently to fearful thoughts rather than being controlled by them.",
+        "Many survivors find that regular mindfulness practice helps them notice fearful thoughts without getting caught up in them, reducing their power over time.",
+        "We have resources for learning mindfulness, including apps, classes, and referrals to therapists who specialize in mindfulness-based approaches."
+      ]
+    },
+    {
+      "id": 31,
+      "question": "What if I develop a different type of cancer?",
+      "answers": [
+        "This fear of second cancers is common. Following healthy lifestyle recommendations and staying current with age-appropriate cancer screenings is your best protection.",
+        "While some cancer treatments slightly increase risk for certain other cancers, the benefits of treatment usually far outweigh these small risks.",
+        "Rather than worrying about all possible cancers, focus on the specific surveillance recommended for your situation and general healthy living."
+      ]
+    },
+    {
+      "id": 32,
+      "question": "How do I answer when people ask 'Are you cancer-free now?'",
+      "answers": [
+        "This is a personal decision. Some people say 'I'm in remission' or 'I'm currently NED (no evidence of disease),' while others prefer simpler answers. There's no right or wrong.",
+        "You might say 'My scans are clear' or 'I'm doing well' if you don't want to get into details. You get to decide how much to share.",
+        "Many survivors find it helpful to have a few prepared responses for these common but complicated questions."
+      ]
+    },
+    {
+      "id": 33,
+      "question": "Will this fear lessen after I pass the 5-year mark?",
+      "answers": [
+        "For many people, yes, but it varies. Some survivors feel a sense of milestone relief, while others find the anxiety shifts rather than disappears.",
+        "The 5-year mark is an arbitrary but meaningful milestone for many. That said, fear of recurrence can persist regardless of statistics.",
+        "Many survivors report that while the fear changes over time, learning to live with uncertainty is an ongoing process regardless of time since treatment."
+      ]
+    },
+    {
+      "id": 34,
+      "question": "How can I support my partner who is also afraid of recurrence?",
+      "answers": [
+        "Open communication about both your fears can actually bring you closer. Consider attending a support group for couples affected by cancer.",
+        "Many partners try to hide their fears to 'protect' the survivor, which can create distance. Creating space for mutual vulnerability can strengthen your relationship.",
+        "Couples counseling with a therapist who understands cancer issues can help you navigate these fears together."
+      ]
+    },
+    {
+      "id": 35,
+      "question": "What if the fear is affecting my work performance?",
+      "answers": [
+        "This is common. Speaking with a therapist who specializes in cancer survivorship can help you develop strategies to manage anxiety at work.",
+        "Some people find it helpful to use breaks for brief mindfulness practices or to create clear boundaries between work and cancer worries.",
+        "If anxiety is significantly impacting your work, it might be time to seek professional support. We can provide referrals to appropriate therapists."
+      ]
+    },
+    {
+      "id": 36,
+      "question": "How do I handle friends who constantly want updates on my health?",
+      "answers": [
+        "It's okay to set boundaries. You might say 'I appreciate your concern, but I'd rather focus on other things when we're together' or give general updates like 'I'm doing well.'",
+        "Some survivors designate one person to share health updates with others, or create group messages for major updates to reduce having the same conversation repeatedly.",
+        "Remember that you get to decide how much to share about your health. Most people asking mean well, but you're not obligated to provide detailed reports."
+      ]
+    },
+    {
+      "id": 37,
+      "question": "Can certain medications help with fear of recurrence?",
+      "answers": [
+        "For some people, anti-anxiety medications can be helpful, particularly around scan times or if anxiety is significantly impacting daily functioning.",
+        "Medication might be considered if fear of recurrence meets criteria for an anxiety disorder. This is something we can evaluate together.",
+        "Sometimes short-term medication can help break the cycle of intense anxiety, allowing you to engage more effectively in therapy and coping strategies."
+      ]
+    },
+    {
+      "id": 38,
+      "question": "How do I know if my fear is normal or if I need professional help?",
+      "answers": [
+        "Consider seeking help if the fear is consuming your thoughts, interfering with daily life, causing sleep problems, or making it hard to follow your medical care.",
+        "A good rule of thumb is if the fear is controlling you rather than you managing it, or if it's preventing you from engaging in meaningful activities.",
+        "When in doubt, it's better to seek support. We have resources specifically for cancer survivors dealing with fear of recurrence."
+      ]
+    },
+    {
+      "id": 39,
+      "question": "What if I become hyper-focused on every cancer story in the media?",
+      "answers": [
+        "This is very common. You might need to limit your exposure to cancer-related media, especially stories with poor outcomes.",
+        "Remember that media often highlights dramatic or tragic stories, which aren't representative of most people's cancer experiences.",
+        "Setting boundaries around cancer-related media consumption can be an important self-care practice during survivorship."
+      ]
+    },
+    {
+      "id": 40,
+      "question": "How can I celebrate being cancer-free without jinxing it?",
+      "answers": [
+        "Many survivors struggle with this superstitious thinking. Remember that celebrating your strength and progress has no power over future medical outcomes.",
+        "This is called 'magical thinking' and it's common after trauma. Acknowledging your milestones is important for healing, regardless of what the future holds.",
+        "Celebrating where you are today doesn't predict or control tomorrow. You deserve to acknowledge how far you've come."
+      ]
+    },
+    {
+      "id": 41,
+      "question": "What role does genetics play in recurrence risk?",
+      "answers": [
+        "For most oral cancers, lifestyle factors like tobacco and alcohol use play a larger role than genetics. However, family history can be one factor in overall risk assessment.",
+        "Unless you have a known genetic syndrome, most oral cancers are considered sporadic rather than inherited. Your oncologist can discuss your specific situation.",
+        "Even with genetic factors, surveillance and healthy behaviors remain your best strategies for managing recurrence risk."
+      ]
+    },
+    {
+      "id": 42,
+      "question": "How do I handle anxiety about recurrence during other health issues?",
+      "answers": [
+        "It's common for any health problem to trigger cancer fears. Remind yourself that most health issues are unrelated to cancer, and use the same coping strategies that help with scan anxiety.",
+        "Having a plan for how you'll evaluate new symptoms - including when to contact your cancer team versus your primary doctor - can reduce this anxiety.",
+        "This is where having a good relationship with both your oncologist and primary care provider is helpful for determining what needs cancer-related evaluation."
+      ]
+    },
+    {
+      "id": 43,
+      "question": "Will joining a support group make me more anxious hearing others' stories?",
+      "answers": [
+        "This is a valid concern. Many people find that hearing others' recurrence stories is initially difficult but ultimately helps them feel less alone and more prepared.",
+        "A good support group facilitator will ensure the focus remains on coping and support rather than just fear. You might try different groups to find the right fit.",
+        "Some people prefer groups specifically for people with their cancer type and stage, as the experiences and fears may be more relevant."
+      ]
+    },
+    {
+      "id": 44,
+      "question": "How can I stop feeling like I'm just waiting for cancer to return?",
+      "answers": [
+        "This is where finding meaning and purpose beyond cancer becomes important. What mattered to you before cancer? What new things might matter now?",
+        "Setting goals unrelated to cancer - whether creative, relational, or professional - can help you rebuild an identity beyond 'cancer survivor.'",
+        "Many survivors find that service to others or advocacy work helps transform their cancer experience into something meaningful rather than just something to fear."
+      ]
+    },
+    {
+      "id": 45,
+      "question": "What if my doctors seem dismissive of my fears?",
+      "answers": [
+        "Your fears are valid and deserve to be taken seriously. If you feel dismissed, it's okay to say 'I know this might not be medically concerning, but it's causing me significant anxiety.'",
+        "Sometimes doctors focus so much on medical facts they forget the emotional impact. Being direct about your emotional distress can help them understand what support you need.",
+        "If you continue to feel unheard, consider seeking a second opinion or asking for a referral to a psycho-oncologist who specializes in these concerns."
+      ]
+    },
+    {
+      "id": 46,
+      "question": "How does fear of recurrence change as I get older?",
+      "answers": [
+        "For many, the fear integrates into their overall perspective on mortality and aging. Some find it becomes less acute, while others experience different concerns.",
+        "As other health issues emerge with aging, cancer fears sometimes become part of a broader health landscape rather than a singular focus.",
+        "Many long-term survivors report that while the fear never completely disappears, it becomes woven into the fabric of their life story rather than dominating it."
+      ]
+    },
+    {
+      "id": 47,
+      "question": "Can writing about my fears help?",
+      "answers": [
+        "Many survivors find journaling helpful for processing fears. Some research suggests expressive writing can improve psychological adjustment after cancer.",
+        "Writing can help you organize chaotic thoughts and identify patterns in your anxiety. It can also help you notice when fears are disproportionate to actual risk.",
+        "You might try writing letters to your fear, or writing down worst-case scenarios and then more balanced, likely scenarios."
+      ]
+    },
+    {
+      "id": 48,
+      "question": "How do I balance being vigilant with not being obsessed?",
+      "answers": [
+        "This is the central challenge of fear of recurrence. Many find that scheduled 'worry time' and scheduled check-ins with their body help contain the vigilance.",
+        "A good balance includes following medical surveillance recommendations while limiting unproductive mental checking and worrying between appointments.",
+        "We can work together to define what constitutes reasonable vigilance for your situation versus anxiety-driven obsession."
+      ]
+    },
+    {
+      "id": 49,
+      "question": "What if I can't afford the recommended follow-up tests?",
+      "answers": [
+        "Please don't avoid follow-up care due to cost concerns. Our financial counselors can help you find resources, payment plans, or assistance programs.",
+        "There are often options available for necessary surveillance. Let us know about financial concerns early so we can help problem-solve.",
+        "Your health is the priority. We have resources to help ensure you get recommended follow-up care regardless of your financial situation."
+      ]
+    },
+    {
+      "id": 50,
+      "question": "How can I help other newly diagnosed patients without triggering my own fears?",
+      "answers": [
+        "Many survivors find meaning in supporting others, but it's important to set boundaries. You might choose specific ways to help that feel empowering rather than triggering.",
+        "Pay attention to what types of support feel good versus what increases your anxiety. It's okay to say no to certain requests if they're too emotionally difficult.",
+        "Some survivors find that advocacy work focused on prevention or funding research feels more forward-looking and less triggering than direct patient support."
+      ]
+    }
+  ]
+}
