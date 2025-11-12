@@ -1,75 +1,107 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dr. Nova – Medical Chatbot</title>
-    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dr. Nova – Medical Chatbot</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
-    <div class="chat-wrapper">
-        <header>💬 Dr. Nova – Medical Chatbot</header>
+  <div class="app-container">
+    <!-- ===== Sidebar ===== -->
+    <aside class="sidebar">
+      <h2>Chat History</h2>
+      <ul id="chat-history">
+        <li id="new-chat">➕ New Chat</li>
+      </ul>
+    </aside>
 
-        <div class="chat-box" id="chat-box"></div>
+    <!-- ===== Chat Area ===== -->
+    <main class="chat-area">
+      <div id="chat-box" class="chat-box">
+        <p class="welcome">👋 Hello! I’m Dr. Nova — your cancer care assistant.</p>
+      </div>
 
-        <div class="input-bar">
-            <input type="text" id="user-input" placeholder="Type your medical question..." autofocus>
-            <button id="send-btn">➤</button>
-        </div>
-    </div>
+      <!-- ===== Input ===== -->
+      <div id="input-container" class="input-container center">
+        <form id="chat-form">
+          <input type="text" id="user-input" placeholder="Send a message..." autocomplete="off" />
+          <button type="submit">➤</button>
+        </form>
+      </div>
+    </main>
+  </div>
 
-    <script>
-        const chatBox = document.getElementById("chat-box");
-        const input = document.getElementById("user-input");
-        const sendBtn = document.getElementById("send-btn");
+  <script>
+    const chatForm = document.getElementById("chat-form");
+    const chatBox = document.getElementById("chat-box");
+    const userInput = document.getElementById("user-input");
+    const inputContainer = document.getElementById("input-container");
+    const chatHistory = document.getElementById("chat-history");
+    const newChat = document.getElementById("new-chat");
 
-        function scrollToBottom() {
-            chatBox.scrollTop = chatBox.scrollHeight;
-        }
-
-        function appendMessage(role, text) {
-            const div = document.createElement("div");
-            div.className = "message " + role;
-            div.textContent = text;
-            chatBox.appendChild(div);
-            scrollToBottom();
-        }
-
-        async function sendMessage() {
-            const message = input.value.trim();
-            if (!message) return;
-
-            appendMessage("user", message);
-            input.value = "";
-
-            try {
-                const res = await fetch("/chat", {  // ✅ Fixed endpoint
-                    method: "POST",
-                    headers: { "Content-Type": "application/json" },
-                    body: JSON.stringify({ message })
-                });
-
-                if (!res.ok) {
-                    appendMessage("bot", "⚠️ Server error. Please try again.");
-                    return;
-                }
-
-                const data = await res.json();
-                if (data.response) {
-                    appendMessage("bot", data.response);
-                } else {
-                    appendMessage("bot", "⚠️ Error: Empty response received.");
-                }
-            } catch (err) {
-                console.error("Error:", err);
-                appendMessage("bot", "⚠️ Connection error. Please check your backend.");
-            }
-        }
-
-        sendBtn.addEventListener("click", sendMessage);
-        input.addEventListener("keydown", e => {
-            if (e.key === "Enter") sendMessage();
+    async function sendMessage(message) {
+      try {
+        const res = await fetch("/chat", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ message }),
         });
-    </script>
+        const data = await res.json();
+        return data.response;
+      } catch (err) {
+        console.error("❌ Fetch error:", err);
+        return "⚠️ Network error. Please try again.";
+      }
+    }
+
+    chatForm.addEventListener("submit", async (e) => {
+      e.preventDefault();
+      const message = userInput.value.trim();
+      if (!message) return;
+
+      // Move input down on first message
+      if (inputContainer.classList.contains("center")) {
+        inputContainer.classList.remove("center");
+        inputContainer.classList.add("bottom");
+        chatBox.style.height = "calc(100% - 90px)";
+      }
+
+      // Add user message
+      const userMsg = document.createElement("div");
+      userMsg.classList.add("message", "user");
+      userMsg.textContent = message;
+      chatBox.appendChild(userMsg);
+      chatBox.scrollTop = chatBox.scrollHeight;
+
+      // Add bot placeholder
+      const botMsg = document.createElement("div");
+      botMsg.classList.add("message", "bot");
+      botMsg.textContent = "Dr. Nova is thinking...";
+      chatBox.appendChild(botMsg);
+      chatBox.scrollTop = chatBox.scrollHeight;
+
+      // Send to backend
+      const reply = await sendMessage(message);
+      botMsg.textContent = reply;
+      chatBox.scrollTop = chatBox.scrollHeight;
+
+      // Add to sidebar history
+      const item = document.createElement("li");
+      item.textContent = message.slice(0, 25) + (message.length > 25 ? "..." : "");
+      chatHistory.appendChild(item);
+
+      userInput.value = "";
+    });
+
+    // New chat reset
+    newChat.addEventListener("click", () => {
+      chatBox.innerHTML = `<p class="welcome">👋 Hello! I’m Dr. Nova — your cancer care assistant.</p>`;
+      inputContainer.classList.remove("bottom");
+      inputContainer.classList.add("center");
+      chatBox.style.height = "70%";
+      userInput.value = "";
+    });
+  </script>
 </body>
 </html>
